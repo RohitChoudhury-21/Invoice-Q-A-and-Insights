@@ -1,0 +1,15 @@
+NAKATOMI TRADING
+Munich | +1-858-583-7828 | billing@nakatomi.example
+Pay by transfer to IBAN DE60 2222 7780. Thank you for your business.
+Subtotal GBP 6,114.44.
+Shipping GBP 40.00.
+Please remit GBP 6,154.44 in GBP.
+Issued Dec 19, 2025; due 18.01.2026 (Net 60).
+Bill to P. Novak, accounts payable. Tax registration VAT833484691.
+Billing ID: INV-79242. Customer account AC3086344. PO PO-53298.
+For the following:
+- 2 x license renewal at GBP 672.09 = GBP 1,344.18
+- 7 x a security audit at GBP 100.19 = GBP 701.33
+- 9 x an annual software license at GBP 208.15 = GBP 1,873.35
+- 1 x spare parts at GBP 510.42 = GBP 510.42
+- 2 x server hardware at GBP 842.58 = GBP 1,685.16

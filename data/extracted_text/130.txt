@@ -1,0 +1,14 @@
+PIED PIPER LLC
+Bengaluru | +1-424-597-5288 | billing@pied.example
+Invoice reference INV-82195 (PO PO-38789). Please quote this on payment.
+For the following:
+- 10 x system installation at GBP 656.48 = GBP 6,564.80
+- 11 x license renewal at GBP 208.74 = GBP 2,296.14
+- 4 x consulting hours at GBP 490.33 = GBP 1,961.32
+- 2 x an annual software license at GBP 208.45 = GBP 416.90
+Pay by transfer to IBAN DE37 5281 7152. Thank you for your business.
+Bill to A. Kapoor, accounts payable. Tax registration VAT376504874.
+Date of issue 21.12.2025, terms Net 15, due Feb 4, 2026.
+Subtotal GBP 11,239.16.
+Tax 18% adds GBP 2,023.05.
+Please remit GBP 13,262.21 in GBP.

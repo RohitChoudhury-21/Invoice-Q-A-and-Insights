@@ -1,0 +1,12 @@
+MASSIVE DYNAMIC
+Toronto | +1-219-981-9890 | billing@massive.example
+Bill to L. Chen, accounts payable. Tax registration VAT342071621.
+Invoice reference INV-55879 (PO PO-12098). Please quote this on payment.
+Subtotal $1,620.83.
+Shipping $25.00.
+Amount Due: $1,645.83.
+Date of issue 20 July 2026, terms due on receipt, due 2026-09-03.
+Pay by transfer to IBAN DE68 3722 5417. Thank you for your business.
+For the following:
+- 1 x server hardware at $327.11 = $327.11
+- 4 x consulting hours at $323.43 = $1,293.72

@@ -1,0 +1,14 @@
+STARK INDUSTRIES LLC
+Rotterdam | +1-834-251-2625 | billing@stark.example
+Pay by transfer to IBAN DE97 5353 2752. Thank you for your business.
+Issued 2026-04-23; due 07 June 2026 (due on receipt).
+Bill to J. Smith, accounts payable. Tax registration VAT685949398.
+This document, no. 7386-INV, against purchase order PO-24779.
+For the following:
+- 11 x freight and shipping at INR 342.57 = INR 3,768.27
+- 8 x onsite training at INR 544.46 = INR 4,355.68
+- 9 x consulting hours at INR 464.17 = INR 4,177.53
+- 3 x a premium support plan at INR 236.36 = INR 709.08
+Subtotal INR 13,010.56.
+Tax 10% adds INR 1,301.06.
+Amount Due: INR 14,311.62.

@@ -1,0 +1,14 @@
+GEKKO AND CO
+Manchester | +1-357-669-2728 | billing@gekko.example
+Subtotal INR 10,546.30.
+Tax 5% adds INR 527.32.
+Please remit INR 11,073.62 in INR.
+Bill to M. Garcia, accounts payable. Tax registration VAT677794918.
+Billing ID: INV-7892. Customer account AC9209940. PO PO-23149.
+Date of issue 18 June 2025, terms Net 30, due Aug 2, 2025.
+For the following:
+- 7 x quarterly maintenance at INR 27.53 = INR 192.71
+- 12 x a security audit at INR 409.15 = INR 4,909.80
+- 12 x spare parts at INR 283.24 = INR 3,398.88
+- 7 x design work at INR 292.13 = INR 2,044.91
+Pay by transfer to IBAN DE25 9784 6219. Thank you for your business.

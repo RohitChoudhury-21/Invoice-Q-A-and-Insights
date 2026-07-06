@@ -1,0 +1,13 @@
+GEKKO AND CO
+Munich | +1-494-728-8570 | billing@gekko.example
+Issued May 21, 2026; due 2026-06-20 (Net 30).
+This document, no. 78579-INV, against purchase order PO-10988.
+Pay by transfer to IBAN DE95 4045 7400. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT893671473.
+For the following:
+- 9 x a data subscription at GBP 516.37 = GBP 4,647.33
+- 12 x consulting hours at GBP 26.15 = GBP 313.80
+- 7 x a premium support plan at GBP 205.37 = GBP 1,437.59
+Subtotal GBP 6,398.72.
+Tax 8% adds GBP 511.90.
+Grand Total: GBP 6,910.62.

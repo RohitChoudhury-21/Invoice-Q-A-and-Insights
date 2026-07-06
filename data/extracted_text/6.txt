@@ -1,0 +1,15 @@
+GLOBEX LLC
+Manchester | +1-685-316-1387 | billing@globex.example
+Subtotal $10,838.54.
+Tax 5% adds $541.93.
+Shipping $40.00.
+Total: $11,420.47.
+Bill to J. Smith, accounts payable. Tax registration VAT435012742.
+Pay by transfer to IBAN DE59 6625 7896. Thank you for your business.
+Date of issue 15 January 2025, terms Net 45, due 01/30/2025.
+For the following:
+- 4 x design work at $252.75 = $1,011.00
+- 10 x freight and shipping at $178.38 = $1,783.80
+- 2 x freight and shipping at $163.21 = $326.42
+- 9 x a data subscription at $857.48 = $7,717.32
+This document, no. 89226-INV, against purchase order PO-48599.

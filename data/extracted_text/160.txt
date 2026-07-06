@@ -1,0 +1,15 @@
+ACME CORP
+Newark, NJ | +1-297-282-5920 | billing@acme.example
+Bill to J. Smith, accounts payable. Tax registration VAT349128467.
+Date of issue 09 April 2025, terms Net 30, due 2025-06-08.
+Subtotal GBP 15,338.35.
+Tax 20% adds GBP 3,067.67.
+Total: GBP 18,406.02.
+This document, no. 20391-INV, against purchase order PO-84409.
+Pay by transfer to IBAN DE58 5877 9929. Thank you for your business.
+For the following:
+- 4 x an annual software license at GBP 831.07 = GBP 3,324.28
+- 5 x a data subscription at GBP 810.36 = GBP 4,051.80
+- 4 x a data subscription at GBP 154.37 = GBP 617.48
+- 3 x spare parts at GBP 230.53 = GBP 691.59
+- 8 x consulting hours at GBP 831.65 = GBP 6,653.20

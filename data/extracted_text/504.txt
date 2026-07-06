@@ -1,0 +1,16 @@
+VANDELAY INDUSTRIES
+Portland, OR | +1-425-996-6180 | billing@vandelay.example
+Subtotal EUR 8.666,87.
+Tax 10% adds EUR 866,69.
+Shipping EUR 12,50.
+Balance Due: EUR 9.546,06.
+Pay by transfer to IBAN DE78 9569 4109. Thank you for your business.
+This document, no. 76802-INV, against purchase order PO-70451.
+Bill to A. Kapoor, accounts payable. Tax registration VAT770009635.
+For the following:
+- 8 x system installation at EUR 183,93 = EUR 1.471,44
+- 5 x license renewal at EUR 600,19 = EUR 3.000,95
+- 11 x system installation at EUR 222,15 = EUR 2.443,65
+- 6 x consulting hours at EUR 95,67 = EUR 574,02
+- 3 x spare parts at EUR 392,27 = EUR 1.176,81
+Date of issue 2025-11-03, terms due on receipt, due Dec 18, 2025.

@@ -1,0 +1,15 @@
+BLUTH COMPANY
+Toronto | +1-737-686-3856 | billing@bluth.example
+Pay by transfer to IBAN DE96 3335 1005. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT998685435.
+Issued 11/04/2026; due 12/04/2026 (Net 60).
+Subtotal $9,417.50.
+Tax 10% adds $941.75.
+Shipping $12.50.
+Grand Total: $10,371.75.
+For the following:
+- 3 x onsite training at $786.02 = $2,358.06
+- 2 x design work at $199.63 = $399.26
+- 5 x server hardware at $507.94 = $2,539.70
+- 8 x license renewal at $515.06 = $4,120.48
+This document, no. 48416-INV, against purchase order PO-60611.

@@ -1,0 +1,12 @@
+GEKKO AND CO
+Toronto | +1-742-589-9922 | billing@gekko.example
+Document 2026/INV/30870, raised under agreement PO-73424.
+Date of issue 2026-01-17, terms due on receipt, due 03/03/2026.
+For the following:
+- 4 x license renewal at GBP 64.57 = GBP 258.28
+- 8 x freight and shipping at GBP 616.48 = GBP 4,931.84
+Pay by transfer to IBAN DE56 1748 5589. Thank you for your business.
+Bill to M. Garcia, accounts payable. Tax registration VAT665497052.
+Subtotal GBP 5,190.12.
+Tax 10% adds GBP 519.01.
+Please remit GBP 5,709.13 in GBP.

@@ -1,0 +1,13 @@
+SOYLENT CORP
+Bengaluru | +1-413-738-1420 | billing@soylent.example
+This document, no. 19138-INV, against purchase order PO-72821.
+Pay by transfer to IBAN DE16 6196 3371. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT655313657.
+For the following:
+- 4 x system installation at $367.58 = $1,470.32
+- 5 x system installation at $326.45 = $1,632.25
+- 7 x system installation at $788.28 = $5,517.96
+- 9 x freight and shipping at $486.95 = $4,382.55
+Subtotal $13,003.08.
+Total: $13,003.08.
+Date of issue 11.03.2025, terms Net 30, due 26 March 2025.

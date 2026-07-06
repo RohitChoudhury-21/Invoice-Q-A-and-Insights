@@ -1,0 +1,12 @@
+ACME CORP
+Rotterdam | +1-990-876-7133 | billing@acme.example
+Date of issue 15 October 2026, terms Net 30, due 2026-10-30.
+Bill to L. Chen, accounts payable. Tax registration VAT545312882.
+Subtotal INR 2,404.41.
+Tax 20% adds INR 480.88.
+Total: INR 2,885.29.
+For the following:
+- 3 x license renewal at INR 736.34 = INR 2,209.02
+- 9 x cloud hosting at INR 21.71 = INR 195.39
+Ref #32592/INV. Account for remittance AC3227895.
+Pay by transfer to IBAN DE53 1774 9295. Thank you for your business.

@@ -1,0 +1,16 @@
+WAYNE ENTERPRISES LTD
+Denver, CO | +1-568-874-2056 | billing@wayne.example
+Ref #74336/INV. Account for remittance AC7048965.
+Pay by transfer to IBAN DE16 8511 1724. Thank you for your business.
+Issued 01/16/2026; due Feb 15, 2026 (Net 30).
+Bill to R. O'Neil, accounts payable. Tax registration VAT466185826.
+Subtotal $12,975.70.
+Tax 10% adds $1,297.57.
+Shipping $12.50.
+Grand Total: $14,285.77.
+For the following:
+- 12 x onsite training at $491.71 = $5,900.52
+- 4 x a data subscription at $98.21 = $392.84
+- 12 x cloud hosting at $52.75 = $633.00
+- 8 x an annual software license at $182.08 = $1,456.64
+- 10 x license renewal at $459.27 = $4,592.70

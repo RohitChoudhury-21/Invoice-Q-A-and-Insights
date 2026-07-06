@@ -1,0 +1,13 @@
+STARK INDUSTRIES LLC
+Manchester | +1-977-632-1893 | billing@stark.example
+Date of issue Jun 1, 2026, terms Net 30, due 01 July 2026.
+Pay by transfer to IBAN DE91 3156 6872. Thank you for your business.
+Invoice reference INV-66272 (PO PO-83778). Please quote this on payment.
+Subtotal GBP 6,413.32.
+Tax 5% adds GBP 320.67.
+Shipping GBP 40.00.
+Please remit GBP 6,773.99 in GBP.
+For the following:
+- 9 x server hardware at GBP 598.39 = GBP 5,385.51
+- 7 x onsite training at GBP 146.83 = GBP 1,027.81
+Bill to P. Novak, accounts payable. Tax registration VAT300227970.

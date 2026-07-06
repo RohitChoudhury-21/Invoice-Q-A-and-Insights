@@ -1,0 +1,15 @@
+CYBERDYNE SYSTEMS
+Manchester | +1-984-586-9225 | billing@cyberdyne.example
+Pay by transfer to IBAN DE46 3547 3527. Thank you for your business.
+Bill to R. O'Neil, accounts payable. Tax registration VAT956707439.
+Invoice reference INV-87063 (PO PO-95511). Please quote this on payment.
+For the following:
+- 11 x a security audit at EUR 699,24 = EUR 7.691,64
+- 4 x cloud hosting at EUR 397,31 = EUR 1.589,24
+- 9 x quarterly maintenance at EUR 121,56 = EUR 1.094,04
+- 5 x an annual software license at EUR 758,18 = EUR 3.790,90
+- 1 x server hardware at EUR 347,87 = EUR 347,87
+Issued Dec 16, 2026; due 2027-01-30 (Net 30).
+Subtotal EUR 14.513,69.
+Tax 20% adds EUR 2.902,74.
+Grand Total: EUR 17.416,43.

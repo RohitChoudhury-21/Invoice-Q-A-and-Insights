@@ -1,0 +1,4 @@
+prompt_version,overall_accuracy,vendor,invoice_number,invoice_date,total_amount,currency,line_items
+v1_plain,0.0,0.65,0.35,0.0,0.75,0.95,0.0
+v2_descriptions,0.0,0.6,0.6,0.0,0.65,0.95,0.0
+v3_example,0.0,0.75,0.45,0.2,0.7,0.85,0.0

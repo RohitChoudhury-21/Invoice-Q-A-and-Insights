@@ -1,0 +1,14 @@
+GLOBEX LLC
+Springfield, IL | +1-909-251-2176 | billing@globex.example
+This document, no. 3133-INV, against purchase order PO-67379.
+Pay by transfer to IBAN DE14 3319 4281. Thank you for your business.
+Issued 22 February 2026; due 08 April 2026 (Net 15).
+For the following:
+- 3 x consulting hours at $685.00 = $2,055.00
+- 2 x onsite training at $490.45 = $980.90
+- 3 x cloud hosting at $464.57 = $1,393.71
+- 2 x system installation at $497.22 = $994.44
+Bill to L. Chen, accounts payable. Tax registration VAT787333325.
+Subtotal $5,424.05.
+Tax 10% adds $542.40.
+Please remit $5,966.45 in USD.

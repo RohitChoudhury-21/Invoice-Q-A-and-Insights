@@ -1,0 +1,12 @@
+CYBERDYNE SYSTEMS
+Springfield, IL | +1-324-336-2934 | billing@cyberdyne.example
+Bill to L. Chen, accounts payable. Tax registration VAT319431297.
+Billing ID: INV-7923. Customer account AC2156605. PO PO-53280.
+Date of issue 08.08.2026, terms Net 30, due 10/07/2026.
+Subtotal EUR 10.310,04.
+Tax 5% adds EUR 515,50.
+Please remit EUR 10.825,54 in EUR.
+For the following:
+- 6 x an annual software license at EUR 646,68 = EUR 3.880,08
+- 12 x a data subscription at EUR 535,83 = EUR 6.429,96
+Pay by transfer to IBAN DE81 6383 3301. Thank you for your business.

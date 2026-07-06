@@ -1,0 +1,15 @@
+HOOLI INC
+Fresno, CA | +1-706-334-8321 | billing@hooli.example
+Subtotal GBP 24,164.92.
+Tax 10% adds GBP 2,416.49.
+Please remit GBP 26,581.41 in GBP.
+This document, no. 95808-INV, against purchase order PO-48556.
+Date of issue 14 May 2026, terms due on receipt, due 13 July 2026.
+Bill to J. Smith, accounts payable. Tax registration VAT255659616.
+For the following:
+- 8 x spare parts at GBP 340.99 = GBP 2,727.92
+- 12 x design work at GBP 380.22 = GBP 4,562.64
+- 3 x freight and shipping at GBP 635.01 = GBP 1,905.03
+- 11 x freight and shipping at GBP 810.19 = GBP 8,912.09
+- 7 x quarterly maintenance at GBP 865.32 = GBP 6,057.24
+Pay by transfer to IBAN DE92 8771 3477. Thank you for your business.

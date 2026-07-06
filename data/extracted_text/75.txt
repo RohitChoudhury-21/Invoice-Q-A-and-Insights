@@ -1,0 +1,13 @@
+APERTURE LABS
+Denver, CO | +1-255-287-2758 | billing@aperture.example
+Subtotal GBP 8,445.25.
+Tax 8% adds GBP 675.62.
+Shipping GBP 12.50.
+Please remit GBP 9,133.37 in GBP.
+Billing ID: INV-28096. Customer account AC8421565. PO PO-79889.
+Issued 11/01/2025; due 16.12.2025 (Net 45).
+Bill to L. Chen, accounts payable. Tax registration VAT204473095.
+Pay by transfer to IBAN DE78 7349 3249. Thank you for your business.
+For the following:
+- 7 x a data subscription at GBP 351.31 = GBP 2,459.17
+- 9 x spare parts at GBP 665.12 = GBP 5,986.08

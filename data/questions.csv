@@ -1,0 +1,16 @@
+question,expected_phrase,answerable
+"What is the total amount on invoice INV-24990?",13082.48,yes
+"What vendor is on invoice INV-26830?",BLACK MESA SUPPLIES,yes
+"What items are on invoice INV-58592?",design work,yes
+"How many line items are on invoice INV-16257?",4,yes
+"What is the invoice date of INV-58915?",5 March 2025,yes
+"What currency is used in INV-18028?",EUR,yes
+"What is the tax percentage on INV-64405?",8%,yes
+"Which vendor is on invoice INV-36422?",WONKA INDUSTRIES,yes
+"What is the shipping cost on INV-23033?",12.50,yes
+"What are the line items on INV-10825?",system installation,yes
+"What is the CEO of Massive Dynamic?","",no
+"How many employees does Initech have?","",no
+"What is the VAT rate for Germany?","",no
+"Who is the auditor of Nakatomi Trading?","",no
+"When was the company Globex founded?","",no

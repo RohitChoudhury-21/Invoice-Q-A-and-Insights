@@ -1,0 +1,15 @@
+BLACK MESA SUPPLIES
+Dublin | +1-215-532-6540 | billing@black.example
+Subtotal GBP 18,796.05.
+Tax 5% adds GBP 939.80.
+Please remit GBP 19,735.85 in GBP.
+For the following:
+- 8 x a premium support plan at GBP 804.34 = GBP 6,434.72
+- 9 x a security audit at GBP 408.08 = GBP 3,672.72
+- 8 x a security audit at GBP 834.07 = GBP 6,672.56
+- 11 x license renewal at GBP 143.18 = GBP 1,574.98
+- 7 x server hardware at GBP 63.01 = GBP 441.07
+Bill to P. Novak, accounts payable. Tax registration VAT431596649.
+Pay by transfer to IBAN DE85 1814 4417. Thank you for your business.
+Invoice reference INV-71740 (PO PO-43528). Please quote this on payment.
+Date of issue 2026-05-01, terms Net 45, due 05/16/2026.

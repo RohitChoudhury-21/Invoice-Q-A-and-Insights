@@ -1,0 +1,15 @@
+OSCORP INDUSTRIES
+Newark, NJ | +1-201-648-9355 | billing@oscorp.example
+Date of issue 04/04/2026, terms Net 30, due 05/19/2026.
+Bill to M. Garcia, accounts payable. Tax registration VAT799314060.
+Billing ID: INV-27595. Customer account AC4801715. PO PO-32829.
+Pay by transfer to IBAN DE76 4667 6482. Thank you for your business.
+Subtotal $17,152.82.
+Tax 8% adds $1,372.23.
+Please remit $18,525.05 in USD.
+For the following:
+- 8 x cloud hosting at $102.37 = $818.96
+- 9 x a premium support plan at $315.78 = $2,842.02
+- 9 x spare parts at $613.92 = $5,525.28
+- 7 x an annual software license at $711.57 = $4,980.99
+- 9 x consulting hours at $331.73 = $2,985.57

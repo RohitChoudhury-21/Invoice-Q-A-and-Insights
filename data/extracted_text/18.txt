@@ -1,0 +1,15 @@
+HOOLI INC
+Rotterdam | +1-772-204-4110 | billing@hooli.example
+Document 2026/INV/97587, raised under agreement PO-46395.
+Date of issue 10/27/2025, terms due on receipt, due 11/11/2025.
+For the following:
+- 4 x cloud hosting at $874.52 = $3,498.08
+- 7 x onsite training at $366.56 = $2,565.92
+- 8 x quarterly maintenance at $126.80 = $1,014.40
+- 4 x spare parts at $120.48 = $481.92
+- 9 x server hardware at $376.28 = $3,386.52
+Subtotal $10,946.84.
+Tax 18% adds $1,970.43.
+Amount Due: $12,917.27.
+Pay by transfer to IBAN DE66 1344 1504. Thank you for your business.
+Bill to P. Novak, accounts payable. Tax registration VAT667325620.

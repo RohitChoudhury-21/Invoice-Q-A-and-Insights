@@ -1,0 +1,12 @@
+MASSIVE DYNAMIC
+Denver, CO | +1-910-602-2897 | billing@massive.example
+Pay by transfer to IBAN DE51 1936 5220. Thank you for your business.
+Invoice reference INV-42850 (PO PO-28811). Please quote this on payment.
+For the following:
+- 2 x quarterly maintenance at INR 132.96 = INR 265.92
+- 6 x server hardware at INR 783.26 = INR 4,699.56
+Bill to R. O'Neil, accounts payable. Tax registration VAT566245786.
+Date of issue 2025-10-01, terms Net 45, due 31.10.2025.
+Subtotal INR 4,965.48.
+Tax 20% adds INR 993.10.
+Grand Total: INR 5,958.58.

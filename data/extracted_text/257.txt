@@ -1,0 +1,15 @@
+GLOBEX LLC
+Portland, OR | +1-926-867-8551 | billing@globex.example
+Issued 2026-07-03; due 17 August 2026 (Net 60).
+Pay by transfer to IBAN DE11 9989 1140. Thank you for your business.
+Ref #73386/INV. Account for remittance AC1548510.
+Subtotal $7,152.17.
+Tax 20% adds $1,430.43.
+Shipping $12.50.
+Grand Total: $8,595.10.
+Bill to J. Smith, accounts payable. Tax registration VAT169810836.
+For the following:
+- 10 x spare parts at $370.37 = $3,703.70
+- 11 x license renewal at $253.24 = $2,785.64
+- 4 x quarterly maintenance at $26.58 = $106.32
+- 1 x license renewal at $556.51 = $556.51

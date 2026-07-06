@@ -1,0 +1,13 @@
+INITECH INC
+Bengaluru | +1-383-461-1738 | billing@initech.example
+Issued 01/23/2025; due 02/22/2025 (Net 15).
+Pay by transfer to IBAN DE28 1225 1968. Thank you for your business.
+For the following:
+- 4 x consulting hours at INR 108.44 = INR 433.76
+- 8 x consulting hours at INR 743.53 = INR 5,948.24
+- 11 x consulting hours at INR 173.07 = INR 1,903.77
+- 11 x freight and shipping at INR 753.67 = INR 8,290.37
+Bill to R. O'Neil, accounts payable. Tax registration VAT985580011.
+Subtotal INR 16,576.14.
+Grand Total: INR 16,576.14.
+Document 2026/INV/94775, raised under agreement PO-63453.

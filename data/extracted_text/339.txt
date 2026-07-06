@@ -1,0 +1,15 @@
+GLOBEX LLC
+Bengaluru | +1-922-404-3314 | billing@globex.example
+This document, no. 24984-INV, against purchase order PO-37848.
+For the following:
+- 8 x a security audit at INR 335.13 = INR 2,681.04
+- 8 x system installation at INR 225.72 = INR 1,805.76
+- 3 x an annual software license at INR 586.55 = INR 1,759.65
+- 8 x a premium support plan at INR 180.07 = INR 1,440.56
+- 2 x a data subscription at INR 56.71 = INR 113.42
+Subtotal INR 7,800.43.
+Tax 10% adds INR 780.04.
+Total: INR 8,580.47.
+Issued 21.07.2026; due Aug 20, 2026 (Net 30).
+Pay by transfer to IBAN DE59 2225 3424. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT709474800.

@@ -1,0 +1,12 @@
+INITECH INC
+Fresno, CA | +1-307-656-9564 | billing@initech.example
+For the following:
+- 4 x design work at INR 624.92 = INR 2,499.68
+- 1 x freight and shipping at INR 654.38 = INR 654.38
+- 1 x system installation at INR 251.27 = INR 251.27
+Bill to J. Smith, accounts payable. Tax registration VAT862353812.
+Subtotal INR 3,405.33.
+Balance Due: INR 3,405.33.
+Pay by transfer to IBAN DE93 8911 5597. Thank you for your business.
+Billing ID: INV-51283. Customer account AC2848009. PO PO-23879.
+Date of issue 15.09.2025, terms due on receipt, due 15.10.2025.

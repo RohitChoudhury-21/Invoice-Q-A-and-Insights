@@ -1,0 +1,14 @@
+ACME CORP
+Munich | +1-681-680-1618 | billing@acme.example
+This document, no. 9819-INV, against purchase order PO-40718.
+Date of issue 04/17/2025, terms due on receipt, due Jun 1, 2025.
+Subtotal INR 10,550.11.
+Tax 5% adds INR 527.51.
+Balance Due: INR 11,077.62.
+For the following:
+- 11 x design work at INR 515.82 = INR 5,674.02
+- 8 x quarterly maintenance at INR 509.70 = INR 4,077.60
+- 1 x cloud hosting at INR 351.61 = INR 351.61
+- 7 x consulting hours at INR 63.84 = INR 446.88
+Bill to M. Garcia, accounts payable. Tax registration VAT923609830.
+Pay by transfer to IBAN DE80 4131 2930. Thank you for your business.

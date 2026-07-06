@@ -1,0 +1,15 @@
+OSCORP INDUSTRIES
+Munich | +1-310-878-5216 | billing@oscorp.example
+Subtotal INR 10,170.24.
+Tax 20% adds INR 2,034.05.
+Shipping INR 12.50.
+Please remit INR 12,216.79 in INR.
+Bill to M. Garcia, accounts payable. Tax registration VAT418517180.
+This document, no. 57602-INV, against purchase order PO-35932.
+Pay by transfer to IBAN DE13 9965 6832. Thank you for your business.
+Issued 08 October 2025; due 23 October 2025 (Net 30).
+For the following:
+- 10 x spare parts at INR 612.05 = INR 6,120.50
+- 1 x quarterly maintenance at INR 167.65 = INR 167.65
+- 3 x system installation at INR 601.03 = INR 1,803.09
+- 10 x system installation at INR 207.90 = INR 2,079.00

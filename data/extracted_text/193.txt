@@ -1,0 +1,16 @@
+UMBRELLA CORPORATION INC
+Munich | +1-475-960-6073 | billing@umbrella.example
+Subtotal GBP 17,943.53.
+Tax 5% adds GBP 897.18.
+Shipping GBP 12.50.
+Please remit GBP 18,853.21 in GBP.
+Pay by transfer to IBAN DE37 7996 4277. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT970553815.
+Date of issue 28.04.2026, terms Net 15, due 28 May 2026.
+For the following:
+- 6 x a security audit at GBP 340.50 = GBP 2,043.00
+- 1 x an annual software license at GBP 636.96 = GBP 636.96
+- 7 x onsite training at GBP 485.65 = GBP 3,399.55
+- 11 x system installation at GBP 736.02 = GBP 8,096.22
+- 10 x system installation at GBP 376.78 = GBP 3,767.80
+This document, no. 30531-INV, against purchase order PO-20765.

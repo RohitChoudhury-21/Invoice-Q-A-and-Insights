@@ -1,0 +1,12 @@
+BLUTH COMPANY
+Rotterdam | +1-233-941-5124 | billing@bluth.example
+Subtotal EUR 10.429,92.
+Tax 18% adds EUR 1.877,39.
+Please remit EUR 12.307,31 in EUR.
+Pay by transfer to IBAN DE34 6337 6733. Thank you for your business.
+For the following:
+- 12 x server hardware at EUR 659,60 = EUR 7.915,20
+- 12 x freight and shipping at EUR 209,56 = EUR 2.514,72
+Billing ID: INV-27244. Customer account AC8094145. PO PO-79102.
+Date of issue 02.02.2025, terms Net 30, due 2025-03-04.
+Bill to M. Garcia, accounts payable. Tax registration VAT921373081.

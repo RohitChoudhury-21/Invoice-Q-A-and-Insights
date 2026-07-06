@@ -1,0 +1,13 @@
+UMBRELLA CORPORATION INC
+Bengaluru | +1-411-483-8023 | billing@umbrella.example
+Issued Sep 7, 2026; due 11/06/2026 (Net 30).
+Pay by transfer to IBAN DE11 1052 8815. Thank you for your business.
+Subtotal GBP 12,777.50.
+Tax 18% adds GBP 2,299.95.
+Shipping GBP 12.50.
+Total: GBP 15,089.95.
+Invoice reference INV-61436 (PO PO-46700). Please quote this on payment.
+Bill to M. Garcia, accounts payable. Tax registration VAT476788478.
+For the following:
+- 12 x license renewal at GBP 775.95 = GBP 9,311.40
+- 5 x design work at GBP 693.22 = GBP 3,466.10

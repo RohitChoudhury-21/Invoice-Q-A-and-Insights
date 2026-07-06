@@ -1,0 +1,15 @@
+GLOBEX LLC
+Newark, NJ | +1-349-410-8628 | billing@globex.example
+Pay by transfer to IBAN DE44 2881 2437. Thank you for your business.
+Bill to A. Kapoor, accounts payable. Tax registration VAT141747584.
+Subtotal EUR 12.531,73.
+Tax 10% adds EUR 1.253,17.
+Amount Due: EUR 13.784,90.
+Invoice reference INV-52468 (PO PO-48371). Please quote this on payment.
+Date of issue 17.03.2025, terms Net 60, due 01.04.2025.
+For the following:
+- 9 x cloud hosting at EUR 186,00 = EUR 1.674,00
+- 6 x cloud hosting at EUR 630,62 = EUR 3.783,72
+- 3 x spare parts at EUR 832,72 = EUR 2.498,16
+- 5 x a security audit at EUR 221,63 = EUR 1.108,15
+- 10 x spare parts at EUR 346,77 = EUR 3.467,70

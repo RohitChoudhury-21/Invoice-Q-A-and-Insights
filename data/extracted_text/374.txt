@@ -1,0 +1,13 @@
+WONKA INDUSTRIES
+Austin, TX | +1-893-583-5668 | billing@wonka.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT427501699.
+Subtotal $1,700.82.
+Tax 8% adds $136.07.
+Total: $1,836.89.
+Issued 25 September 2026; due 2026-10-10 (Net 15).
+For the following:
+- 1 x spare parts at $764.04 = $764.04
+- 3 x license renewal at $162.06 = $486.18
+- 2 x license renewal at $225.30 = $450.60
+Pay by transfer to IBAN DE16 4526 8722. Thank you for your business.
+Invoice reference INV-22372 (PO PO-37271). Please quote this on payment.

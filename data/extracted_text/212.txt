@@ -1,0 +1,13 @@
+CYBERDYNE SYSTEMS
+Dublin | +1-998-676-2951 | billing@cyberdyne.example
+Document 2026/INV/87822, raised under agreement PO-76064.
+Issued 2025-09-18; due 18.10.2025 (Net 30).
+Subtotal EUR 6.147,53.
+Shipping EUR 40,00.
+Total: EUR 6.187,53.
+Pay by transfer to IBAN DE92 1792 7340. Thank you for your business.
+For the following:
+- 7 x system installation at EUR 533,04 = EUR 3.731,28
+- 4 x design work at EUR 393,27 = EUR 1.573,08
+- 1 x a security audit at EUR 843,17 = EUR 843,17
+Bill to A. Kapoor, accounts payable. Tax registration VAT708825169.

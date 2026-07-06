@@ -1,0 +1,14 @@
+ACME CORP
+Newark, NJ | +1-618-993-7734 | billing@acme.example
+Billing ID: INV-97875. Customer account AC8132339. PO PO-38201.
+Subtotal EUR 2.764,24.
+Tax 8% adds EUR 221,14.
+Shipping EUR 12,50.
+Amount Due: EUR 2.997,88.
+Bill to A. Kapoor, accounts payable. Tax registration VAT224533507.
+For the following:
+- 11 x system installation at EUR 19,46 = EUR 214,06
+- 6 x a premium support plan at EUR 135,33 = EUR 811,98
+- 2 x quarterly maintenance at EUR 869,10 = EUR 1.738,20
+Pay by transfer to IBAN DE56 5061 2982. Thank you for your business.
+Issued Dec 27, 2026; due 25.02.2027 (due on receipt).

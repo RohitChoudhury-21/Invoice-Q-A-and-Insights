@@ -1,0 +1,14 @@
+UMBRELLA CORPORATION INC
+Manchester | +1-776-285-1557 | billing@umbrella.example
+Pay by transfer to IBAN DE12 5567 1596. Thank you for your business.
+This document, no. 38586-INV, against purchase order PO-71872.
+For the following:
+- 4 x server hardware at GBP 274.84 = GBP 1,099.36
+- 3 x cloud hosting at GBP 418.11 = GBP 1,254.33
+- 11 x quarterly maintenance at GBP 735.06 = GBP 8,085.66
+Subtotal GBP 10,439.35.
+Tax 20% adds GBP 2,087.87.
+Shipping GBP 40.00.
+Please remit GBP 12,567.22 in GBP.
+Date of issue 03.10.2025, terms Net 60, due 17 November 2025.
+Bill to M. Garcia, accounts payable. Tax registration VAT163572392.

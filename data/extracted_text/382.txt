@@ -1,0 +1,12 @@
+WONKA INDUSTRIES
+Portland, OR | +1-231-982-3237 | billing@wonka.example
+Invoice reference INV-1057 (PO PO-64927). Please quote this on payment.
+Bill to J. Smith, accounts payable. Tax registration VAT730117175.
+Pay by transfer to IBAN DE20 4373 4269. Thank you for your business.
+Issued 05.02.2025; due Feb 20, 2025 (Net 30).
+For the following:
+- 1 x a data subscription at INR 558.48 = INR 558.48
+- 8 x a security audit at INR 447.48 = INR 3,579.84
+Subtotal INR 4,138.32.
+Tax 8% adds INR 331.07.
+Please remit INR 4,469.39 in INR.

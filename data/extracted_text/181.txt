@@ -1,0 +1,11 @@
+OSCORP INDUSTRIES
+Toronto | +1-485-974-8756 | billing@oscorp.example
+Subtotal $2,208.05.
+Amount Due: $2,208.05.
+Pay by transfer to IBAN DE56 4061 4818. Thank you for your business.
+This document, no. 4694-INV, against purchase order PO-70250.
+Date of issue 25 June 2026, terms Net 30, due 25.07.2026.
+For the following:
+- 1 x a security audit at $324.68 = $324.68
+- 3 x server hardware at $627.79 = $1,883.37
+Bill to A. Kapoor, accounts payable. Tax registration VAT844845580.

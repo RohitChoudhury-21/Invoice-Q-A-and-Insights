@@ -1,0 +1,13 @@
+OSCORP INDUSTRIES
+Bengaluru | +1-500-329-4387 | billing@oscorp.example
+Subtotal $4,773.55.
+Total: $4,773.55.
+Pay by transfer to IBAN DE79 1520 6178. Thank you for your business.
+Issued 11/01/2025; due 12/16/2025 (Net 60).
+For the following:
+- 8 x license renewal at $429.92 = $3,439.36
+- 3 x design work at $104.33 = $312.99
+- 6 x a data subscription at $83.24 = $499.44
+- 3 x an annual software license at $173.92 = $521.76
+Document 2026/INV/10295, raised under agreement PO-50058.
+Bill to R. O'Neil, accounts payable. Tax registration VAT252128435.

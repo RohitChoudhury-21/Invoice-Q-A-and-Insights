@@ -1,0 +1,16 @@
+VANDELAY INDUSTRIES
+Manchester | +1-817-935-4533 | billing@vandelay.example
+Invoice reference INV-43785 (PO PO-20528). Please quote this on payment.
+Pay by transfer to IBAN DE44 7448 3024. Thank you for your business.
+For the following:
+- 3 x an annual software license at EUR 241,73 = EUR 725,19
+- 4 x system installation at EUR 631,13 = EUR 2.524,52
+- 4 x a data subscription at EUR 52,61 = EUR 210,44
+- 6 x license renewal at EUR 437,82 = EUR 2.626,92
+- 7 x a premium support plan at EUR 210,88 = EUR 1.476,16
+Date of issue 05/15/2025, terms Net 30, due 06/14/2025.
+Subtotal EUR 7.563,23.
+Tax 20% adds EUR 1.512,65.
+Shipping EUR 40,00.
+Please remit EUR 9.115,88 in EUR.
+Bill to R. O'Neil, accounts payable. Tax registration VAT633519474.

@@ -1,0 +1,16 @@
+OSCORP INDUSTRIES
+Springfield, IL | +1-623-927-3394 | billing@oscorp.example
+Subtotal $8,789.60.
+Tax 10% adds $878.96.
+Shipping $12.50.
+Balance Due: $9,681.06.
+Pay by transfer to IBAN DE30 5867 1650. Thank you for your business.
+Bill to P. Novak, accounts payable. Tax registration VAT601421748.
+Date of issue 2026-07-07, terms Net 60, due 22 July 2026.
+This document, no. 18135-INV, against purchase order PO-47206.
+For the following:
+- 4 x cloud hosting at $372.76 = $1,491.04
+- 7 x freight and shipping at $37.75 = $264.25
+- 1 x quarterly maintenance at $701.97 = $701.97
+- 12 x design work at $385.32 = $4,623.84
+- 10 x a premium support plan at $170.85 = $1,708.50

@@ -1,0 +1,13 @@
+GLOBEX LLC
+Dublin | +1-696-837-3304 | billing@globex.example
+Invoice reference INV-91462 (PO PO-27412). Please quote this on payment.
+Pay by transfer to IBAN DE25 6153 9071. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT317002481.
+Issued Jun 24, 2026; due Aug 8, 2026 (Net 15).
+For the following:
+- 12 x quarterly maintenance at $215.37 = $2,584.44
+- 1 x consulting hours at $362.41 = $362.41
+- 5 x consulting hours at $503.78 = $2,518.90
+Subtotal $5,465.75.
+Tax 5% adds $273.29.
+Grand Total: $5,739.04.

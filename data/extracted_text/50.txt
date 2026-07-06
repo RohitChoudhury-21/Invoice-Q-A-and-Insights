@@ -1,0 +1,15 @@
+WAYNE ENTERPRISES LTD
+Newark, NJ | +1-461-458-6723 | billing@wayne.example
+Bill to J. Smith, accounts payable. Tax registration VAT512598600.
+Ref #78983/INV. Account for remittance AC6639066.
+Pay by transfer to IBAN DE45 8663 1220. Thank you for your business.
+For the following:
+- 9 x cloud hosting at EUR 163,34 = EUR 1.470,06
+- 12 x a premium support plan at EUR 359,34 = EUR 4.312,08
+- 8 x onsite training at EUR 737,97 = EUR 5.903,76
+- 3 x freight and shipping at EUR 244,62 = EUR 733,86
+- 3 x spare parts at EUR 705,80 = EUR 2.117,40
+Issued Sep 21, 2026; due 11/20/2026 (Net 30).
+Subtotal EUR 14.537,16.
+Shipping EUR 40,00.
+Grand Total: EUR 14.577,16.

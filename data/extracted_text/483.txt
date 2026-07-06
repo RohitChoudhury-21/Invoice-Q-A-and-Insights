@@ -1,0 +1,13 @@
+ACME CORP
+Bengaluru | +1-959-779-4136 | billing@acme.example
+Bill to M. Garcia, accounts payable. Tax registration VAT826581984.
+Pay by transfer to IBAN DE19 6642 7656. Thank you for your business.
+Subtotal $14,596.64.
+Grand Total: $14,596.64.
+Billing ID: INV-9521. Customer account AC5288012. PO PO-12858.
+Issued 18.08.2025; due 17 October 2025 (Net 30).
+For the following:
+- 10 x an annual software license at $696.90 = $6,969.00
+- 1 x a security audit at $23.58 = $23.58
+- 10 x a security audit at $589.18 = $5,891.80
+- 2 x server hardware at $856.13 = $1,712.26

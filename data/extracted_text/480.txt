@@ -1,0 +1,14 @@
+APERTURE LABS
+Springfield, IL | +1-726-792-8239 | billing@aperture.example
+Subtotal GBP 22,758.91.
+Grand Total: GBP 22,758.91.
+Bill to L. Chen, accounts payable. Tax registration VAT892336447.
+Date of issue 22 September 2025, terms Net 30, due 2025-11-06.
+Ref #11010/INV. Account for remittance AC3137345.
+For the following:
+- 2 x a data subscription at GBP 887.24 = GBP 1,774.48
+- 6 x onsite training at GBP 424.17 = GBP 2,545.02
+- 11 x server hardware at GBP 380.11 = GBP 4,181.21
+- 11 x onsite training at GBP 588.00 = GBP 6,468.00
+- 11 x a security audit at GBP 708.20 = GBP 7,790.20
+Pay by transfer to IBAN DE89 1417 4396. Thank you for your business.

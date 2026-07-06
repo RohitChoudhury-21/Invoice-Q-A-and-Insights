@@ -1,0 +1,14 @@
+VANDELAY INDUSTRIES
+Toronto | +1-257-580-1480 | billing@vandelay.example
+Subtotal EUR 12.675,04.
+Tax 10% adds EUR 1.267,50.
+Shipping EUR 40,00.
+Total: EUR 13.982,54.
+Invoice reference INV-9012 (PO PO-29525). Please quote this on payment.
+For the following:
+- 10 x a security audit at EUR 709,14 = EUR 7.091,40
+- 4 x an annual software license at EUR 206,11 = EUR 824,44
+- 9 x an annual software license at EUR 528,80 = EUR 4.759,20
+Bill to A. Kapoor, accounts payable. Tax registration VAT891756118.
+Pay by transfer to IBAN DE97 9130 8405. Thank you for your business.
+Issued 01.05.2025; due 06/30/2025 (Net 45).

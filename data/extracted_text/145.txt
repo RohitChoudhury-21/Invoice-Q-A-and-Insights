@@ -1,0 +1,11 @@
+NAKATOMI TRADING
+Manchester | +1-676-913-9346 | billing@nakatomi.example
+Invoice reference INV-39619 (PO PO-38159). Please quote this on payment.
+Bill to A. Kapoor, accounts payable. Tax registration VAT325937302.
+Pay by transfer to IBAN DE99 8583 7168. Thank you for your business.
+For the following:
+- 4 x consulting hours at $123.91 = $495.64
+- 4 x server hardware at $430.27 = $1,721.08
+Subtotal $2,216.72.
+Please remit $2,216.72 in USD.
+Issued 2025-12-04; due Feb 2, 2026 (Net 45).

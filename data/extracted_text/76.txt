@@ -1,0 +1,13 @@
+NAKATOMI TRADING
+Fresno, CA | +1-240-981-1440 | billing@nakatomi.example
+Pay by transfer to IBAN DE93 1014 8390. Thank you for your business.
+Invoice reference INV-50667 (PO PO-99868). Please quote this on payment.
+Bill to P. Novak, accounts payable. Tax registration VAT641189264.
+Issued 07/11/2025; due 07/26/2025 (Net 60).
+For the following:
+- 3 x quarterly maintenance at INR 737.69 = INR 2,213.07
+- 7 x server hardware at INR 784.92 = INR 5,494.44
+Subtotal INR 7,707.51.
+Tax 18% adds INR 1,387.35.
+Shipping INR 12.50.
+Please remit INR 9,107.36 in INR.

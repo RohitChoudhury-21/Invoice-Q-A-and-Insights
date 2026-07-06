@@ -1,0 +1,15 @@
+WAYNE ENTERPRISES LTD
+Springfield, IL | +1-833-515-8298 | billing@wayne.example
+Date of issue May 18, 2026, terms Net 60, due Jun 2, 2026.
+Bill to R. O'Neil, accounts payable. Tax registration VAT832734654.
+Ref #32533/INV. Account for remittance AC9512002.
+Subtotal EUR 6.932,23.
+Tax 5% adds EUR 346,61.
+Shipping EUR 25,00.
+Amount Due: EUR 7.303,84.
+Pay by transfer to IBAN DE26 3552 2218. Thank you for your business.
+For the following:
+- 9 x system installation at EUR 254,78 = EUR 2.293,02
+- 5 x cloud hosting at EUR 433,81 = EUR 2.169,05
+- 12 x onsite training at EUR 106,82 = EUR 1.281,84
+- 2 x system installation at EUR 594,16 = EUR 1.188,32

@@ -1,0 +1,14 @@
+STARK INDUSTRIES LLC
+Austin, TX | +1-665-424-5528 | billing@stark.example
+Bill to J. Smith, accounts payable. Tax registration VAT779811389.
+Date of issue Jul 19, 2025, terms Net 30, due 09/02/2025.
+Subtotal EUR 16.189,71.
+Tax 8% adds EUR 1.295,18.
+Please remit EUR 17.484,89 in EUR.
+Pay by transfer to IBAN DE11 9340 6219. Thank you for your business.
+This document, no. 11092-INV, against purchase order PO-64064.
+For the following:
+- 2 x a premium support plan at EUR 653,46 = EUR 1.306,92
+- 4 x spare parts at EUR 98,23 = EUR 392,92
+- 5 x onsite training at EUR 897,55 = EUR 4.487,75
+- 12 x onsite training at EUR 833,51 = EUR 10.002,12

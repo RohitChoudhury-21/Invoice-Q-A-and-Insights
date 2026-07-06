@@ -1,0 +1,13 @@
+NAKATOMI TRADING
+Newark, NJ | +1-201-336-1810 | billing@nakatomi.example
+Pay by transfer to IBAN DE79 1968 3775. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT688835688.
+Date of issue 06.09.2026, terms Net 30, due 10/21/2026.
+Document 2026/INV/10825, raised under agreement PO-27601.
+For the following:
+- 10 x system installation at GBP 414.58 = GBP 4,145.80
+- 12 x a data subscription at GBP 128.07 = GBP 1,536.84
+- 5 x spare parts at GBP 132.92 = GBP 664.60
+Subtotal GBP 6,347.24.
+Tax 18% adds GBP 1,142.50.
+Please remit GBP 7,489.74 in GBP.

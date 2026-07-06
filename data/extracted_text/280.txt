@@ -1,0 +1,14 @@
+MASSIVE DYNAMIC
+Manchester | +1-740-783-2203 | billing@massive.example
+Subtotal $12,017.15.
+Please remit $12,017.15 in USD.
+For the following:
+- 9 x a security audit at $494.63 = $4,451.67
+- 5 x design work at $683.92 = $3,419.60
+- 6 x quarterly maintenance at $339.81 = $2,038.86
+- 3 x cloud hosting at $560.06 = $1,680.18
+- 4 x server hardware at $106.71 = $426.84
+Billing ID: INV-32532. Customer account AC1358059. PO PO-93233.
+Bill to J. Smith, accounts payable. Tax registration VAT299358804.
+Date of issue 2025-10-23, terms Net 15, due 2025-12-07.
+Pay by transfer to IBAN DE55 9639 3839. Thank you for your business.

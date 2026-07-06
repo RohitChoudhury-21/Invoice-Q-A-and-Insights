@@ -1,0 +1,13 @@
+OSCORP INDUSTRIES
+Springfield, IL | +1-354-301-1651 | billing@oscorp.example
+Ref #36598/INV. Account for remittance AC7754112.
+Pay by transfer to IBAN DE85 8046 8780. Thank you for your business.
+Issued 10 April 2025; due 09.06.2025 (Net 45).
+For the following:
+- 9 x spare parts at $35.25 = $317.25
+- 5 x system installation at $183.78 = $918.90
+- 12 x an annual software license at $487.22 = $5,846.64
+- 4 x quarterly maintenance at $92.82 = $371.28
+Subtotal $7,454.07.
+Total: $7,454.07.
+Bill to J. Smith, accounts payable. Tax registration VAT860332957.

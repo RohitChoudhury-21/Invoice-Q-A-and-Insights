@@ -1,0 +1,15 @@
+CYBERDYNE SYSTEMS
+Toronto | +1-523-236-3209 | billing@cyberdyne.example
+Subtotal EUR 14.857,66.
+Tax 10% adds EUR 1.485,77.
+Please remit EUR 16.343,43 in EUR.
+Pay by transfer to IBAN DE99 3924 8406. Thank you for your business.
+Ref #56014/INV. Account for remittance AC1724549.
+Issued Mar 17, 2025; due 01 April 2025 (Net 30).
+Bill to J. Smith, accounts payable. Tax registration VAT571024329.
+For the following:
+- 3 x consulting hours at EUR 840,39 = EUR 2.521,17
+- 9 x quarterly maintenance at EUR 453,93 = EUR 4.085,37
+- 6 x cloud hosting at EUR 501,07 = EUR 3.006,42
+- 1 x spare parts at EUR 835,90 = EUR 835,90
+- 11 x a premium support plan at EUR 400,80 = EUR 4.408,80

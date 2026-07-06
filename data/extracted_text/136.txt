@@ -1,0 +1,14 @@
+SOYLENT CORP
+Munich | +1-866-382-8473 | billing@soylent.example
+Subtotal EUR 14.568,83.
+Tax 10% adds EUR 1.456,88.
+Please remit EUR 16.025,71 in EUR.
+Issued 04/07/2025; due May 22, 2025 (Net 15).
+Pay by transfer to IBAN DE20 7713 3298. Thank you for your business.
+Bill to R. O'Neil, accounts payable. Tax registration VAT680627275.
+For the following:
+- 8 x design work at EUR 745,84 = EUR 5.966,72
+- 10 x system installation at EUR 523,37 = EUR 5.233,70
+- 4 x a premium support plan at EUR 686,99 = EUR 2.747,96
+- 5 x design work at EUR 124,09 = EUR 620,45
+Invoice reference INV-64050 (PO PO-14806). Please quote this on payment.

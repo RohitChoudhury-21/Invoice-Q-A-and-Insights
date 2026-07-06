@@ -1,0 +1,14 @@
+WONKA INDUSTRIES
+Fresno, CA | +1-855-289-6142 | billing@wonka.example
+This document, no. 98359-INV, against purchase order PO-84516.
+For the following:
+- 7 x quarterly maintenance at EUR 167,90 = EUR 1.175,30
+- 12 x system installation at EUR 156,18 = EUR 1.874,16
+- 10 x license renewal at EUR 845,68 = EUR 8.456,80
+- 3 x a security audit at EUR 425,66 = EUR 1.276,98
+- 2 x a data subscription at EUR 561,84 = EUR 1.123,68
+Subtotal EUR 13.906,92.
+Please remit EUR 13.906,92 in EUR.
+Date of issue 02.11.2026, terms Net 15, due 17.12.2026.
+Pay by transfer to IBAN DE54 8773 8071. Thank you for your business.
+Bill to R. O'Neil, accounts payable. Tax registration VAT550705658.

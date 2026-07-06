@@ -1,0 +1,16 @@
+SOYLENT CORP
+Munich | +1-345-269-9384 | billing@soylent.example
+Document 2026/INV/33331, raised under agreement PO-60662.
+Pay by transfer to IBAN DE30 1736 4475. Thank you for your business.
+Issued 09.05.2025; due Jul 8, 2025 (Net 45).
+Bill to R. O'Neil, accounts payable. Tax registration VAT864512053.
+Subtotal INR 22,502.78.
+Tax 18% adds INR 4,050.50.
+Shipping INR 40.00.
+Please remit INR 26,593.28 in INR.
+For the following:
+- 6 x spare parts at INR 682.78 = INR 4,096.68
+- 12 x design work at INR 628.41 = INR 7,540.92
+- 2 x quarterly maintenance at INR 204.45 = INR 408.90
+- 7 x consulting hours at INR 205.28 = INR 1,436.96
+- 12 x design work at INR 751.61 = INR 9,019.32

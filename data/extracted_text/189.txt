@@ -1,0 +1,12 @@
+ACME CORP
+Dublin | +1-825-895-6627 | billing@acme.example
+For the following:
+- 7 x quarterly maintenance at INR 116.00 = INR 812.00
+- 7 x quarterly maintenance at INR 823.19 = INR 5,762.33
+Pay by transfer to IBAN DE55 5109 4957. Thank you for your business.
+Ref #50965/INV. Account for remittance AC4732781.
+Issued 03/20/2025; due 04.05.2025 (Net 45).
+Bill to L. Chen, accounts payable. Tax registration VAT997558912.
+Subtotal INR 6,574.33.
+Shipping INR 25.00.
+Amount Due: INR 6,599.33.

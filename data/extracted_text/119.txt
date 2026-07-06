@@ -1,0 +1,11 @@
+GEKKO AND CO
+Portland, OR | +1-837-972-4691 | billing@gekko.example
+Bill to L. Chen, accounts payable. Tax registration VAT930023671.
+Issued 09 October 2026; due 2026-11-23 (Net 15).
+Billing ID: INV-45965. Customer account AC9910630. PO PO-87950.
+Subtotal GBP 5,680.55.
+Please remit GBP 5,680.55 in GBP.
+For the following:
+- 7 x quarterly maintenance at GBP 212.39 = GBP 1,486.73
+- 6 x a security audit at GBP 698.97 = GBP 4,193.82
+Pay by transfer to IBAN DE78 8197 5814. Thank you for your business.

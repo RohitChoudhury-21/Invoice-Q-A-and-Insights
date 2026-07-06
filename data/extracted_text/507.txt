@@ -1,0 +1,15 @@
+TYRELL CORP
+Denver, CO | +1-623-306-7353 | billing@tyrell.example
+Document 2026/INV/65506, raised under agreement PO-83462.
+Bill to L. Chen, accounts payable. Tax registration VAT334488514.
+Pay by transfer to IBAN DE36 8088 9706. Thank you for your business.
+Date of issue Aug 4, 2026, terms Net 30, due 2026-08-19.
+Subtotal $20,791.48.
+Tax 8% adds $1,663.32.
+Please remit $22,454.80 in USD.
+For the following:
+- 12 x onsite training at $89.51 = $1,074.12
+- 4 x server hardware at $386.76 = $1,547.04
+- 11 x cloud hosting at $762.29 = $8,385.19
+- 6 x server hardware at $633.82 = $3,802.92
+- 9 x a premium support plan at $664.69 = $5,982.21

@@ -1,0 +1,14 @@
+SOYLENT CORP
+Manchester | +1-887-273-9436 | billing@soylent.example
+Invoice reference INV-93175 (PO PO-94473). Please quote this on payment.
+Pay by transfer to IBAN DE72 6548 3935. Thank you for your business.
+Bill to P. Novak, accounts payable. Tax registration VAT706539044.
+For the following:
+- 1 x design work at EUR 100,22 = EUR 100,22
+- 5 x quarterly maintenance at EUR 769,40 = EUR 3.847,00
+- 2 x quarterly maintenance at EUR 898,46 = EUR 1.796,92
+- 8 x a data subscription at EUR 230,72 = EUR 1.845,76
+Subtotal EUR 7.589,90.
+Tax 5% adds EUR 379,50.
+Please remit EUR 7.969,40 in EUR.
+Date of issue 10.11.2025, terms Net 30, due Dec 25, 2025.

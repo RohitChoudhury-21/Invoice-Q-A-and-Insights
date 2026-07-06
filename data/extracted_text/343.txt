@@ -1,0 +1,12 @@
+UMBRELLA CORPORATION INC
+Springfield, IL | +1-545-648-4138 | billing@umbrella.example
+Subtotal INR 8,199.24.
+Tax 18% adds INR 1,475.86.
+Please remit INR 9,675.10 in INR.
+Pay by transfer to IBAN DE10 8923 1886. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT420476076.
+Date of issue Jul 22, 2026, terms Net 30, due 21.08.2026.
+For the following:
+- 10 x a premium support plan at INR 364.77 = INR 3,647.70
+- 6 x consulting hours at INR 758.59 = INR 4,551.54
+Invoice reference INV-29328 (PO PO-53189). Please quote this on payment.

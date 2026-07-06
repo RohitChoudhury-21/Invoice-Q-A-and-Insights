@@ -1,0 +1,13 @@
+WONKA INDUSTRIES
+Toronto | +1-306-641-4551 | billing@wonka.example
+For the following:
+- 5 x license renewal at INR 849.30 = INR 4,246.50
+- 7 x a security audit at INR 734.37 = INR 5,140.59
+- 5 x a data subscription at INR 191.45 = INR 957.25
+Pay by transfer to IBAN DE78 9761 4878. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT381317803.
+Document 2026/INV/51289, raised under agreement PO-97870.
+Date of issue 2025-08-23, terms Net 60, due 07.09.2025.
+Subtotal INR 10,344.34.
+Tax 18% adds INR 1,861.98.
+Total: INR 12,206.32.

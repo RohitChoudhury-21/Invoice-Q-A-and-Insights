@@ -1,0 +1,12 @@
+SOYLENT CORP
+Newark, NJ | +1-435-569-6448 | billing@soylent.example
+This document, no. 32303-INV, against purchase order PO-13238.
+Subtotal INR 3,996.16.
+Tax 10% adds INR 399.62.
+Please remit INR 4,395.78 in INR.
+Date of issue 26 March 2026, terms Net 60, due 2026-04-25.
+For the following:
+- 4 x system installation at INR 850.23 = INR 3,400.92
+- 1 x license renewal at INR 595.24 = INR 595.24
+Pay by transfer to IBAN DE27 2536 5191. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT884880660.

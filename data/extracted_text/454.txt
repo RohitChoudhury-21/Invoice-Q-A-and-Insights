@@ -1,0 +1,15 @@
+CYBERDYNE SYSTEMS
+Rotterdam | +1-990-345-7074 | billing@cyberdyne.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT178499471.
+Subtotal GBP 16,095.24.
+Tax 5% adds GBP 804.76.
+Shipping GBP 12.50.
+Please remit GBP 16,912.50 in GBP.
+Issued 07/22/2025; due Aug 21, 2025 (Net 60).
+Pay by transfer to IBAN DE86 3328 1367. Thank you for your business.
+For the following:
+- 6 x system installation at GBP 135.47 = GBP 812.82
+- 12 x a data subscription at GBP 439.80 = GBP 5,277.60
+- 8 x cloud hosting at GBP 669.27 = GBP 5,354.16
+- 7 x design work at GBP 664.38 = GBP 4,650.66
+Document 2026/INV/67275, raised under agreement PO-60888.

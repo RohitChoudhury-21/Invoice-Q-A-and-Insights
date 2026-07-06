@@ -1,0 +1,15 @@
+NAKATOMI TRADING
+Newark, NJ | +1-534-776-7602 | billing@nakatomi.example
+Bill to M. Garcia, accounts payable. Tax registration VAT362360070.
+For the following:
+- 9 x onsite training at $841.94 = $7,577.46
+- 9 x a data subscription at $569.93 = $5,129.37
+- 6 x server hardware at $317.74 = $1,906.44
+- 3 x consulting hours at $854.48 = $2,563.44
+Document 2026/INV/71071, raised under agreement PO-37547.
+Subtotal $17,176.71.
+Tax 5% adds $858.84.
+Shipping $25.00.
+Please remit $18,060.55 in USD.
+Pay by transfer to IBAN DE56 1810 4797. Thank you for your business.
+Issued 2025-12-07; due 01/21/2026 (Net 30).

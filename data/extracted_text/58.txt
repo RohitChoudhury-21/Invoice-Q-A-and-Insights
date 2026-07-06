@@ -1,0 +1,15 @@
+INITECH INC
+Toronto | +1-840-791-8085 | billing@initech.example
+Billing ID: INV-69721. Customer account AC1346542. PO PO-73876.
+Pay by transfer to IBAN DE84 6629 6552. Thank you for your business.
+For the following:
+- 5 x system installation at EUR 230,07 = EUR 1.150,35
+- 6 x a data subscription at EUR 302,54 = EUR 1.815,24
+- 2 x an annual software license at EUR 187,79 = EUR 375,58
+- 4 x freight and shipping at EUR 620,69 = EUR 2.482,76
+- 10 x quarterly maintenance at EUR 392,22 = EUR 3.922,20
+Subtotal EUR 9.746,13.
+Tax 5% adds EUR 487,31.
+Please remit EUR 10.233,44 in EUR.
+Bill to A. Kapoor, accounts payable. Tax registration VAT988322750.
+Date of issue 07.09.2025, terms Net 15, due 07 October 2025.

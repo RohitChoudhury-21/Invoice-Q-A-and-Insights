@@ -1,0 +1,16 @@
+WAYNE ENTERPRISES LTD
+Bengaluru | +1-747-243-2667 | billing@wayne.example
+Billing ID: INV-1360. Customer account AC4823911. PO PO-46126.
+Subtotal EUR 6.025,43.
+Tax 10% adds EUR 602,54.
+Shipping EUR 25,00.
+Balance Due: EUR 6.652,97.
+Issued 11/05/2025; due 2025-12-20 (due on receipt).
+Pay by transfer to IBAN DE51 8385 8804. Thank you for your business.
+For the following:
+- 2 x quarterly maintenance at EUR 749,14 = EUR 1.498,28
+- 5 x consulting hours at EUR 151,60 = EUR 758,00
+- 1 x consulting hours at EUR 548,74 = EUR 548,74
+- 8 x a premium support plan at EUR 174,30 = EUR 1.394,40
+- 9 x system installation at EUR 202,89 = EUR 1.826,01
+Bill to J. Smith, accounts payable. Tax registration VAT198088651.

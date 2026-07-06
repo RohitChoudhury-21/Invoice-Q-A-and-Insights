@@ -1,0 +1,12 @@
+WONKA INDUSTRIES
+Newark, NJ | +1-270-849-9922 | billing@wonka.example
+Bill to P. Novak, accounts payable. Tax registration VAT993125555.
+Subtotal EUR 3.449,29.
+Tax 20% adds EUR 689,86.
+Please remit EUR 4.139,15 in EUR.
+For the following:
+- 7 x server hardware at EUR 292,65 = EUR 2.048,55
+- 11 x license renewal at EUR 127,34 = EUR 1.400,74
+Pay by transfer to IBAN DE51 7733 3234. Thank you for your business.
+Ref #13899/INV. Account for remittance AC1453710.
+Issued 26.12.2026; due 2027-01-10 (Net 30).

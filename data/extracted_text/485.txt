@@ -1,0 +1,14 @@
+STARK INDUSTRIES LLC
+Newark, NJ | +1-634-238-8418 | billing@stark.example
+Subtotal INR 26,732.07.
+Please remit INR 26,732.07 in INR.
+Bill to R. O'Neil, accounts payable. Tax registration VAT161459097.
+For the following:
+- 12 x quarterly maintenance at INR 648.36 = INR 7,780.32
+- 7 x system installation at INR 896.53 = INR 6,275.71
+- 1 x a premium support plan at INR 684.35 = INR 684.35
+- 12 x an annual software license at INR 518.04 = INR 6,216.48
+- 7 x cloud hosting at INR 825.03 = INR 5,775.21
+Pay by transfer to IBAN DE61 2286 2172. Thank you for your business.
+Document 2026/INV/61968, raised under agreement PO-86945.
+Date of issue 06/24/2025, terms due on receipt, due 2025-08-23.

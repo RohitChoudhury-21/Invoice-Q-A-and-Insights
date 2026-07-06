@@ -1,0 +1,16 @@
+OSCORP INDUSTRIES
+Manchester | +1-764-993-4034 | billing@oscorp.example
+Document 2026/INV/44419, raised under agreement PO-77652.
+Pay by transfer to IBAN DE35 5597 3876. Thank you for your business.
+For the following:
+- 11 x license renewal at EUR 164,39 = EUR 1.808,29
+- 9 x license renewal at EUR 414,20 = EUR 3.727,80
+- 4 x cloud hosting at EUR 602,20 = EUR 2.408,80
+- 1 x an annual software license at EUR 658,84 = EUR 658,84
+- 11 x quarterly maintenance at EUR 131,27 = EUR 1.443,97
+Subtotal EUR 10.047,70.
+Tax 18% adds EUR 1.808,59.
+Shipping EUR 25,00.
+Balance Due: EUR 11.881,29.
+Bill to J. Smith, accounts payable. Tax registration VAT656113382.
+Date of issue 2026-07-27, terms Net 45, due 25 September 2026.

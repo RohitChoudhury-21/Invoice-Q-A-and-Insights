@@ -1,0 +1,13 @@
+BLACK MESA SUPPLIES
+Toronto | +1-811-421-1992 | billing@black.example
+This document, no. 51476-INV, against purchase order PO-98380.
+For the following:
+- 11 x a premium support plan at $121.08 = $1,331.88
+- 2 x a data subscription at $185.88 = $371.76
+- 4 x a security audit at $52.55 = $210.20
+Subtotal $1,913.84.
+Tax 5% adds $95.69.
+Please remit $2,009.53 in USD.
+Pay by transfer to IBAN DE14 2639 1591. Thank you for your business.
+Issued 2025-09-23; due 23.10.2025 (due on receipt).
+Bill to J. Smith, accounts payable. Tax registration VAT765671818.

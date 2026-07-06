@@ -1,0 +1,14 @@
+WAYNE ENTERPRISES LTD
+Munich | +1-602-308-9463 | billing@wayne.example
+Bill to M. Garcia, accounts payable. Tax registration VAT151909021.
+Issued 2025-09-19; due 11/03/2025 (due on receipt).
+Document 2026/INV/1250, raised under agreement PO-35005.
+Pay by transfer to IBAN DE97 9487 7941. Thank you for your business.
+For the following:
+- 3 x a data subscription at $665.48 = $1,996.44
+- 1 x consulting hours at $387.53 = $387.53
+- 9 x onsite training at $289.81 = $2,608.29
+Subtotal $4,992.26.
+Tax 10% adds $499.23.
+Shipping $25.00.
+Please remit $5,516.49 in USD.

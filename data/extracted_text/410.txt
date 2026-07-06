@@ -1,0 +1,13 @@
+OSCORP INDUSTRIES
+Manchester | +1-586-591-3854 | billing@oscorp.example
+Issued 07/08/2026; due 08/22/2026 (Net 30).
+Bill to R. O'Neil, accounts payable. Tax registration VAT652443841.
+Subtotal INR 6,891.78.
+Tax 18% adds INR 1,240.52.
+Please remit INR 8,132.30 in INR.
+Pay by transfer to IBAN DE93 5115 7171. Thank you for your business.
+This document, no. 48031-INV, against purchase order PO-23853.
+For the following:
+- 3 x an annual software license at INR 165.86 = INR 497.58
+- 2 x a premium support plan at INR 338.23 = INR 676.46
+- 7 x a data subscription at INR 816.82 = INR 5,717.74

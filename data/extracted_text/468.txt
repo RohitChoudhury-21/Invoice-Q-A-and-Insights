@@ -1,0 +1,12 @@
+OSCORP INDUSTRIES
+Denver, CO | +1-492-927-4373 | billing@oscorp.example
+For the following:
+- 5 x spare parts at INR 98.17 = INR 490.85
+- 12 x consulting hours at INR 756.58 = INR 9,078.96
+Billing ID: INV-74238. Customer account AC2755208. PO PO-38940.
+Subtotal INR 9,569.81.
+Shipping INR 40.00.
+Total: INR 9,609.81.
+Bill to J. Smith, accounts payable. Tax registration VAT407923547.
+Pay by transfer to IBAN DE82 8037 5282. Thank you for your business.
+Issued Feb 21, 2026; due 2026-03-23 (Net 60).

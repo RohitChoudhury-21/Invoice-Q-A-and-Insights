@@ -1,0 +1,11 @@
+WONKA INDUSTRIES
+Denver, CO | +1-778-731-2825 | billing@wonka.example
+Subtotal INR 11,402.61.
+Please remit INR 11,402.61 in INR.
+Pay by transfer to IBAN DE45 4400 4546. Thank you for your business.
+Date of issue Feb 6, 2026, terms Net 45, due 23.03.2026.
+Bill to J. Smith, accounts payable. Tax registration VAT113208024.
+For the following:
+- 7 x freight and shipping at INR 899.13 = INR 6,293.91
+- 10 x a premium support plan at INR 510.87 = INR 5,108.70
+Document 2026/INV/11452, raised under agreement PO-22876.

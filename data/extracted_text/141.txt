@@ -1,0 +1,13 @@
+WAYNE ENTERPRISES LTD
+Munich | +1-835-813-2158 | billing@wayne.example
+Bill to P. Novak, accounts payable. Tax registration VAT304235230.
+Billing ID: INV-24736. Customer account AC6475575. PO PO-58282.
+Pay by transfer to IBAN DE62 6695 9630. Thank you for your business.
+Subtotal $4,383.06.
+Tax 5% adds $219.15.
+Shipping $12.50.
+Please remit $4,614.71 in USD.
+Issued Mar 22, 2026; due 2026-05-21 (due on receipt).
+For the following:
+- 8 x server hardware at $396.79 = $3,174.32
+- 2 x freight and shipping at $604.37 = $1,208.74

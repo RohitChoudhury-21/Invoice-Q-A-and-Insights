@@ -1,0 +1,14 @@
+VANDELAY INDUSTRIES
+Portland, OR | +1-907-348-6416 | billing@vandelay.example
+Subtotal $17,245.66.
+Amount Due: $17,245.66.
+For the following:
+- 4 x system installation at $896.12 = $3,584.48
+- 2 x spare parts at $398.22 = $796.44
+- 10 x onsite training at $347.76 = $3,477.60
+- 9 x cloud hosting at $274.50 = $2,470.50
+- 8 x onsite training at $864.58 = $6,916.64
+Pay by transfer to IBAN DE28 9057 7771. Thank you for your business.
+Bill to M. Garcia, accounts payable. Tax registration VAT304707580.
+Invoice reference INV-69597 (PO PO-63433). Please quote this on payment.
+Date of issue Aug 21, 2026, terms Net 60, due 2026-09-05.

@@ -1,0 +1,12 @@
+WONKA INDUSTRIES
+Denver, CO | +1-552-256-6324 | billing@wonka.example
+Date of issue 06/08/2026, terms Net 15, due 2026-07-08.
+Billing ID: INV-64597. Customer account AC8095498. PO PO-65995.
+Subtotal EUR 10.929,50.
+Tax 8% adds EUR 874,36.
+Please remit EUR 11.803,86 in EUR.
+Pay by transfer to IBAN DE95 7284 9931. Thank you for your business.
+Bill to P. Novak, accounts payable. Tax registration VAT211637731.
+For the following:
+- 10 x freight and shipping at EUR 417,22 = EUR 4.172,20
+- 11 x quarterly maintenance at EUR 614,30 = EUR 6.757,30

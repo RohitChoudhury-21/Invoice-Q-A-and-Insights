@@ -1,0 +1,13 @@
+ACME CORP
+Denver, CO | +1-463-889-9505 | billing@acme.example
+Bill to L. Chen, accounts payable. Tax registration VAT570174188.
+Billing ID: INV-58734. Customer account AC1640758. PO PO-31306.
+Subtotal EUR 774,72.
+Tax 10% adds EUR 77,47.
+Shipping EUR 25,00.
+Total: EUR 877,19.
+Date of issue Mar 6, 2026, terms due on receipt, due 05.04.2026.
+Pay by transfer to IBAN DE34 1664 7186. Thank you for your business.
+For the following:
+- 7 x onsite training at EUR 51,11 = EUR 357,77
+- 1 x license renewal at EUR 416,95 = EUR 416,95

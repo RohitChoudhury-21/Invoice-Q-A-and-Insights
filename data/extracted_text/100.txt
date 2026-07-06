@@ -1,0 +1,13 @@
+BLUTH COMPANY
+Newark, NJ | +1-272-278-6084 | billing@bluth.example
+Ref #93354/INV. Account for remittance AC4558979.
+Pay by transfer to IBAN DE30 7818 5134. Thank you for your business.
+For the following:
+- 9 x cloud hosting at INR 588.93 = INR 5,300.37
+- 11 x onsite training at INR 524.62 = INR 5,770.82
+- 11 x consulting hours at INR 573.39 = INR 6,307.29
+Subtotal INR 17,378.48.
+Tax 18% adds INR 3,128.13.
+Grand Total: INR 20,506.61.
+Bill to J. Smith, accounts payable. Tax registration VAT419846000.
+Issued 2025-11-26; due 01/25/2026 (Net 15).

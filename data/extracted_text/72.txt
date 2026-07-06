@@ -1,0 +1,13 @@
+CYBERDYNE SYSTEMS
+Newark, NJ | +1-916-426-8549 | billing@cyberdyne.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT245311690.
+Pay by transfer to IBAN DE66 7386 2667. Thank you for your business.
+For the following:
+- 10 x a data subscription at $263.96 = $2,639.60
+- 3 x freight and shipping at $659.61 = $1,978.83
+- 11 x consulting hours at $62.36 = $685.96
+Document 2026/INV/9330, raised under agreement PO-22190.
+Date of issue 11/10/2025, terms Net 60, due 10 December 2025.
+Subtotal $5,304.39.
+Tax 10% adds $530.44.
+Please remit $5,834.83 in USD.

@@ -1,0 +1,13 @@
+INITECH INC
+Newark, NJ | +1-882-463-8271 | billing@initech.example
+Bill to M. Garcia, accounts payable. Tax registration VAT800085427.
+Pay by transfer to IBAN DE37 4473 4357. Thank you for your business.
+For the following:
+- 7 x freight and shipping at EUR 56,72 = EUR 397,04
+- 1 x an annual software license at EUR 309,96 = EUR 309,96
+- 5 x cloud hosting at EUR 705,56 = EUR 3.527,80
+Subtotal EUR 4.234,80.
+Tax 5% adds EUR 211,74.
+Please remit EUR 4.446,54 in EUR.
+Billing ID: INV-99982. Customer account AC6990563. PO PO-49137.
+Date of issue 25 June 2026, terms due on receipt, due 2026-08-24.

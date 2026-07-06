@@ -1,0 +1,13 @@
+WONKA INDUSTRIES
+Springfield, IL | +1-894-247-5210 | billing@wonka.example
+This document, no. 15224-INV, against purchase order PO-95177.
+Subtotal $4,422.22.
+Tax 5% adds $221.11.
+Shipping $25.00.
+Please remit $4,668.33 in USD.
+For the following:
+- 7 x onsite training at $488.50 = $3,419.50
+- 2 x cloud hosting at $501.36 = $1,002.72
+Date of issue 2025-08-09, terms due on receipt, due Sep 8, 2025.
+Bill to J. Smith, accounts payable. Tax registration VAT882696545.
+Pay by transfer to IBAN DE25 6433 9343. Thank you for your business.

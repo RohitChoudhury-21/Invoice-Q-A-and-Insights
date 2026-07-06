@@ -1,0 +1,15 @@
+APERTURE LABS
+Newark, NJ | +1-623-285-3068 | billing@aperture.example
+For the following:
+- 5 x consulting hours at INR 553.82 = INR 2,769.10
+- 12 x a data subscription at INR 71.17 = INR 854.04
+- 4 x freight and shipping at INR 740.60 = INR 2,962.40
+- 7 x spare parts at INR 502.09 = INR 3,514.63
+Invoice reference INV-15140 (PO PO-20941). Please quote this on payment.
+Date of issue 2026-09-14, terms Net 30, due 29 October 2026.
+Pay by transfer to IBAN DE80 5305 4847. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT403255765.
+Subtotal INR 10,100.17.
+Tax 20% adds INR 2,020.03.
+Shipping INR 25.00.
+Amount Due: INR 12,145.20.

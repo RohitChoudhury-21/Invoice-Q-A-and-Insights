@@ -1,0 +1,16 @@
+SOYLENT CORP
+Munich | +1-730-421-4637 | billing@soylent.example
+For the following:
+- 5 x spare parts at EUR 230,08 = EUR 1.150,40
+- 2 x an annual software license at EUR 595,02 = EUR 1.190,04
+- 6 x a data subscription at EUR 895,73 = EUR 5.374,38
+- 10 x license renewal at EUR 156,02 = EUR 1.560,20
+- 10 x quarterly maintenance at EUR 87,24 = EUR 872,40
+Pay by transfer to IBAN DE98 3396 6816. Thank you for your business.
+Bill to M. Garcia, accounts payable. Tax registration VAT814894117.
+Document 2026/INV/69429, raised under agreement PO-57718.
+Subtotal EUR 10.147,42.
+Tax 8% adds EUR 811,79.
+Shipping EUR 40,00.
+Amount Due: EUR 10.999,21.
+Issued 09 May 2026; due 23 June 2026 (Net 15).

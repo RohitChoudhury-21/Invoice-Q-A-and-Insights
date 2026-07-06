@@ -1,0 +1,15 @@
+TYRELL CORP
+Austin, TX | +1-921-350-8219 | billing@tyrell.example
+Subtotal GBP 12,726.86.
+Tax 18% adds GBP 2,290.83.
+Shipping GBP 12.50.
+Please remit GBP 15,030.19 in GBP.
+Pay by transfer to IBAN DE63 4684 5146. Thank you for your business.
+Issued Dec 19, 2025; due Feb 2, 2026 (Net 60).
+Bill to P. Novak, accounts payable. Tax registration VAT641217038.
+For the following:
+- 8 x system installation at GBP 465.92 = GBP 3,727.36
+- 11 x server hardware at GBP 557.39 = GBP 6,131.29
+- 1 x server hardware at GBP 72.56 = GBP 72.56
+- 5 x cloud hosting at GBP 559.13 = GBP 2,795.65
+Billing ID: INV-67042. Customer account AC6508012. PO PO-58794.

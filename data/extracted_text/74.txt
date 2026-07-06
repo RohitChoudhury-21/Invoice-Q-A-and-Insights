@@ -1,0 +1,12 @@
+INITECH INC
+Toronto | +1-367-721-4413 | billing@initech.example
+Subtotal GBP 4,657.62.
+Shipping GBP 25.00.
+Please remit GBP 4,682.62 in GBP.
+Date of issue 03/05/2025, terms due on receipt, due 05/04/2025.
+Ref #58915/INV. Account for remittance AC1996460.
+Bill to M. Garcia, accounts payable. Tax registration VAT529841029.
+Pay by transfer to IBAN DE69 3020 6157. Thank you for your business.
+For the following:
+- 6 x design work at GBP 517.09 = GBP 3,102.54
+- 3 x quarterly maintenance at GBP 518.36 = GBP 1,555.08

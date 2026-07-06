@@ -1,0 +1,13 @@
+PIED PIPER LLC
+Austin, TX | +1-899-934-5347 | billing@pied.example
+For the following:
+- 12 x onsite training at INR 185.91 = INR 2,230.92
+- 2 x system installation at INR 87.10 = INR 174.20
+Bill to J. Smith, accounts payable. Tax registration VAT964307847.
+Pay by transfer to IBAN DE20 2970 1154. Thank you for your business.
+This document, no. 4757-INV, against purchase order PO-16012.
+Issued 21 July 2025; due 19 September 2025 (Net 45).
+Subtotal INR 2,405.12.
+Tax 10% adds INR 240.51.
+Shipping INR 40.00.
+Balance Due: INR 2,685.63.

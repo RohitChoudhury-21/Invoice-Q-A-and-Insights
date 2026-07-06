@@ -1,0 +1,14 @@
+WAYNE ENTERPRISES LTD
+Springfield, IL | +1-549-889-2859 | billing@wayne.example
+Bill to M. Garcia, accounts payable. Tax registration VAT650876167.
+Subtotal $11,577.14.
+Shipping $40.00.
+Please remit $11,617.14 in USD.
+For the following:
+- 11 x design work at $568.81 = $6,256.91
+- 1 x cloud hosting at $561.00 = $561.00
+- 7 x design work at $332.49 = $2,327.43
+- 6 x a security audit at $405.30 = $2,431.80
+Invoice reference INV-16257 (PO PO-89907). Please quote this on payment.
+Date of issue 24.07.2026, terms Net 30, due 09/07/2026.
+Pay by transfer to IBAN DE32 9897 8986. Thank you for your business.

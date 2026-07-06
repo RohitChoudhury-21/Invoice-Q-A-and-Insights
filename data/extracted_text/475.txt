@@ -1,0 +1,16 @@
+CYBERDYNE SYSTEMS
+Bengaluru | +1-570-481-9252 | billing@cyberdyne.example
+Pay by transfer to IBAN DE32 6251 1712. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT707347025.
+Invoice reference INV-32036 (PO PO-54168). Please quote this on payment.
+Date of issue 2025-02-06, terms Net 15, due 21.02.2025.
+For the following:
+- 3 x a data subscription at INR 128.64 = INR 385.92
+- 6 x freight and shipping at INR 185.94 = INR 1,115.64
+- 2 x spare parts at INR 204.20 = INR 408.40
+- 1 x onsite training at INR 174.71 = INR 174.71
+- 5 x onsite training at INR 566.29 = INR 2,831.45
+Subtotal INR 4,916.12.
+Tax 18% adds INR 884.90.
+Shipping INR 12.50.
+Balance Due: INR 5,813.52.

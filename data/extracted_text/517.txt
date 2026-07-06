@@ -1,0 +1,14 @@
+ACME CORP
+Newark, NJ | +1-433-740-8217 | billing@acme.example
+Billing ID: INV-30553. Customer account AC8030556. PO PO-89833.
+Pay by transfer to IBAN DE60 3530 7685. Thank you for your business.
+Subtotal $11,565.77.
+Tax 8% adds $925.26.
+Shipping $25.00.
+Amount Due: $12,516.03.
+Bill to A. Kapoor, accounts payable. Tax registration VAT297136948.
+For the following:
+- 10 x an annual software license at $187.25 = $1,872.50
+- 12 x an annual software license at $377.70 = $4,532.40
+- 9 x a security audit at $573.43 = $5,160.87
+Date of issue 08/12/2026, terms Net 30, due 26 September 2026.

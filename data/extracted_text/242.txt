@@ -1,0 +1,15 @@
+HOOLI INC
+Fresno, CA | +1-898-296-5152 | billing@hooli.example
+This document, no. 65247-INV, against purchase order PO-28746.
+Pay by transfer to IBAN DE50 6075 1290. Thank you for your business.
+Bill to P. Novak, accounts payable. Tax registration VAT358756204.
+Subtotal GBP 17,091.40.
+Shipping GBP 40.00.
+Please remit GBP 17,131.40 in GBP.
+Issued 14.04.2025; due 13.06.2025 (Net 45).
+For the following:
+- 3 x cloud hosting at GBP 747.43 = GBP 2,242.29
+- 8 x quarterly maintenance at GBP 399.50 = GBP 3,196.00
+- 9 x a security audit at GBP 574.95 = GBP 5,174.55
+- 9 x a premium support plan at GBP 364.16 = GBP 3,277.44
+- 4 x an annual software license at GBP 800.28 = GBP 3,201.12

@@ -1,0 +1,14 @@
+BLACK MESA SUPPLIES
+Springfield, IL | +1-324-678-7841 | billing@black.example
+Bill to P. Novak, accounts payable. Tax registration VAT565667892.
+Date of issue 10.09.2026, terms Net 30, due Nov 9, 2026.
+Pay by transfer to IBAN DE80 6872 5390. Thank you for your business.
+Invoice reference INV-82779 (PO PO-41456). Please quote this on payment.
+For the following:
+- 1 x design work at INR 18.52 = INR 18.52
+- 6 x design work at INR 255.64 = INR 1,533.84
+- 3 x cloud hosting at INR 368.81 = INR 1,106.43
+- 8 x consulting hours at INR 444.11 = INR 3,552.88
+Subtotal INR 6,211.67.
+Tax 10% adds INR 621.17.
+Grand Total: INR 6,832.84.

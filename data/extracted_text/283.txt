@@ -1,0 +1,15 @@
+UMBRELLA CORPORATION INC
+Rotterdam | +1-980-506-5598 | billing@umbrella.example
+Billing ID: INV-43065. Customer account AC2866118. PO PO-34987.
+For the following:
+- 5 x a premium support plan at $85.36 = $426.80
+- 8 x consulting hours at $113.85 = $910.80
+- 12 x design work at $19.21 = $230.52
+- 10 x a premium support plan at $813.43 = $8,134.30
+- 1 x a data subscription at $550.05 = $550.05
+Bill to L. Chen, accounts payable. Tax registration VAT853304562.
+Pay by transfer to IBAN DE22 3185 7072. Thank you for your business.
+Subtotal $10,252.47.
+Tax 5% adds $512.62.
+Grand Total: $10,765.09.
+Issued Apr 15, 2026; due 2026-05-30 (Net 15).

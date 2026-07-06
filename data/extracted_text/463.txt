@@ -1,0 +1,13 @@
+BLUTH COMPANY
+Newark, NJ | +1-749-971-2338 | billing@bluth.example
+Pay by transfer to IBAN DE53 3189 4767. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT263089165.
+Billing ID: INV-17992. Customer account AC9164772. PO PO-80184.
+Issued 21 January 2025; due 05 February 2025 (Net 45).
+For the following:
+- 10 x cloud hosting at GBP 336.47 = GBP 3,364.70
+- 2 x onsite training at GBP 804.19 = GBP 1,608.38
+- 11 x consulting hours at GBP 337.13 = GBP 3,708.43
+Subtotal GBP 8,681.51.
+Tax 5% adds GBP 434.08.
+Please remit GBP 9,115.59 in GBP.

@@ -1,0 +1,13 @@
+SOYLENT CORP
+Newark, NJ | +1-685-679-3547 | billing@soylent.example
+Bill to L. Chen, accounts payable. Tax registration VAT482822430.
+Pay by transfer to IBAN DE36 1967 3795. Thank you for your business.
+Issued 15.04.2025; due 2025-05-30 (due on receipt).
+For the following:
+- 1 x a premium support plan at INR 337.66 = INR 337.66
+- 10 x a security audit at INR 330.22 = INR 3,302.20
+Billing ID: INV-19448. Customer account AC9819630. PO PO-68877.
+Subtotal INR 3,639.86.
+Tax 18% adds INR 655.17.
+Shipping INR 40.00.
+Please remit INR 4,335.03 in INR.

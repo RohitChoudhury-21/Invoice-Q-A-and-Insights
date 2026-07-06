@@ -1,0 +1,16 @@
+HOOLI INC
+Dublin | +1-511-895-8437 | billing@hooli.example
+For the following:
+- 12 x an annual software license at GBP 50.56 = GBP 606.72
+- 4 x freight and shipping at GBP 371.99 = GBP 1,487.96
+- 9 x freight and shipping at GBP 273.42 = GBP 2,460.78
+- 12 x quarterly maintenance at GBP 641.64 = GBP 7,699.68
+- 4 x a security audit at GBP 281.95 = GBP 1,127.80
+Pay by transfer to IBAN DE86 8117 7407. Thank you for your business.
+Subtotal GBP 13,382.94.
+Tax 10% adds GBP 1,338.29.
+Shipping GBP 25.00.
+Please remit GBP 14,746.23 in GBP.
+Billing ID: INV-67602. Customer account AC7479723. PO PO-20235.
+Bill to P. Novak, accounts payable. Tax registration VAT237577000.
+Issued Apr 14, 2025; due 29 April 2025 (Net 60).

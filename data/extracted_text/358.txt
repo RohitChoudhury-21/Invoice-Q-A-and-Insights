@@ -1,0 +1,13 @@
+STARK INDUSTRIES LLC
+Bengaluru | +1-693-207-5943 | billing@stark.example
+Subtotal $3,762.67.
+Shipping $12.50.
+Total: $3,775.17.
+Pay by transfer to IBAN DE32 7014 3644. Thank you for your business.
+This document, no. 86015-INV, against purchase order PO-21049.
+Issued 2026-12-23; due 01/22/2027 (Net 30).
+Bill to A. Kapoor, accounts payable. Tax registration VAT814300313.
+For the following:
+- 2 x quarterly maintenance at $191.81 = $383.62
+- 3 x license renewal at $735.86 = $2,207.58
+- 3 x freight and shipping at $390.49 = $1,171.47

@@ -1,0 +1,15 @@
+BLACK MESA SUPPLIES
+Munich | +1-358-705-3553 | billing@black.example
+Pay by transfer to IBAN DE34 7530 6479. Thank you for your business.
+This document, no. 2316-INV, against purchase order PO-92348.
+Issued 27.02.2026; due Apr 13, 2026 (due on receipt).
+For the following:
+- 12 x license renewal at INR 362.70 = INR 4,352.40
+- 1 x quarterly maintenance at INR 393.06 = INR 393.06
+- 9 x an annual software license at INR 147.34 = INR 1,326.06
+- 4 x server hardware at INR 666.07 = INR 2,664.28
+- 2 x onsite training at INR 709.46 = INR 1,418.92
+Bill to P. Novak, accounts payable. Tax registration VAT165304555.
+Subtotal INR 10,154.72.
+Shipping INR 12.50.
+Amount Due: INR 10,167.22.

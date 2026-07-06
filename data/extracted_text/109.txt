@@ -1,0 +1,15 @@
+ACME CORP
+Portland, OR | +1-254-538-6761 | billing@acme.example
+Invoice reference INV-8588 (PO PO-67125). Please quote this on payment.
+For the following:
+- 10 x onsite training at GBP 402.48 = GBP 4,024.80
+- 6 x a data subscription at GBP 788.08 = GBP 4,728.48
+- 7 x a premium support plan at GBP 271.68 = GBP 1,901.76
+- 12 x onsite training at GBP 405.63 = GBP 4,867.56
+Pay by transfer to IBAN DE18 6208 3901. Thank you for your business.
+Subtotal GBP 15,522.60.
+Tax 8% adds GBP 1,241.81.
+Shipping GBP 12.50.
+Amount Due: GBP 16,776.91.
+Date of issue 16.09.2025, terms Net 30, due 10/16/2025.
+Bill to J. Smith, accounts payable. Tax registration VAT504232312.

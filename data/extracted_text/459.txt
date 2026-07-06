@@ -1,0 +1,15 @@
+GLOBEX LLC
+Newark, NJ | +1-607-837-6319 | billing@globex.example
+For the following:
+- 6 x freight and shipping at EUR 774,22 = EUR 4.645,32
+- 9 x freight and shipping at EUR 609,68 = EUR 5.487,12
+- 3 x a data subscription at EUR 259,18 = EUR 777,54
+- 2 x an annual software license at EUR 142,45 = EUR 284,90
+Subtotal EUR 11.194,88.
+Tax 18% adds EUR 2.015,08.
+Shipping EUR 12,50.
+Total: EUR 13.222,46.
+Invoice reference INV-5820 (PO PO-86540). Please quote this on payment.
+Pay by transfer to IBAN DE21 2910 3502. Thank you for your business.
+Bill to M. Garcia, accounts payable. Tax registration VAT228058097.
+Date of issue 08 May 2026, terms Net 45, due 07 July 2026.

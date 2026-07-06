@@ -1,0 +1,14 @@
+WONKA INDUSTRIES
+Portland, OR | +1-642-381-2835 | billing@wonka.example
+Date of issue Jun 24, 2025, terms Net 15, due Jul 24, 2025.
+Bill to J. Smith, accounts payable. Tax registration VAT393706211.
+For the following:
+- 12 x quarterly maintenance at $375.77 = $4,509.24
+- 1 x design work at $849.63 = $849.63
+- 6 x server hardware at $594.39 = $3,566.34
+- 10 x design work at $535.53 = $5,355.30
+Document 2026/INV/14916, raised under agreement PO-58231.
+Subtotal $14,280.51.
+Shipping $40.00.
+Please remit $14,320.51 in USD.
+Pay by transfer to IBAN DE62 3510 1013. Thank you for your business.

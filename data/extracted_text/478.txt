@@ -1,0 +1,12 @@
+BLACK MESA SUPPLIES
+Newark, NJ | +1-720-700-9526 | billing@black.example
+This document, no. 73237-INV, against purchase order PO-55151.
+Pay by transfer to IBAN DE84 5680 1025. Thank you for your business.
+For the following:
+- 6 x server hardware at EUR 127,01 = EUR 762,06
+- 4 x a premium support plan at EUR 466,08 = EUR 1.864,32
+Issued 10.04.2025; due 09.06.2025 (Net 30).
+Bill to J. Smith, accounts payable. Tax registration VAT752176448.
+Subtotal EUR 2.626,38.
+Tax 10% adds EUR 262,64.
+Amount Due: EUR 2.889,02.

@@ -1,0 +1,15 @@
+BLACK MESA SUPPLIES
+Bengaluru | +1-557-765-6457 | billing@black.example
+Ref #56919/INV. Account for remittance AC8771976.
+Bill to L. Chen, accounts payable. Tax registration VAT654264343.
+Issued 25 May 2025; due 06/09/2025 (Net 45).
+Pay by transfer to IBAN DE56 1555 3950. Thank you for your business.
+Subtotal INR 11,483.83.
+Tax 10% adds INR 1,148.38.
+Grand Total: INR 12,632.21.
+For the following:
+- 3 x cloud hosting at INR 536.43 = INR 1,609.29
+- 8 x a security audit at INR 580.90 = INR 4,647.20
+- 2 x a security audit at INR 42.46 = INR 84.92
+- 9 x spare parts at INR 439.16 = INR 3,952.44
+- 9 x consulting hours at INR 132.22 = INR 1,189.98

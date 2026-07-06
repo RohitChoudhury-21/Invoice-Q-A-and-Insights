@@ -1,0 +1,12 @@
+CYBERDYNE SYSTEMS
+Manchester | +1-545-245-3728 | billing@cyberdyne.example
+Document 2026/INV/51061, raised under agreement PO-41936.
+Pay by transfer to IBAN DE11 8020 6433. Thank you for your business.
+Subtotal $7,839.90.
+Shipping $25.00.
+Amount Due: $7,864.90.
+For the following:
+- 8 x server hardware at $318.12 = $2,544.96
+- 6 x design work at $882.49 = $5,294.94
+Bill to M. Garcia, accounts payable. Tax registration VAT166288936.
+Issued 24 September 2025; due 11/23/2025 (Net 30).

@@ -1,0 +1,14 @@
+WONKA INDUSTRIES
+Portland, OR | +1-360-710-7660 | billing@wonka.example
+Pay by transfer to IBAN DE51 3753 3294. Thank you for your business.
+Issued 2025-12-22; due 20.02.2026 (Net 30).
+For the following:
+- 9 x cloud hosting at INR 295.41 = INR 2,658.69
+- 10 x spare parts at INR 199.39 = INR 1,993.90
+- 11 x license renewal at INR 599.51 = INR 6,594.61
+Document 2026/INV/37398, raised under agreement PO-67467.
+Bill to M. Garcia, accounts payable. Tax registration VAT901261308.
+Subtotal INR 11,247.20.
+Tax 5% adds INR 562.36.
+Shipping INR 12.50.
+Balance Due: INR 11,822.06.

@@ -1,0 +1,13 @@
+CYBERDYNE SYSTEMS
+Portland, OR | +1-260-371-6072 | billing@cyberdyne.example
+Issued Nov 2, 2025; due Nov 17, 2025 (Net 30).
+Invoice reference INV-53099 (PO PO-84096). Please quote this on payment.
+Bill to R. O'Neil, accounts payable. Tax registration VAT632058583.
+Subtotal GBP 14,033.25.
+Please remit GBP 14,033.25 in GBP.
+Pay by transfer to IBAN DE69 3447 8941. Thank you for your business.
+For the following:
+- 7 x a data subscription at GBP 792.60 = GBP 5,548.20
+- 2 x an annual software license at GBP 635.46 = GBP 1,270.92
+- 8 x a security audit at GBP 796.32 = GBP 6,370.56
+- 1 x spare parts at GBP 843.57 = GBP 843.57

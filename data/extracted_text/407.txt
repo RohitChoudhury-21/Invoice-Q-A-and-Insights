@@ -1,0 +1,14 @@
+GLOBEX LLC
+Springfield, IL | +1-417-962-6868 | billing@globex.example
+Issued Jul 11, 2026; due 09/09/2026 (Net 45).
+This document, no. 6233-INV, against purchase order PO-58225.
+Pay by transfer to IBAN DE81 5695 9176. Thank you for your business.
+Subtotal EUR 21.370,10.
+Tax 8% adds EUR 1.709,61.
+Total: EUR 23.079,71.
+For the following:
+- 8 x an annual software license at EUR 642,22 = EUR 5.137,76
+- 3 x onsite training at EUR 630,64 = EUR 1.891,92
+- 12 x license renewal at EUR 615,51 = EUR 7.386,12
+- 10 x system installation at EUR 695,43 = EUR 6.954,30
+Bill to R. O'Neil, accounts payable. Tax registration VAT291951234.

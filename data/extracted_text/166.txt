@@ -1,0 +1,12 @@
+INITECH INC
+Dublin | +1-380-232-9443 | billing@initech.example
+Pay by transfer to IBAN DE59 5994 6798. Thank you for your business.
+Subtotal EUR 4.890,60.
+Tax 10% adds EUR 489,06.
+Balance Due: EUR 5.379,66.
+Date of issue 26.04.2025, terms Net 45, due 11.05.2025.
+Bill to A. Kapoor, accounts payable. Tax registration VAT762967163.
+Billing ID: INV-23156. Customer account AC2810477. PO PO-96725.
+For the following:
+- 11 x design work at EUR 376,56 = EUR 4.142,16
+- 11 x a premium support plan at EUR 68,04 = EUR 748,44

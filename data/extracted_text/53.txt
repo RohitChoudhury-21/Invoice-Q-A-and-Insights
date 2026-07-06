@@ -1,0 +1,14 @@
+WAYNE ENTERPRISES LTD
+Rotterdam | +1-323-406-7193 | billing@wayne.example
+Date of issue 21 July 2025, terms Net 15, due 08/20/2025.
+Subtotal $15,764.43.
+Tax 20% adds $3,152.89.
+Shipping $40.00.
+Please remit $18,957.32 in USD.
+Invoice reference INV-18349 (PO PO-85805). Please quote this on payment.
+Pay by transfer to IBAN DE71 9929 4779. Thank you for your business.
+Bill to M. Garcia, accounts payable. Tax registration VAT811945531.
+For the following:
+- 9 x server hardware at $464.33 = $4,178.97
+- 12 x cloud hosting at $202.77 = $2,433.24
+- 11 x an annual software license at $832.02 = $9,152.22

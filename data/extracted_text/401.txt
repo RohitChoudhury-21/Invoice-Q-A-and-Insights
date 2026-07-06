@@ -1,0 +1,12 @@
+GLOBEX LLC
+Portland, OR | +1-390-955-4302 | billing@globex.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT304425894.
+Ref #6857/INV. Account for remittance AC3793928.
+For the following:
+- 2 x freight and shipping at $716.88 = $1,433.76
+- 10 x spare parts at $29.78 = $297.80
+- 9 x system installation at $739.86 = $6,658.74
+Date of issue Feb 9, 2025, terms due on receipt, due 2025-02-24.
+Pay by transfer to IBAN DE60 8450 2485. Thank you for your business.
+Subtotal $8,390.30.
+Amount Due: $8,390.30.

@@ -1,0 +1,12 @@
+VANDELAY INDUSTRIES
+Rotterdam | +1-961-936-2808 | billing@vandelay.example
+Bill to M. Garcia, accounts payable. Tax registration VAT887734097.
+Invoice reference INV-92064 (PO PO-58379). Please quote this on payment.
+Pay by transfer to IBAN DE80 1583 4431. Thank you for your business.
+For the following:
+- 4 x onsite training at GBP 261.96 = GBP 1,047.84
+- 1 x a premium support plan at GBP 181.04 = GBP 181.04
+Date of issue 02/17/2026, terms due on receipt, due 2026-04-18.
+Subtotal GBP 1,228.88.
+Tax 8% adds GBP 98.31.
+Please remit GBP 1,327.19 in GBP.

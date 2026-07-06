@@ -1,0 +1,16 @@
+TYRELL CORP
+Toronto | +1-613-942-5780 | billing@tyrell.example
+Bill to J. Smith, accounts payable. Tax registration VAT993104273.
+Subtotal EUR 6.960,62.
+Tax 18% adds EUR 1.252,91.
+Shipping EUR 12,50.
+Amount Due: EUR 8.226,03.
+This document, no. 16301-INV, against purchase order PO-25970.
+For the following:
+- 6 x system installation at EUR 577,39 = EUR 3.464,34
+- 2 x spare parts at EUR 319,16 = EUR 638,32
+- 1 x design work at EUR 197,00 = EUR 197,00
+- 4 x an annual software license at EUR 249,00 = EUR 996,00
+- 2 x design work at EUR 832,48 = EUR 1.664,96
+Date of issue Apr 16, 2025, terms Net 30, due 2025-05-31.
+Pay by transfer to IBAN DE44 1965 2793. Thank you for your business.

@@ -1,0 +1,14 @@
+GEKKO AND CO
+Munich | +1-272-844-1815 | billing@gekko.example
+Bill to L. Chen, accounts payable. Tax registration VAT116293024.
+Subtotal GBP 7,675.79.
+Tax 20% adds GBP 1,535.16.
+Shipping GBP 25.00.
+Please remit GBP 9,235.95 in GBP.
+Pay by transfer to IBAN DE83 5880 2628. Thank you for your business.
+Date of issue Jan 27, 2025, terms Net 45, due 28 March 2025.
+Invoice reference INV-20207 (PO PO-97589). Please quote this on payment.
+For the following:
+- 3 x quarterly maintenance at GBP 489.63 = GBP 1,468.89
+- 3 x spare parts at GBP 326.76 = GBP 980.28
+- 7 x design work at GBP 746.66 = GBP 5,226.62

@@ -1,0 +1,13 @@
+UMBRELLA CORPORATION INC
+Rotterdam | +1-431-550-4535 | billing@umbrella.example
+Pay by transfer to IBAN DE16 5379 6667. Thank you for your business.
+Date of issue 03/18/2026, terms Net 45, due May 2, 2026.
+Ref #89771/INV. Account for remittance AC5093422.
+Bill to L. Chen, accounts payable. Tax registration VAT591162668.
+For the following:
+- 7 x freight and shipping at $453.94 = $3,177.58
+- 5 x an annual software license at $629.45 = $3,147.25
+Subtotal $6,324.83.
+Tax 18% adds $1,138.47.
+Shipping $12.50.
+Please remit $7,475.80 in USD.

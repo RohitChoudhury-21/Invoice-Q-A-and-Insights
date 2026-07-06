@@ -1,0 +1,13 @@
+TYRELL CORP
+Dublin | +1-706-688-6795 | billing@tyrell.example
+Pay by transfer to IBAN DE98 4097 9008. Thank you for your business.
+For the following:
+- 10 x server hardware at GBP 134.60 = GBP 1,346.00
+- 7 x consulting hours at GBP 860.72 = GBP 6,025.04
+- 2 x an annual software license at GBP 435.27 = GBP 870.54
+Issued 2026-06-24; due 07/24/2026 (Net 15).
+Subtotal GBP 8,241.58.
+Tax 8% adds GBP 659.33.
+Please remit GBP 8,900.91 in GBP.
+This document, no. 32626-INV, against purchase order PO-55247.
+Bill to R. O'Neil, accounts payable. Tax registration VAT366481517.

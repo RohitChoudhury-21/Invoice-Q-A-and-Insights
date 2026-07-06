@@ -1,0 +1,15 @@
+OSCORP INDUSTRIES
+Austin, TX | +1-629-739-8320 | billing@oscorp.example
+Pay by transfer to IBAN DE49 9265 1533. Thank you for your business.
+Issued 07.06.2026; due 06 August 2026 (Net 30).
+Bill to J. Smith, accounts payable. Tax registration VAT694003458.
+For the following:
+- 2 x design work at INR 351.94 = INR 703.88
+- 5 x consulting hours at INR 754.33 = INR 3,771.65
+- 11 x license renewal at INR 601.45 = INR 6,615.95
+- 2 x license renewal at INR 282.33 = INR 564.66
+- 4 x cloud hosting at INR 516.75 = INR 2,067.00
+Billing ID: INV-10513. Customer account AC2511319. PO PO-19915.
+Subtotal INR 13,723.14.
+Shipping INR 12.50.
+Please remit INR 13,735.64 in INR.

@@ -1,0 +1,13 @@
+WAYNE ENTERPRISES LTD
+Munich | +1-582-786-6099 | billing@wayne.example
+Bill to M. Garcia, accounts payable. Tax registration VAT569406834.
+Date of issue 28.07.2026, terms Net 15, due Aug 12, 2026.
+Invoice reference INV-72483 (PO PO-48851). Please quote this on payment.
+For the following:
+- 10 x a premium support plan at GBP 792.85 = GBP 7,928.50
+- 5 x design work at GBP 732.35 = GBP 3,661.75
+- 1 x a security audit at GBP 119.49 = GBP 119.49
+Subtotal GBP 11,709.74.
+Shipping GBP 25.00.
+Please remit GBP 11,734.74 in GBP.
+Pay by transfer to IBAN DE74 6846 9657. Thank you for your business.

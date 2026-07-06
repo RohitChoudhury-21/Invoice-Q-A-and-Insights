@@ -1,0 +1,12 @@
+HOOLI INC
+Dublin | +1-458-547-3512 | billing@hooli.example
+Issued 08/22/2026; due 09/21/2026 (Net 30).
+Pay by transfer to IBAN DE39 7792 6378. Thank you for your business.
+Bill to P. Novak, accounts payable. Tax registration VAT698411385.
+Invoice reference INV-97294 (PO PO-63386). Please quote this on payment.
+Subtotal $5,706.24.
+Amount Due: $5,706.24.
+For the following:
+- 5 x freight and shipping at $796.35 = $3,981.75
+- 3 x license renewal at $90.20 = $270.60
+- 3 x a data subscription at $484.63 = $1,453.89

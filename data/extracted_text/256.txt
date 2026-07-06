@@ -1,0 +1,13 @@
+GLOBEX LLC
+Rotterdam | +1-547-846-1962 | billing@globex.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT447662773.
+Pay by transfer to IBAN DE68 3659 2522. Thank you for your business.
+Date of issue 11/23/2025, terms Net 60, due 23.12.2025.
+Invoice reference INV-21361 (PO PO-52226). Please quote this on payment.
+For the following:
+- 3 x a data subscription at EUR 31,73 = EUR 95,19
+- 1 x cloud hosting at EUR 885,77 = EUR 885,77
+- 10 x onsite training at EUR 340,57 = EUR 3.405,70
+Subtotal EUR 4.386,66.
+Tax 20% adds EUR 877,33.
+Please remit EUR 5.263,99 in EUR.

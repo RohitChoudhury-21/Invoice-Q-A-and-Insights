@@ -1,0 +1,13 @@
+ACME CORP
+Munich | +1-221-740-1571 | billing@acme.example
+Subtotal $2,935.09.
+Tax 18% adds $528.32.
+Please remit $3,463.41 in USD.
+Bill to J. Smith, accounts payable. Tax registration VAT168561598.
+Pay by transfer to IBAN DE57 8779 8051. Thank you for your business.
+For the following:
+- 7 x design work at $247.97 = $1,735.79
+- 2 x a premium support plan at $340.65 = $681.30
+- 7 x system installation at $74.00 = $518.00
+Issued Sep 21, 2026; due 11/20/2026 (Net 15).
+Billing ID: INV-48904. Customer account AC4180221. PO PO-34456.

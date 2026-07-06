@@ -1,0 +1,12 @@
+WAYNE ENTERPRISES LTD
+Munich | +1-219-785-9410 | billing@wayne.example
+Bill to J. Smith, accounts payable. Tax registration VAT312452373.
+Billing ID: INV-3902. Customer account AC7057699. PO PO-81532.
+For the following:
+- 4 x a security audit at GBP 838.51 = GBP 3,354.04
+- 3 x design work at GBP 827.64 = GBP 2,482.92
+Pay by transfer to IBAN DE67 1527 2617. Thank you for your business.
+Subtotal GBP 5,836.96.
+Shipping GBP 40.00.
+Please remit GBP 5,876.96 in GBP.
+Issued 04/26/2026; due 11.05.2026 (Net 60).

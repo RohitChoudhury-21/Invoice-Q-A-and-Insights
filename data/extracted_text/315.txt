@@ -1,0 +1,14 @@
+OSCORP INDUSTRIES
+Manchester | +1-376-352-3818 | billing@oscorp.example
+Bill to R. O'Neil, accounts payable. Tax registration VAT709118446.
+For the following:
+- 1 x freight and shipping at $700.40 = $700.40
+- 4 x license renewal at $355.14 = $1,420.56
+- 11 x server hardware at $813.75 = $8,951.25
+- 8 x consulting hours at $770.61 = $6,164.88
+Pay by transfer to IBAN DE27 6145 4865. Thank you for your business.
+Invoice reference INV-52565 (PO PO-16627). Please quote this on payment.
+Issued Dec 6, 2025; due Jan 20, 2026 (Net 30).
+Subtotal $17,237.09.
+Shipping $40.00.
+Total: $17,277.09.

@@ -1,0 +1,15 @@
+VANDELAY INDUSTRIES
+Newark, NJ | +1-327-461-1144 | billing@vandelay.example
+Bill to J. Smith, accounts payable. Tax registration VAT228411672.
+Issued 06/06/2025; due 08/05/2025 (due on receipt).
+For the following:
+- 10 x system installation at INR 888.45 = INR 8,884.50
+- 11 x a data subscription at INR 126.16 = INR 1,387.76
+- 2 x spare parts at INR 550.58 = INR 1,101.16
+- 7 x quarterly maintenance at INR 245.54 = INR 1,718.78
+- 12 x a data subscription at INR 44.67 = INR 536.04
+Subtotal INR 13,628.24.
+Tax 18% adds INR 2,453.08.
+Total: INR 16,081.32.
+Billing ID: INV-71659. Customer account AC5510298. PO PO-30917.
+Pay by transfer to IBAN DE95 2750 8667. Thank you for your business.

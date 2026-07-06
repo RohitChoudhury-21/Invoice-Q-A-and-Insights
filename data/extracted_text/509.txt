@@ -1,0 +1,13 @@
+NAKATOMI TRADING
+Manchester | +1-501-211-5097 | billing@nakatomi.example
+Issued 03.01.2025; due Feb 17, 2025 (due on receipt).
+Invoice reference INV-16905 (PO PO-26443). Please quote this on payment.
+Subtotal GBP 2,399.12.
+Shipping GBP 12.50.
+Amount Due: GBP 2,411.62.
+Pay by transfer to IBAN DE91 2949 2495. Thank you for your business.
+For the following:
+- 8 x consulting hours at GBP 95.31 = GBP 762.48
+- 8 x a data subscription at GBP 132.50 = GBP 1,060.00
+- 8 x consulting hours at GBP 72.08 = GBP 576.64
+Bill to P. Novak, accounts payable. Tax registration VAT684334863.

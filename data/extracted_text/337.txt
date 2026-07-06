@@ -1,0 +1,14 @@
+UMBRELLA CORPORATION INC
+Fresno, CA | +1-794-464-2032 | billing@umbrella.example
+Issued 11/28/2026; due Jan 27, 2027 (Net 60).
+Ref #15508/INV. Account for remittance AC8643561.
+Subtotal GBP 9,171.55.
+Shipping GBP 25.00.
+Please remit GBP 9,196.55 in GBP.
+Bill to M. Garcia, accounts payable. Tax registration VAT739996745.
+For the following:
+- 4 x freight and shipping at GBP 126.48 = GBP 505.92
+- 5 x consulting hours at GBP 800.77 = GBP 4,003.85
+- 2 x consulting hours at GBP 620.28 = GBP 1,240.56
+- 11 x an annual software license at GBP 311.02 = GBP 3,421.22
+Pay by transfer to IBAN DE38 5866 7699. Thank you for your business.

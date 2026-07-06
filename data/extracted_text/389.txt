@@ -1,0 +1,13 @@
+SOYLENT CORP
+Fresno, CA | +1-464-953-1799 | billing@soylent.example
+Document 2026/INV/20943, raised under agreement PO-84403.
+For the following:
+- 8 x license renewal at GBP 846.71 = GBP 6,773.68
+- 11 x a security audit at GBP 270.65 = GBP 2,977.15
+Pay by transfer to IBAN DE74 2213 4940. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT128265669.
+Subtotal GBP 9,750.83.
+Tax 20% adds GBP 1,950.17.
+Shipping GBP 40.00.
+Amount Due: GBP 11,741.00.
+Issued 04/28/2025; due 27 June 2025 (Net 45).

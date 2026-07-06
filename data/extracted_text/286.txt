@@ -1,0 +1,13 @@
+STARK INDUSTRIES LLC
+Fresno, CA | +1-485-875-6295 | billing@stark.example
+Date of issue 13 April 2026, terms Net 30, due 2026-06-12.
+Billing ID: INV-28380. Customer account AC4187293. PO PO-43621.
+Subtotal $5,764.55.
+Please remit $5,764.55 in USD.
+For the following:
+- 12 x consulting hours at $176.25 = $2,115.00
+- 2 x quarterly maintenance at $47.17 = $94.34
+- 1 x freight and shipping at $121.41 = $121.41
+- 10 x onsite training at $343.38 = $3,433.80
+Pay by transfer to IBAN DE14 2278 4492. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT489081446.

@@ -1,0 +1,13 @@
+GLOBEX LLC
+Toronto | +1-326-879-2691 | billing@globex.example
+Pay by transfer to IBAN DE78 2997 1753. Thank you for your business.
+Bill to A. Kapoor, accounts payable. Tax registration VAT699970856.
+Subtotal $13,482.65.
+Tax 20% adds $2,696.53.
+Amount Due: $16,179.18.
+Issued Nov 28, 2025; due 27.01.2026 (Net 60).
+Ref #64531/INV. Account for remittance AC2034753.
+For the following:
+- 8 x freight and shipping at $609.09 = $4,872.72
+- 7 x design work at $325.76 = $2,280.32
+- 9 x design work at $703.29 = $6,329.61

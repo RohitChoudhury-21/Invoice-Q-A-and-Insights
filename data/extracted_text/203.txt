@@ -1,0 +1,15 @@
+WONKA INDUSTRIES
+Munich | +1-709-717-9645 | billing@wonka.example
+Pay by transfer to IBAN DE16 3543 4151. Thank you for your business.
+This document, no. 15755-INV, against purchase order PO-72744.
+For the following:
+- 8 x an annual software license at EUR 496,00 = EUR 3.968,00
+- 1 x consulting hours at EUR 817,06 = EUR 817,06
+- 10 x design work at EUR 421,71 = EUR 4.217,10
+- 8 x license renewal at EUR 354,60 = EUR 2.836,80
+- 12 x consulting hours at EUR 182,08 = EUR 2.184,96
+Subtotal EUR 14.023,92.
+Tax 5% adds EUR 701,20.
+Balance Due: EUR 14.725,12.
+Date of issue 02/13/2026, terms Net 30, due 2026-03-15.
+Bill to A. Kapoor, accounts payable. Tax registration VAT548040050.

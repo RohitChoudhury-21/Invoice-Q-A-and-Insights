@@ -1,0 +1,14 @@
+ACME CORP
+Austin, TX | +1-475-704-3573 | billing@acme.example
+Subtotal $21,569.99.
+Tax 8% adds $1,725.60.
+Please remit $23,295.59 in USD.
+For the following:
+- 4 x an annual software license at $452.78 = $1,811.12
+- 6 x system installation at $655.48 = $3,932.88
+- 11 x an annual software license at $857.39 = $9,431.29
+- 10 x design work at $639.47 = $6,394.70
+Bill to M. Garcia, accounts payable. Tax registration VAT541346476.
+Pay by transfer to IBAN DE42 6764 5827. Thank you for your business.
+Issued 07/18/2025; due 17 August 2025 (Net 60).
+This document, no. 75720-INV, against purchase order PO-50787.

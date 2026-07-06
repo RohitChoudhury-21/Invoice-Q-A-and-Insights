@@ -1,0 +1,13 @@
+PIED PIPER LLC
+Toronto | +1-969-885-1300 | billing@pied.example
+Subtotal GBP 11,909.72.
+Grand Total: GBP 11,909.72.
+Billing ID: INV-68173. Customer account AC7746770. PO PO-65164.
+Pay by transfer to IBAN DE21 1078 7281. Thank you for your business.
+Date of issue 14.09.2026, terms Net 45, due Nov 13, 2026.
+Bill to M. Garcia, accounts payable. Tax registration VAT197148782.
+For the following:
+- 8 x system installation at GBP 282.19 = GBP 2,257.52
+- 8 x system installation at GBP 533.85 = GBP 4,270.80
+- 3 x consulting hours at GBP 238.68 = GBP 716.04
+- 7 x spare parts at GBP 666.48 = GBP 4,665.36

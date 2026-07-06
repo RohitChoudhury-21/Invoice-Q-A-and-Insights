@@ -1,0 +1,13 @@
+SOYLENT CORP
+Toronto | +1-481-320-3829 | billing@soylent.example
+Billing ID: INV-53036. Customer account AC8420350. PO PO-90370.
+Subtotal GBP 2,834.98.
+Tax 18% adds GBP 510.30.
+Shipping GBP 25.00.
+Please remit GBP 3,370.28 in GBP.
+Pay by transfer to IBAN DE38 7548 4821. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT202253351.
+For the following:
+- 10 x design work at GBP 35.61 = GBP 356.10
+- 4 x quarterly maintenance at GBP 619.72 = GBP 2,478.88
+Date of issue 02/06/2026, terms Net 45, due 02/21/2026.

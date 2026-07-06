@@ -1,0 +1,13 @@
+MASSIVE DYNAMIC
+Portland, OR | +1-980-903-6922 | billing@massive.example
+Document 2026/INV/34701, raised under agreement PO-22948.
+Pay by transfer to IBAN DE67 2631 6290. Thank you for your business.
+Issued 2026-03-22; due 06.05.2026 (Net 30).
+Bill to R. O'Neil, accounts payable. Tax registration VAT214935272.
+For the following:
+- 3 x a security audit at GBP 230.21 = GBP 690.63
+- 7 x freight and shipping at GBP 83.28 = GBP 582.96
+Subtotal GBP 1,273.59.
+Tax 20% adds GBP 254.72.
+Shipping GBP 40.00.
+Please remit GBP 1,568.31 in GBP.

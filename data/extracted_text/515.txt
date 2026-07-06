@@ -1,0 +1,14 @@
+WONKA INDUSTRIES
+Springfield, IL | +1-851-718-8602 | billing@wonka.example
+This document, no. 82370-INV, against purchase order PO-94382.
+Bill to A. Kapoor, accounts payable. Tax registration VAT987989879.
+Date of issue 2025-05-08, terms Net 60, due May 23, 2025.
+Pay by transfer to IBAN DE90 7644 7421. Thank you for your business.
+For the following:
+- 4 x a security audit at GBP 285.47 = GBP 1,141.88
+- 7 x consulting hours at GBP 286.87 = GBP 2,008.09
+- 6 x a premium support plan at GBP 202.29 = GBP 1,213.74
+Subtotal GBP 4,363.71.
+Tax 10% adds GBP 436.37.
+Shipping GBP 12.50.
+Please remit GBP 4,812.58 in GBP.

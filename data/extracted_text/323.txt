@@ -1,0 +1,15 @@
+VANDELAY INDUSTRIES
+Dublin | +1-781-386-9525 | billing@vandelay.example
+This document, no. 58800-INV, against purchase order PO-78449.
+Pay by transfer to IBAN DE21 8504 1812. Thank you for your business.
+Subtotal INR 19,563.22.
+Shipping INR 12.50.
+Grand Total: INR 19,575.72.
+Issued Feb 26, 2026; due 2026-04-12 (Net 30).
+Bill to J. Smith, accounts payable. Tax registration VAT972836850.
+For the following:
+- 5 x an annual software license at INR 444.67 = INR 2,223.35
+- 11 x a data subscription at INR 97.67 = INR 1,074.37
+- 11 x system installation at INR 657.19 = INR 7,229.09
+- 7 x design work at INR 689.57 = INR 4,826.99
+- 6 x an annual software license at INR 701.57 = INR 4,209.42

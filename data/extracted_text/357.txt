@@ -1,0 +1,13 @@
+ACME CORP
+Toronto | +1-987-433-9928 | billing@acme.example
+Issued Jun 3, 2026; due 18.07.2026 (Net 45).
+For the following:
+- 3 x a premium support plan at INR 16.68 = INR 50.04
+- 9 x consulting hours at INR 665.14 = INR 5,986.26
+- 5 x server hardware at INR 732.66 = INR 3,663.30
+Subtotal INR 9,699.60.
+Tax 5% adds INR 484.98.
+Please remit INR 10,184.58 in INR.
+Bill to R. O'Neil, accounts payable. Tax registration VAT944058296.
+Document 2026/INV/32802, raised under agreement PO-49133.
+Pay by transfer to IBAN DE34 8482 2074. Thank you for your business.

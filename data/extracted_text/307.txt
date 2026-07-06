@@ -1,0 +1,12 @@
+BLUTH COMPANY
+Newark, NJ | +1-791-565-4438 | billing@bluth.example
+For the following:
+- 3 x onsite training at INR 59.60 = INR 178.80
+- 6 x license renewal at INR 854.67 = INR 5,128.02
+Issued 2025-07-01; due Jul 16, 2025 (Net 15).
+This document, no. 34739-INV, against purchase order PO-71942.
+Bill to M. Garcia, accounts payable. Tax registration VAT679969840.
+Pay by transfer to IBAN DE53 9127 3241. Thank you for your business.
+Subtotal INR 5,306.82.
+Shipping INR 12.50.
+Amount Due: INR 5,319.32.

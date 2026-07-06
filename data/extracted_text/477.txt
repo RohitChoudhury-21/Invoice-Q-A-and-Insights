@@ -1,0 +1,14 @@
+STARK INDUSTRIES LLC
+Dublin | +1-489-474-8688 | billing@stark.example
+Subtotal GBP 6,646.19.
+Grand Total: GBP 6,646.19.
+Bill to L. Chen, accounts payable. Tax registration VAT256790045.
+Invoice reference INV-4956 (PO PO-56525). Please quote this on payment.
+Pay by transfer to IBAN DE14 7551 8713. Thank you for your business.
+For the following:
+- 5 x an annual software license at GBP 101.57 = GBP 507.85
+- 6 x an annual software license at GBP 92.24 = GBP 553.44
+- 10 x server hardware at GBP 82.94 = GBP 829.40
+- 12 x server hardware at GBP 266.84 = GBP 3,202.08
+- 2 x consulting hours at GBP 776.71 = GBP 1,553.42
+Date of issue 2025-08-07, terms Net 15, due 06 October 2025.

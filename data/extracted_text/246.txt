@@ -1,0 +1,11 @@
+PIED PIPER LLC
+Fresno, CA | +1-878-496-3461 | billing@pied.example
+Pay by transfer to IBAN DE95 2677 3112. Thank you for your business.
+Billing ID: INV-59011. Customer account AC7087771. PO PO-41346.
+Bill to P. Novak, accounts payable. Tax registration VAT397943806.
+Subtotal INR 13,073.70.
+Total: INR 13,073.70.
+For the following:
+- 10 x freight and shipping at INR 848.90 = INR 8,489.00
+- 10 x a data subscription at INR 458.47 = INR 4,584.70
+Issued Aug 18, 2025; due 17 October 2025 (due on receipt).

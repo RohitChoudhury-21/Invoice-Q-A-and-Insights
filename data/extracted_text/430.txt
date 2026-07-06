@@ -1,0 +1,15 @@
+NAKATOMI TRADING
+Springfield, IL | +1-966-537-6277 | billing@nakatomi.example
+For the following:
+- 5 x design work at $75.46 = $377.30
+- 12 x cloud hosting at $364.24 = $4,370.88
+- 5 x license renewal at $262.53 = $1,312.65
+- 8 x spare parts at $257.40 = $2,059.20
+- 4 x onsite training at $333.31 = $1,333.24
+Document 2026/INV/31748, raised under agreement PO-33131.
+Bill to J. Smith, accounts payable. Tax registration VAT430958196.
+Pay by transfer to IBAN DE96 7228 2485. Thank you for your business.
+Date of issue 25.05.2026, terms Net 45, due 24 June 2026.
+Subtotal $9,453.27.
+Tax 5% adds $472.66.
+Total: $9,925.93.

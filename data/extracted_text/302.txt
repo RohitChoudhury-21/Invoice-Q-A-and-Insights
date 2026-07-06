@@ -1,0 +1,15 @@
+TYRELL CORP
+Springfield, IL | +1-982-908-4057 | billing@tyrell.example
+Billing ID: INV-62246. Customer account AC6618884. PO PO-23117.
+Date of issue 16 March 2025, terms due on receipt, due 2025-04-30.
+For the following:
+- 9 x a security audit at INR 704.59 = INR 6,341.31
+- 6 x spare parts at INR 534.83 = INR 3,208.98
+- 11 x a premium support plan at INR 424.89 = INR 4,673.79
+- 12 x quarterly maintenance at INR 782.36 = INR 9,388.32
+- 8 x a premium support plan at INR 452.37 = INR 3,618.96
+Pay by transfer to IBAN DE97 9975 4981. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT380577229.
+Subtotal INR 27,231.36.
+Tax 5% adds INR 1,361.57.
+Please remit INR 28,592.93 in INR.

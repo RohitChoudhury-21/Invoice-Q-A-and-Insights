@@ -1,0 +1,15 @@
+SOYLENT CORP
+Springfield, IL | +1-931-988-1192 | billing@soylent.example
+Invoice reference INV-60639 (PO PO-87826). Please quote this on payment.
+Subtotal EUR 9.563,79.
+Tax 18% adds EUR 1.721,48.
+Shipping EUR 25,00.
+Please remit EUR 11.310,27 in EUR.
+Bill to R. O'Neil, accounts payable. Tax registration VAT910023502.
+Pay by transfer to IBAN DE19 5573 3925. Thank you for your business.
+Date of issue Oct 22, 2025, terms Net 60, due 21.11.2025.
+For the following:
+- 4 x design work at EUR 189,50 = EUR 758,00
+- 9 x spare parts at EUR 141,46 = EUR 1.273,14
+- 11 x license renewal at EUR 661,72 = EUR 7.278,92
+- 1 x consulting hours at EUR 253,73 = EUR 253,73

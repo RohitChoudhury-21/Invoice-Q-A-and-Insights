@@ -1,0 +1,15 @@
+UMBRELLA CORPORATION INC
+Fresno, CA | +1-301-306-6841 | billing@umbrella.example
+Invoice reference INV-18152 (PO PO-80228). Please quote this on payment.
+Subtotal GBP 5,442.62.
+Shipping GBP 40.00.
+Please remit GBP 5,482.62 in GBP.
+Pay by transfer to IBAN DE91 8273 8097. Thank you for your business.
+For the following:
+- 6 x onsite training at GBP 431.02 = GBP 2,586.12
+- 3 x freight and shipping at GBP 516.75 = GBP 1,550.25
+- 1 x cloud hosting at GBP 264.37 = GBP 264.37
+- 1 x spare parts at GBP 493.08 = GBP 493.08
+- 4 x a data subscription at GBP 137.20 = GBP 548.80
+Bill to L. Chen, accounts payable. Tax registration VAT551077731.
+Issued 25 November 2026; due 10 December 2026 (Net 45).

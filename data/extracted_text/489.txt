@@ -1,0 +1,13 @@
+PIED PIPER LLC
+Toronto | +1-589-380-7724 | billing@pied.example
+Pay by transfer to IBAN DE71 1899 2323. Thank you for your business.
+Issued 2026-09-23; due Nov 22, 2026 (due on receipt).
+Billing ID: INV-59643. Customer account AC4780983. PO PO-77409.
+Bill to L. Chen, accounts payable. Tax registration VAT285047317.
+For the following:
+- 12 x freight and shipping at INR 317.72 = INR 3,812.64
+- 3 x an annual software license at INR 108.25 = INR 324.75
+- 12 x a security audit at INR 899.94 = INR 10,799.28
+Subtotal INR 14,936.67.
+Tax 18% adds INR 2,688.60.
+Total: INR 17,625.27.

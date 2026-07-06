@@ -1,0 +1,15 @@
+GEKKO AND CO
+Fresno, CA | +1-892-747-6089 | billing@gekko.example
+Pay by transfer to IBAN DE82 6801 9493. Thank you for your business.
+For the following:
+- 11 x freight and shipping at INR 654.99 = INR 7,204.89
+- 5 x a data subscription at INR 155.13 = INR 775.65
+- 9 x onsite training at INR 674.90 = INR 6,074.10
+- 2 x cloud hosting at INR 685.63 = INR 1,371.26
+- 4 x a security audit at INR 858.28 = INR 3,433.12
+Subtotal INR 18,859.02.
+Tax 5% adds INR 942.95.
+Grand Total: INR 19,801.97.
+Billing ID: INV-59549. Customer account AC5074665. PO PO-56187.
+Bill to A. Kapoor, accounts payable. Tax registration VAT146150715.
+Issued 2025-03-18; due 2025-05-17 (Net 15).

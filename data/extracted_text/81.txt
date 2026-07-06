@@ -1,0 +1,14 @@
+VANDELAY INDUSTRIES
+Portland, OR | +1-221-567-3853 | billing@vandelay.example
+Invoice reference INV-58279 (PO PO-99257). Please quote this on payment.
+Subtotal GBP 3,415.99.
+Tax 5% adds GBP 170.80.
+Shipping GBP 25.00.
+Please remit GBP 3,611.79 in GBP.
+For the following:
+- 9 x an annual software license at GBP 157.06 = GBP 1,413.54
+- 2 x system installation at GBP 406.19 = GBP 812.38
+- 3 x license renewal at GBP 396.69 = GBP 1,190.07
+Bill to A. Kapoor, accounts payable. Tax registration VAT342993801.
+Issued 04/07/2026; due 07 May 2026 (Net 60).
+Pay by transfer to IBAN DE40 9142 9007. Thank you for your business.

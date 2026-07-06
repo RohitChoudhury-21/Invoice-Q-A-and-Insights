@@ -1,0 +1,11 @@
+GLOBEX LLC
+Fresno, CA | +1-408-661-1724 | billing@globex.example
+Subtotal GBP 11,964.96.
+Please remit GBP 11,964.96 in GBP.
+Date of issue 20.12.2025, terms Net 30, due 18 February 2026.
+Bill to J. Smith, accounts payable. Tax registration VAT855206042.
+Pay by transfer to IBAN DE16 4630 5886. Thank you for your business.
+For the following:
+- 8 x cloud hosting at GBP 574.12 = GBP 4,592.96
+- 10 x consulting hours at GBP 737.20 = GBP 7,372.00
+Document 2026/INV/68962, raised under agreement PO-12114.

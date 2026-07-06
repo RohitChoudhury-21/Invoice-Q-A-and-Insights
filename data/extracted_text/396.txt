@@ -1,0 +1,13 @@
+HOOLI INC
+Austin, TX | +1-201-913-1791 | billing@hooli.example
+For the following:
+- 8 x a security audit at EUR 492,82 = EUR 3.942,56
+- 12 x onsite training at EUR 407,23 = EUR 4.886,76
+Bill to J. Smith, accounts payable. Tax registration VAT123872033.
+Pay by transfer to IBAN DE28 1488 5288. Thank you for your business.
+Invoice reference INV-95449 (PO PO-47347). Please quote this on payment.
+Subtotal EUR 8.829,32.
+Tax 18% adds EUR 1.589,28.
+Shipping EUR 12,50.
+Grand Total: EUR 10.431,10.
+Date of issue 11 July 2026, terms Net 45, due 26.07.2026.

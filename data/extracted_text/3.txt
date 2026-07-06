@@ -1,0 +1,14 @@
+WAYNE ENTERPRISES LTD
+Munich | +1-919-994-7139 | billing@wayne.example
+Date of issue 11.12.2025, terms Net 45, due 2026-02-09.
+Document 2026/INV/83490, raised under agreement PO-64304.
+Bill to J. Smith, accounts payable. Tax registration VAT192843870.
+For the following:
+- 5 x quarterly maintenance at GBP 266.48 = GBP 1,332.40
+- 9 x license renewal at GBP 363.12 = GBP 3,268.08
+- 1 x a security audit at GBP 440.00 = GBP 440.00
+Subtotal GBP 5,040.48.
+Tax 20% adds GBP 1,008.10.
+Shipping GBP 12.50.
+Please remit GBP 6,061.08 in GBP.
+Pay by transfer to IBAN DE66 9330 2768. Thank you for your business.

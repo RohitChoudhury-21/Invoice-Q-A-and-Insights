@@ -1,0 +1,13 @@
+WAYNE ENTERPRISES LTD
+Fresno, CA | +1-715-498-7150 | billing@wayne.example
+Subtotal GBP 6,075.02.
+Tax 8% adds GBP 486.00.
+Shipping GBP 12.50.
+Please remit GBP 6,573.52 in GBP.
+Bill to P. Novak, accounts payable. Tax registration VAT195580686.
+Pay by transfer to IBAN DE82 8161 3127. Thank you for your business.
+For the following:
+- 3 x system installation at GBP 640.10 = GBP 1,920.30
+- 8 x a premium support plan at GBP 519.34 = GBP 4,154.72
+Document 2026/INV/77029, raised under agreement PO-17153.
+Issued 11/04/2025; due 12/19/2025 (due on receipt).

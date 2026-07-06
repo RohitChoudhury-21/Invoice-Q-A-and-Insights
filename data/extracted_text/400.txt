@@ -1,0 +1,14 @@
+PIED PIPER LLC
+Denver, CO | +1-702-267-2301 | billing@pied.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT586279630.
+Pay by transfer to IBAN DE56 6434 5951. Thank you for your business.
+Subtotal INR 9,633.00.
+Tax 5% adds INR 481.65.
+Please remit INR 10,114.65 in INR.
+For the following:
+- 2 x onsite training at INR 500.61 = INR 1,001.22
+- 7 x a data subscription at INR 860.76 = INR 6,025.32
+- 8 x server hardware at INR 108.45 = INR 867.60
+- 2 x quarterly maintenance at INR 869.43 = INR 1,738.86
+Billing ID: INV-35429. Customer account AC2052334. PO PO-60531.
+Issued 2025-06-07; due 08/06/2025 (Net 45).

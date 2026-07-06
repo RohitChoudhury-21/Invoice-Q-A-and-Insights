@@ -1,0 +1,15 @@
+PIED PIPER LLC
+Rotterdam | +1-222-779-7577 | billing@pied.example
+Issued 17.02.2025; due 19 March 2025 (Net 60).
+Bill to A. Kapoor, accounts payable. Tax registration VAT220305923.
+For the following:
+- 1 x a security audit at GBP 409.49 = GBP 409.49
+- 10 x system installation at GBP 820.79 = GBP 8,207.90
+- 6 x consulting hours at GBP 125.74 = GBP 754.44
+- 9 x freight and shipping at GBP 193.33 = GBP 1,739.97
+- 10 x design work at GBP 732.12 = GBP 7,321.20
+Pay by transfer to IBAN DE22 6279 8329. Thank you for your business.
+Subtotal GBP 18,433.00.
+Tax 8% adds GBP 1,474.64.
+Amount Due: GBP 19,907.64.
+Document 2026/INV/71937, raised under agreement PO-11569.

@@ -1,0 +1,14 @@
+BLACK MESA SUPPLIES
+Austin, TX | +1-368-610-9864 | billing@black.example
+Subtotal EUR 11.384,53.
+Tax 5% adds EUR 569,23.
+Shipping EUR 12,50.
+Amount Due: EUR 11.966,26.
+Pay by transfer to IBAN DE88 8827 9282. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT558710406.
+This document, no. 36819-INV, against purchase order PO-70989.
+Issued 09/02/2025; due Sep 17, 2025 (Net 60).
+For the following:
+- 8 x quarterly maintenance at EUR 767,06 = EUR 6.136,48
+- 6 x server hardware at EUR 801,63 = EUR 4.809,78
+- 7 x quarterly maintenance at EUR 62,61 = EUR 438,27

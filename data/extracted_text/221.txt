@@ -1,0 +1,13 @@
+ACME CORP
+Austin, TX | +1-473-587-1526 | billing@acme.example
+Date of issue 05.07.2025, terms due on receipt, due 2025-09-03.
+Subtotal INR 15,449.12.
+Tax 10% adds INR 1,544.91.
+Shipping INR 25.00.
+Please remit INR 17,019.03 in INR.
+Bill to L. Chen, accounts payable. Tax registration VAT198822465.
+Billing ID: INV-44741. Customer account AC3051161. PO PO-18903.
+Pay by transfer to IBAN DE79 6639 2223. Thank you for your business.
+For the following:
+- 8 x cloud hosting at INR 797.62 = INR 6,380.96
+- 12 x system installation at INR 755.68 = INR 9,068.16

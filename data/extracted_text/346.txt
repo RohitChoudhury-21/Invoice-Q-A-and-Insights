@@ -1,0 +1,16 @@
+GLOBEX LLC
+Munich | +1-351-723-1445 | billing@globex.example
+Issued 20.05.2026; due 19 June 2026 (Net 45).
+Pay by transfer to IBAN DE30 7989 7231. Thank you for your business.
+Invoice reference INV-59487 (PO PO-87652). Please quote this on payment.
+Bill to L. Chen, accounts payable. Tax registration VAT654021952.
+For the following:
+- 4 x consulting hours at $819.21 = $3,276.84
+- 12 x freight and shipping at $287.57 = $3,450.84
+- 2 x a security audit at $68.35 = $136.70
+- 3 x onsite training at $482.33 = $1,446.99
+- 11 x spare parts at $491.17 = $5,402.87
+Subtotal $13,714.24.
+Tax 10% adds $1,371.42.
+Shipping $25.00.
+Please remit $15,110.66 in USD.

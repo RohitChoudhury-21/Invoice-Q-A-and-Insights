@@ -1,0 +1,13 @@
+BLACK MESA SUPPLIES
+Toronto | +1-330-681-1775 | billing@black.example
+Pay by transfer to IBAN DE98 5906 2601. Thank you for your business.
+This document, no. 91084-INV, against purchase order PO-85857.
+Bill to R. O'Neil, accounts payable. Tax registration VAT902097139.
+Subtotal GBP 23,404.63.
+Please remit GBP 23,404.63 in GBP.
+Date of issue 17 March 2025, terms Net 15, due Apr 16, 2025.
+For the following:
+- 12 x design work at GBP 804.91 = GBP 9,658.92
+- 5 x onsite training at GBP 446.49 = GBP 2,232.45
+- 11 x consulting hours at GBP 121.82 = GBP 1,340.02
+- 12 x consulting hours at GBP 847.77 = GBP 10,173.24

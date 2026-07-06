@@ -1,0 +1,13 @@
+UMBRELLA CORPORATION INC
+Toronto | +1-621-486-2585 | billing@umbrella.example
+Pay by transfer to IBAN DE17 6635 8994. Thank you for your business.
+Bill to M. Garcia, accounts payable. Tax registration VAT999980212.
+Date of issue 12/03/2025, terms due on receipt, due 17.01.2026.
+For the following:
+- 4 x freight and shipping at GBP 326.10 = GBP 1,304.40
+- 4 x spare parts at GBP 465.94 = GBP 1,863.76
+- 1 x design work at GBP 27.76 = GBP 27.76
+Subtotal GBP 3,195.92.
+Tax 18% adds GBP 575.27.
+Please remit GBP 3,771.19 in GBP.
+Document 2026/INV/12934, raised under agreement PO-75335.

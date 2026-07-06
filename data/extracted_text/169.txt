@@ -1,0 +1,14 @@
+VANDELAY INDUSTRIES
+Springfield, IL | +1-703-525-8017 | billing@vandelay.example
+Document 2026/INV/78025, raised under agreement PO-77056.
+Bill to J. Smith, accounts payable. Tax registration VAT892623958.
+Pay by transfer to IBAN DE68 9399 4607. Thank you for your business.
+For the following:
+- 5 x a security audit at GBP 636.96 = GBP 3,184.80
+- 6 x onsite training at GBP 874.80 = GBP 5,248.80
+- 1 x server hardware at GBP 840.31 = GBP 840.31
+- 7 x freight and shipping at GBP 281.99 = GBP 1,973.93
+Date of issue Jan 28, 2025, terms Net 45, due 03/29/2025.
+Subtotal GBP 11,247.84.
+Shipping GBP 40.00.
+Amount Due: GBP 11,287.84.

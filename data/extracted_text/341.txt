@@ -1,0 +1,13 @@
+WONKA INDUSTRIES
+Newark, NJ | +1-876-676-1343 | billing@wonka.example
+Bill to J. Smith, accounts payable. Tax registration VAT739694357.
+Date of issue 02/07/2026, terms Net 15, due 09.03.2026.
+Pay by transfer to IBAN DE39 3749 9396. Thank you for your business.
+For the following:
+- 2 x a premium support plan at GBP 422.18 = GBP 844.36
+- 10 x onsite training at GBP 819.53 = GBP 8,195.30
+- 1 x an annual software license at GBP 346.41 = GBP 346.41
+Subtotal GBP 9,386.07.
+Shipping GBP 12.50.
+Balance Due: GBP 9,398.57.
+Billing ID: INV-25938. Customer account AC5899259. PO PO-34957.

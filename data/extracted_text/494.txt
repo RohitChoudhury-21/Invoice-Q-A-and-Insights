@@ -1,0 +1,15 @@
+UMBRELLA CORPORATION INC
+Munich | +1-303-994-8728 | billing@umbrella.example
+Subtotal INR 8,265.50.
+Shipping INR 12.50.
+Please remit INR 8,278.00 in INR.
+Bill to M. Garcia, accounts payable. Tax registration VAT471207829.
+Date of issue 02/09/2025, terms Net 15, due Apr 10, 2025.
+Pay by transfer to IBAN DE27 7086 9369. Thank you for your business.
+For the following:
+- 11 x quarterly maintenance at INR 54.33 = INR 597.63
+- 1 x an annual software license at INR 866.49 = INR 866.49
+- 4 x design work at INR 887.63 = INR 3,550.52
+- 3 x a security audit at INR 30.96 = INR 92.88
+- 7 x license renewal at INR 451.14 = INR 3,157.98
+This document, no. 89327-INV, against purchase order PO-32778.

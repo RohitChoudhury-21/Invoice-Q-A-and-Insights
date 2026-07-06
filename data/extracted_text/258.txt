@@ -1,0 +1,12 @@
+SOYLENT CORP
+Bengaluru | +1-985-444-7956 | billing@soylent.example
+Pay by transfer to IBAN DE57 9660 9739. Thank you for your business.
+Date of issue Dec 10, 2025, terms Net 30, due 2025-12-25.
+For the following:
+- 12 x a security audit at EUR 199,36 = EUR 2.392,32
+- 2 x design work at EUR 413,09 = EUR 826,18
+Bill to J. Smith, accounts payable. Tax registration VAT180160383.
+Invoice reference INV-12003 (PO PO-42393). Please quote this on payment.
+Subtotal EUR 3.218,50.
+Tax 5% adds EUR 160,93.
+Grand Total: EUR 3.379,43.

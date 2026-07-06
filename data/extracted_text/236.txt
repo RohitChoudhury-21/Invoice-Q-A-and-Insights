@@ -1,0 +1,13 @@
+ACME CORP
+Bengaluru | +1-606-275-9623 | billing@acme.example
+Pay by transfer to IBAN DE10 3319 4686. Thank you for your business.
+Billing ID: INV-51337. Customer account AC1778754. PO PO-35960.
+For the following:
+- 4 x license renewal at EUR 470,17 = EUR 1.880,68
+- 10 x cloud hosting at EUR 763,68 = EUR 7.636,80
+- 8 x a data subscription at EUR 678,50 = EUR 5.428,00
+Subtotal EUR 14.945,48.
+Tax 18% adds EUR 2.690,19.
+Total: EUR 17.635,67.
+Bill to P. Novak, accounts payable. Tax registration VAT531940493.
+Date of issue 2026-04-13, terms Net 60, due 12.06.2026.

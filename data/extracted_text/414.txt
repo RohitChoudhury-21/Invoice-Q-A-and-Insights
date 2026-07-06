@@ -1,0 +1,13 @@
+CYBERDYNE SYSTEMS
+Munich | +1-391-352-9149 | billing@cyberdyne.example
+Issued 2026-04-19; due 18.06.2026 (Net 45).
+Pay by transfer to IBAN DE15 6295 8570. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT455801659.
+Billing ID: INV-35693. Customer account AC8712939. PO PO-48677.
+For the following:
+- 10 x spare parts at INR 397.14 = INR 3,971.40
+- 6 x system installation at INR 732.76 = INR 4,396.56
+- 2 x cloud hosting at INR 312.81 = INR 625.62
+Subtotal INR 8,993.58.
+Tax 20% adds INR 1,798.72.
+Amount Due: INR 10,792.30.

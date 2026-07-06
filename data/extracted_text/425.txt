@@ -1,0 +1,14 @@
+TYRELL CORP
+Austin, TX | +1-948-801-2127 | billing@tyrell.example
+Pay by transfer to IBAN DE87 8328 9219. Thank you for your business.
+Bill to R. O'Neil, accounts payable. Tax registration VAT802040524.
+Subtotal GBP 22,787.20.
+Tax 10% adds GBP 2,278.72.
+Please remit GBP 25,065.92 in GBP.
+Date of issue 06 August 2025, terms due on receipt, due Oct 5, 2025.
+Billing ID: INV-47719. Customer account AC1170954. PO PO-49307.
+For the following:
+- 5 x onsite training at GBP 873.93 = GBP 4,369.65
+- 11 x a premium support plan at GBP 751.49 = GBP 8,266.39
+- 12 x quarterly maintenance at GBP 94.79 = GBP 1,137.48
+- 12 x freight and shipping at GBP 751.14 = GBP 9,013.68

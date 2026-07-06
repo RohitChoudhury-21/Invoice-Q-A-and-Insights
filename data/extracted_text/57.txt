@@ -1,0 +1,12 @@
+GLOBEX LLC
+Munich | +1-325-938-5367 | billing@globex.example
+Pay by transfer to IBAN DE35 1905 6919. Thank you for your business.
+Subtotal GBP 11,202.78.
+Grand Total: GBP 11,202.78.
+For the following:
+- 9 x spare parts at GBP 50.95 = GBP 458.55
+- 12 x license renewal at GBP 602.29 = GBP 7,227.48
+- 9 x a premium support plan at GBP 390.75 = GBP 3,516.75
+This document, no. 58963-INV, against purchase order PO-86997.
+Bill to L. Chen, accounts payable. Tax registration VAT592131714.
+Issued 11 January 2025; due Mar 12, 2025 (Net 60).

@@ -1,0 +1,15 @@
+OSCORP INDUSTRIES
+Dublin | +1-866-558-4640 | billing@oscorp.example
+Bill to J. Smith, accounts payable. Tax registration VAT351153772.
+Pay by transfer to IBAN DE18 6247 7302. Thank you for your business.
+For the following:
+- 7 x onsite training at EUR 849,23 = EUR 5.944,61
+- 6 x spare parts at EUR 334,99 = EUR 2.009,94
+- 11 x a premium support plan at EUR 787,46 = EUR 8.662,06
+- 5 x onsite training at EUR 817,78 = EUR 4.088,90
+Issued 2025-06-20; due 05.07.2025 (Net 15).
+Subtotal EUR 20.705,51.
+Tax 8% adds EUR 1.656,44.
+Shipping EUR 40,00.
+Grand Total: EUR 22.401,95.
+This document, no. 27235-INV, against purchase order PO-60407.

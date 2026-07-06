@@ -1,0 +1,14 @@
+UMBRELLA CORPORATION INC
+Newark, NJ | +1-844-368-1719 | billing@umbrella.example
+Issued 12.01.2025; due Feb 11, 2025 (due on receipt).
+Invoice reference INV-81949 (PO PO-97846). Please quote this on payment.
+Bill to P. Novak, accounts payable. Tax registration VAT141761790.
+For the following:
+- 9 x a security audit at GBP 399.58 = GBP 3,596.22
+- 4 x consulting hours at GBP 475.48 = GBP 1,901.92
+- 6 x quarterly maintenance at GBP 31.84 = GBP 191.04
+- 1 x design work at GBP 164.10 = GBP 164.10
+Pay by transfer to IBAN DE73 7395 9870. Thank you for your business.
+Subtotal GBP 5,853.28.
+Tax 18% adds GBP 1,053.59.
+Please remit GBP 6,906.87 in GBP.

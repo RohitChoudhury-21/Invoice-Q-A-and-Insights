@@ -1,0 +1,14 @@
+OSCORP INDUSTRIES
+Rotterdam | +1-431-882-3557 | billing@oscorp.example
+Bill to J. Smith, accounts payable. Tax registration VAT406771244.
+Issued 2026-05-16; due 15 June 2026 (Net 45).
+For the following:
+- 7 x freight and shipping at INR 46.11 = INR 322.77
+- 10 x quarterly maintenance at INR 707.62 = INR 7,076.20
+- 4 x cloud hosting at INR 152.29 = INR 609.16
+Subtotal INR 8,008.13.
+Tax 8% adds INR 640.65.
+Shipping INR 40.00.
+Total: INR 8,688.78.
+Document 2026/INV/85710, raised under agreement PO-98258.
+Pay by transfer to IBAN DE85 9023 6419. Thank you for your business.

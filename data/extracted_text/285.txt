@@ -1,0 +1,13 @@
+VANDELAY INDUSTRIES
+Bengaluru | +1-209-730-5143 | billing@vandelay.example
+Subtotal EUR 18.122,68.
+Amount Due: EUR 18.122,68.
+Billing ID: INV-39288. Customer account AC9929558. PO PO-93134.
+Bill to M. Garcia, accounts payable. Tax registration VAT686179520.
+For the following:
+- 9 x design work at EUR 691,51 = EUR 6.223,59
+- 8 x a security audit at EUR 527,89 = EUR 4.223,12
+- 5 x a data subscription at EUR 131,95 = EUR 659,75
+- 9 x an annual software license at EUR 779,58 = EUR 7.016,22
+Date of issue 08/08/2025, terms Net 30, due 09/07/2025.
+Pay by transfer to IBAN DE80 3851 1562. Thank you for your business.

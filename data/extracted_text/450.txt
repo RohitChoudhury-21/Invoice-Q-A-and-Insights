@@ -1,0 +1,15 @@
+WONKA INDUSTRIES
+Rotterdam | +1-964-944-7623 | billing@wonka.example
+Pay by transfer to IBAN DE92 2021 9328. Thank you for your business.
+Billing ID: INV-83371. Customer account AC1808011. PO PO-96283.
+Issued 2026-03-19; due 04/18/2026 (Net 45).
+Bill to R. O'Neil, accounts payable. Tax registration VAT653370940.
+Subtotal $18,977.16.
+Tax 5% adds $948.86.
+Amount Due: $19,926.02.
+For the following:
+- 12 x quarterly maintenance at $752.75 = $9,033.00
+- 1 x system installation at $537.17 = $537.17
+- 10 x cloud hosting at $371.71 = $3,717.10
+- 9 x design work at $424.51 = $3,820.59
+- 9 x freight and shipping at $207.70 = $1,869.30

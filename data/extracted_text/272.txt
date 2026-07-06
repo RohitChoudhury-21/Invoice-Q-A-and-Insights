@@ -1,0 +1,12 @@
+VANDELAY INDUSTRIES
+Austin, TX | +1-289-518-7180 | billing@vandelay.example
+For the following:
+- 10 x quarterly maintenance at $455.81 = $4,558.10
+- 12 x quarterly maintenance at $36.41 = $436.92
+Invoice reference INV-23033 (PO PO-46152). Please quote this on payment.
+Subtotal $4,995.02.
+Tax 5% adds $249.75.
+Amount Due: $5,244.77.
+Date of issue 2025-12-02, terms due on receipt, due Dec 17, 2025.
+Pay by transfer to IBAN DE35 4853 9637. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT567432517.

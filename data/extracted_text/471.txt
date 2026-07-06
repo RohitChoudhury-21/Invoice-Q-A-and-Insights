@@ -1,0 +1,15 @@
+TYRELL CORP
+Rotterdam | +1-803-723-7745 | billing@tyrell.example
+Subtotal EUR 23.863,87.
+Tax 18% adds EUR 4.295,50.
+Balance Due: EUR 28.159,37.
+Date of issue 08/23/2026, terms Net 60, due 10/07/2026.
+For the following:
+- 11 x a data subscription at EUR 648,80 = EUR 7.136,80
+- 12 x freight and shipping at EUR 612,12 = EUR 7.345,44
+- 3 x consulting hours at EUR 292,29 = EUR 876,87
+- 12 x cloud hosting at EUR 559,30 = EUR 6.711,60
+- 12 x system installation at EUR 149,43 = EUR 1.793,16
+Invoice reference INV-49439 (PO PO-31782). Please quote this on payment.
+Bill to A. Kapoor, accounts payable. Tax registration VAT186289662.
+Pay by transfer to IBAN DE92 4372 1086. Thank you for your business.

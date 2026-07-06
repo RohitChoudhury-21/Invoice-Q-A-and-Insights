@@ -1,0 +1,13 @@
+WONKA INDUSTRIES
+Fresno, CA | +1-740-485-3937 | billing@wonka.example
+Document 2026/INV/52456, raised under agreement PO-18554.
+Subtotal INR 9,918.64.
+Tax 10% adds INR 991.86.
+Please remit INR 10,910.50 in INR.
+Pay by transfer to IBAN DE82 8695 8103. Thank you for your business.
+For the following:
+- 4 x an annual software license at INR 79.39 = INR 317.56
+- 4 x spare parts at INR 811.47 = INR 3,245.88
+- 10 x an annual software license at INR 635.52 = INR 6,355.20
+Issued 03 October 2025; due 12/02/2025 (Net 15).
+Bill to R. O'Neil, accounts payable. Tax registration VAT805049447.

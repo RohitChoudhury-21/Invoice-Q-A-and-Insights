@@ -1,0 +1,14 @@
+GEKKO AND CO
+Rotterdam | +1-428-704-5193 | billing@gekko.example
+Billing ID: INV-69884. Customer account AC5270297. PO PO-21202.
+Issued 11/04/2026; due 2027-01-03 (due on receipt).
+For the following:
+- 9 x onsite training at INR 719.11 = INR 6,471.99
+- 6 x license renewal at INR 772.17 = INR 4,633.02
+- 7 x system installation at INR 602.61 = INR 4,218.27
+- 4 x server hardware at INR 860.93 = INR 3,443.72
+Bill to L. Chen, accounts payable. Tax registration VAT136058946.
+Subtotal INR 18,767.00.
+Tax 20% adds INR 3,753.40.
+Please remit INR 22,520.40 in INR.
+Pay by transfer to IBAN DE60 6647 7578. Thank you for your business.

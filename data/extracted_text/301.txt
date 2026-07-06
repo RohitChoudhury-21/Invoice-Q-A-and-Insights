@@ -1,0 +1,15 @@
+INITECH INC
+Springfield, IL | +1-223-777-4096 | billing@initech.example
+Subtotal $19,230.92.
+Tax 10% adds $1,923.09.
+Total: $21,154.01.
+Bill to A. Kapoor, accounts payable. Tax registration VAT301897420.
+This document, no. 67731-INV, against purchase order PO-80828.
+Pay by transfer to IBAN DE32 2980 6888. Thank you for your business.
+For the following:
+- 2 x consulting hours at $874.66 = $1,749.32
+- 10 x design work at $733.09 = $7,330.90
+- 11 x license renewal at $836.13 = $9,197.43
+- 2 x a data subscription at $284.72 = $569.44
+- 1 x a data subscription at $383.83 = $383.83
+Issued 2025-09-25; due 09 November 2025 (Net 30).

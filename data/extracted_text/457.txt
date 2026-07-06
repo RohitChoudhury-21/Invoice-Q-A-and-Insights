@@ -1,0 +1,15 @@
+ACME CORP
+Toronto | +1-650-223-8640 | billing@acme.example
+Pay by transfer to IBAN DE49 2248 9995. Thank you for your business.
+Date of issue 01/28/2026, terms Net 15, due 12.02.2026.
+Subtotal EUR 19.767,93.
+Tax 8% adds EUR 1.581,43.
+Shipping EUR 12,50.
+Please remit EUR 21.361,86 in EUR.
+Bill to L. Chen, accounts payable. Tax registration VAT804998000.
+For the following:
+- 6 x onsite training at EUR 796,47 = EUR 4.778,82
+- 6 x freight and shipping at EUR 846,08 = EUR 5.076,48
+- 3 x spare parts at EUR 272,29 = EUR 816,87
+- 12 x spare parts at EUR 757,98 = EUR 9.095,76
+This document, no. 63718-INV, against purchase order PO-35718.

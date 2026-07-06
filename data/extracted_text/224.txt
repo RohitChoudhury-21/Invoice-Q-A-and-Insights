@@ -1,0 +1,12 @@
+NAKATOMI TRADING
+Fresno, CA | +1-704-806-8766 | billing@nakatomi.example
+Document 2026/INV/35591, raised under agreement PO-22360.
+For the following:
+- 6 x an annual software license at INR 191.53 = INR 1,149.18
+- 4 x server hardware at INR 137.38 = INR 549.52
+Date of issue 2025-07-02, terms Net 45, due 16.08.2025.
+Bill to J. Smith, accounts payable. Tax registration VAT123037257.
+Pay by transfer to IBAN DE59 9912 7215. Thank you for your business.
+Subtotal INR 1,698.70.
+Tax 20% adds INR 339.74.
+Amount Due: INR 2,038.44.

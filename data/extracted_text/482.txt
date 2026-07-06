@@ -1,0 +1,14 @@
+VANDELAY INDUSTRIES
+Manchester | +1-545-701-5824 | billing@vandelay.example
+Pay by transfer to IBAN DE74 7004 3796. Thank you for your business.
+This document, no. 51292-INV, against purchase order PO-74449.
+For the following:
+- 1 x quarterly maintenance at INR 551.67 = INR 551.67
+- 2 x spare parts at INR 655.81 = INR 1,311.62
+- 12 x license renewal at INR 169.26 = INR 2,031.12
+- 8 x a data subscription at INR 45.36 = INR 362.88
+Issued 03.11.2025; due Jan 2, 2026 (Net 60).
+Bill to M. Garcia, accounts payable. Tax registration VAT596689896.
+Subtotal INR 4,257.29.
+Tax 20% adds INR 851.46.
+Please remit INR 5,108.75 in INR.

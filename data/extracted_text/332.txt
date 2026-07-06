@@ -1,0 +1,14 @@
+STARK INDUSTRIES LLC
+Portland, OR | +1-821-990-8506 | billing@stark.example
+Ref #52195/INV. Account for remittance AC4497869.
+Subtotal INR 7,370.79.
+Tax 10% adds INR 737.08.
+Shipping INR 40.00.
+Balance Due: INR 8,147.87.
+Issued 2025-09-19; due 19.10.2025 (Net 60).
+For the following:
+- 4 x an annual software license at INR 435.17 = INR 1,740.68
+- 6 x consulting hours at INR 816.87 = INR 4,901.22
+- 1 x a premium support plan at INR 728.89 = INR 728.89
+Pay by transfer to IBAN DE15 6165 8470. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT975756276.

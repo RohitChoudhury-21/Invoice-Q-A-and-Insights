@@ -1,0 +1,12 @@
+HOOLI INC
+Toronto | +1-295-979-4028 | billing@hooli.example
+Issued Mar 7, 2025; due 05/06/2025 (Net 60).
+For the following:
+- 4 x a security audit at GBP 873.62 = GBP 3,494.48
+- 8 x onsite training at GBP 46.28 = GBP 370.24
+Invoice reference INV-39713 (PO PO-12096). Please quote this on payment.
+Subtotal GBP 3,864.72.
+Tax 8% adds GBP 309.18.
+Amount Due: GBP 4,173.90.
+Bill to A. Kapoor, accounts payable. Tax registration VAT334472811.
+Pay by transfer to IBAN DE38 3892 5983. Thank you for your business.

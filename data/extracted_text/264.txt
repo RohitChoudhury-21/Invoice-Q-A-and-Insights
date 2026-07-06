@@ -1,0 +1,14 @@
+WONKA INDUSTRIES
+Denver, CO | +1-370-488-1524 | billing@wonka.example
+Subtotal EUR 9.044,40.
+Tax 10% adds EUR 904,44.
+Shipping EUR 25,00.
+Balance Due: EUR 9.973,84.
+For the following:
+- 8 x spare parts at EUR 141,69 = EUR 1.133,52
+- 10 x spare parts at EUR 696,63 = EUR 6.966,30
+- 6 x onsite training at EUR 157,43 = EUR 944,58
+Issued 06.09.2026; due 10/06/2026 (Net 30).
+Bill to A. Kapoor, accounts payable. Tax registration VAT252710859.
+This document, no. 22107-INV, against purchase order PO-91521.
+Pay by transfer to IBAN DE26 1421 8148. Thank you for your business.

@@ -1,0 +1,13 @@
+OSCORP INDUSTRIES
+Manchester | +1-665-780-1289 | billing@oscorp.example
+Subtotal $10,862.19.
+Shipping $40.00.
+Amount Due: $10,902.19.
+Bill to M. Garcia, accounts payable. Tax registration VAT395907840.
+Pay by transfer to IBAN DE55 8350 2316. Thank you for your business.
+Invoice reference INV-84662 (PO PO-78782). Please quote this on payment.
+For the following:
+- 11 x spare parts at $701.01 = $7,711.11
+- 9 x server hardware at $15.60 = $140.40
+- 9 x quarterly maintenance at $334.52 = $3,010.68
+Date of issue 05 February 2026, terms Net 15, due 2026-03-07.

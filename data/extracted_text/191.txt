@@ -1,0 +1,13 @@
+GEKKO AND CO
+Dublin | +1-996-469-2201 | billing@gekko.example
+Date of issue 22.06.2026, terms due on receipt, due 08/21/2026.
+Bill to P. Novak, accounts payable. Tax registration VAT591567543.
+Pay by transfer to IBAN DE69 3443 5319. Thank you for your business.
+Invoice reference INV-7893 (PO PO-70694). Please quote this on payment.
+Subtotal GBP 6,480.48.
+Tax 5% adds GBP 324.02.
+Please remit GBP 6,804.50 in GBP.
+For the following:
+- 6 x cloud hosting at GBP 837.29 = GBP 5,023.74
+- 2 x license renewal at GBP 214.17 = GBP 428.34
+- 8 x a data subscription at GBP 128.55 = GBP 1,028.40

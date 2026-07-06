@@ -1,0 +1,15 @@
+BLUTH COMPANY
+Manchester | +1-594-469-5369 | billing@bluth.example
+Pay by transfer to IBAN DE30 7454 2606. Thank you for your business.
+Subtotal EUR 24.468,54.
+Tax 20% adds EUR 4.893,71.
+Amount Due: EUR 29.362,25.
+Ref #63793/INV. Account for remittance AC1208296.
+Issued Mar 17, 2025; due 05/16/2025 (Net 30).
+Bill to A. Kapoor, accounts payable. Tax registration VAT191543604.
+For the following:
+- 1 x cloud hosting at EUR 105,73 = EUR 105,73
+- 7 x a premium support plan at EUR 681,96 = EUR 4.773,72
+- 11 x spare parts at EUR 616,82 = EUR 6.785,02
+- 11 x onsite training at EUR 848,07 = EUR 9.328,77
+- 10 x system installation at EUR 347,53 = EUR 3.475,30

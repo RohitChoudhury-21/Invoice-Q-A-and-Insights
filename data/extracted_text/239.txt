@@ -1,0 +1,13 @@
+UMBRELLA CORPORATION INC
+Dublin | +1-564-773-3758 | billing@umbrella.example
+For the following:
+- 5 x an annual software license at GBP 420.51 = GBP 2,102.55
+- 5 x server hardware at GBP 485.36 = GBP 2,426.80
+- 10 x a data subscription at GBP 123.25 = GBP 1,232.50
+Bill to P. Novak, accounts payable. Tax registration VAT852693653.
+Document 2026/INV/61818, raised under agreement PO-66425.
+Date of issue Oct 11, 2025, terms Net 15, due 10.12.2025.
+Pay by transfer to IBAN DE83 9070 9180. Thank you for your business.
+Subtotal GBP 5,761.85.
+Shipping GBP 12.50.
+Amount Due: GBP 5,774.35.

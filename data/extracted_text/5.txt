@@ -1,0 +1,16 @@
+WAYNE ENTERPRISES LTD
+Manchester | +1-573-783-4274 | billing@wayne.example
+Bill to L. Chen, accounts payable. Tax registration VAT641939476.
+For the following:
+- 9 x license renewal at EUR 319,29 = EUR 2.873,61
+- 10 x freight and shipping at EUR 327,65 = EUR 3.276,50
+- 11 x a security audit at EUR 499,98 = EUR 5.499,78
+- 1 x license renewal at EUR 354,57 = EUR 354,57
+- 12 x an annual software license at EUR 468,56 = EUR 5.622,72
+This document, no. 66829-INV, against purchase order PO-36933.
+Subtotal EUR 17.627,18.
+Tax 10% adds EUR 1.762,72.
+Shipping EUR 25,00.
+Grand Total: EUR 19.414,90.
+Pay by transfer to IBAN DE62 8945 6845. Thank you for your business.
+Date of issue 18 April 2025, terms Net 15, due 18 May 2025.

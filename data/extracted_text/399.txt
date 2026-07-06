@@ -1,0 +1,14 @@
+UMBRELLA CORPORATION INC
+Munich | +1-931-933-3949 | billing@umbrella.example
+Invoice reference INV-32389 (PO PO-30246). Please quote this on payment.
+Date of issue 15.07.2026, terms Net 60, due 30.07.2026.
+Pay by transfer to IBAN DE67 9149 7664. Thank you for your business.
+Subtotal GBP 21,507.42.
+Please remit GBP 21,507.42 in GBP.
+For the following:
+- 3 x freight and shipping at GBP 400.37 = GBP 1,201.11
+- 7 x freight and shipping at GBP 558.65 = GBP 3,910.55
+- 12 x design work at GBP 831.47 = GBP 9,977.64
+- 8 x spare parts at GBP 651.18 = GBP 5,209.44
+- 11 x design work at GBP 109.88 = GBP 1,208.68
+Bill to R. O'Neil, accounts payable. Tax registration VAT193399341.

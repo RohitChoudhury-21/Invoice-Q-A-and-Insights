@@ -1,0 +1,14 @@
+VANDELAY INDUSTRIES
+Toronto | +1-949-369-8267 | billing@vandelay.example
+Subtotal INR 9,796.50.
+Tax 20% adds INR 1,959.30.
+Grand Total: INR 11,755.80.
+For the following:
+- 12 x spare parts at INR 211.75 = INR 2,541.00
+- 12 x a data subscription at INR 231.14 = INR 2,773.68
+- 1 x license renewal at INR 768.82 = INR 768.82
+- 10 x cloud hosting at INR 371.30 = INR 3,713.00
+Pay by transfer to IBAN DE28 5292 8526. Thank you for your business.
+Bill to R. O'Neil, accounts payable. Tax registration VAT724309073.
+Date of issue 26.08.2025, terms Net 15, due Oct 10, 2025.
+Ref #74537/INV. Account for remittance AC4186007.

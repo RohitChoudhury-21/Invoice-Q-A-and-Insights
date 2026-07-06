@@ -1,0 +1,11 @@
+ACME CORP
+Munich | +1-961-820-3556 | billing@acme.example
+Pay by transfer to IBAN DE17 7747 8211. Thank you for your business.
+Date of issue 18.04.2025, terms Net 30, due May 18, 2025.
+Subtotal INR 3,502.08.
+Please remit INR 3,502.08 in INR.
+Invoice reference INV-44582 (PO PO-46796). Please quote this on payment.
+For the following:
+- 7 x consulting hours at INR 100.09 = INR 700.63
+- 5 x server hardware at INR 560.29 = INR 2,801.45
+Bill to P. Novak, accounts payable. Tax registration VAT612703271.

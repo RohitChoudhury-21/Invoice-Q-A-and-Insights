@@ -1,0 +1,15 @@
+UMBRELLA CORPORATION INC
+Bengaluru | +1-579-226-9233 | billing@umbrella.example
+Bill to J. Smith, accounts payable. Tax registration VAT743740107.
+Subtotal $8,202.58.
+Tax 10% adds $820.26.
+Shipping $12.50.
+Balance Due: $9,035.34.
+Billing ID: INV-52642. Customer account AC6733095. PO PO-66236.
+Issued 2026-10-05; due 12/04/2026 (Net 30).
+Pay by transfer to IBAN DE46 2822 6298. Thank you for your business.
+For the following:
+- 4 x an annual software license at $340.11 = $1,360.44
+- 9 x onsite training at $382.02 = $3,438.18
+- 3 x freight and shipping at $495.07 = $1,485.21
+- 5 x design work at $383.75 = $1,918.75

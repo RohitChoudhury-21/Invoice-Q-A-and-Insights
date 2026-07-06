@@ -1,0 +1,13 @@
+UMBRELLA CORPORATION INC
+Newark, NJ | +1-928-688-6152 | billing@umbrella.example
+Subtotal EUR 3.325,39.
+Tax 8% adds EUR 266,03.
+Shipping EUR 12,50.
+Please remit EUR 3.603,92 in EUR.
+Date of issue Oct 14, 2025, terms Net 60, due 13.11.2025.
+For the following:
+- 8 x a premium support plan at EUR 163,13 = EUR 1.305,04
+- 3 x server hardware at EUR 673,45 = EUR 2.020,35
+Bill to A. Kapoor, accounts payable. Tax registration VAT207512855.
+Pay by transfer to IBAN DE36 6200 1649. Thank you for your business.
+Invoice reference INV-6245 (PO PO-81162). Please quote this on payment.

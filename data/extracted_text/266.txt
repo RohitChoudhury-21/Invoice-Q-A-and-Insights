@@ -1,0 +1,14 @@
+NAKATOMI TRADING
+Portland, OR | +1-503-487-5979 | billing@nakatomi.example
+Subtotal INR 13,595.06.
+Shipping INR 25.00.
+Amount Due: INR 13,620.06.
+Issued 2025-01-15; due 01.03.2025 (Net 60).
+Bill to R. O'Neil, accounts payable. Tax registration VAT164129321.
+Ref #4031/INV. Account for remittance AC1004016.
+For the following:
+- 6 x an annual software license at INR 379.13 = INR 2,274.78
+- 12 x quarterly maintenance at INR 124.94 = INR 1,499.28
+- 11 x onsite training at INR 732.61 = INR 8,058.71
+- 3 x cloud hosting at INR 587.43 = INR 1,762.29
+Pay by transfer to IBAN DE70 8782 2007. Thank you for your business.

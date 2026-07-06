@@ -1,0 +1,13 @@
+BLUTH COMPANY
+Denver, CO | +1-928-749-7948 | billing@bluth.example
+Subtotal GBP 8,564.31.
+Tax 10% adds GBP 856.43.
+Total: GBP 9,420.74.
+Date of issue 2026-05-21, terms Net 60, due 06/20/2026.
+Bill to M. Garcia, accounts payable. Tax registration VAT811231194.
+For the following:
+- 1 x design work at GBP 535.31 = GBP 535.31
+- 10 x cloud hosting at GBP 170.12 = GBP 1,701.20
+- 10 x a data subscription at GBP 632.78 = GBP 6,327.80
+Ref #52079/INV. Account for remittance AC7923118.
+Pay by transfer to IBAN DE18 5376 2184. Thank you for your business.

@@ -1,0 +1,12 @@
+GEKKO AND CO
+Newark, NJ | +1-512-385-2873 | billing@gekko.example
+Bill to L. Chen, accounts payable. Tax registration VAT115887612.
+Subtotal GBP 12,790.95.
+Total: GBP 12,790.95.
+Billing ID: INV-27212. Customer account AC5188911. PO PO-98938.
+For the following:
+- 12 x cloud hosting at GBP 722.03 = GBP 8,664.36
+- 4 x license renewal at GBP 283.16 = GBP 1,132.64
+- 5 x onsite training at GBP 598.79 = GBP 2,993.95
+Pay by transfer to IBAN DE54 3529 7383. Thank you for your business.
+Issued 2025-01-28; due 02/27/2025 (Net 60).

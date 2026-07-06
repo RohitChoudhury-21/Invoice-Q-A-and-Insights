@@ -1,0 +1,14 @@
+ACME CORP
+Rotterdam | +1-226-305-5148 | billing@acme.example
+For the following:
+- 5 x freight and shipping at GBP 846.06 = GBP 4,230.30
+- 12 x freight and shipping at GBP 387.37 = GBP 4,648.44
+- 7 x quarterly maintenance at GBP 312.27 = GBP 2,185.89
+- 4 x quarterly maintenance at GBP 648.19 = GBP 2,592.76
+- 7 x server hardware at GBP 648.82 = GBP 4,541.74
+Issued 2026-03-19; due 2026-05-03 (Net 30).
+Pay by transfer to IBAN DE71 2621 7539. Thank you for your business.
+Subtotal GBP 18,199.13.
+Please remit GBP 18,199.13 in GBP.
+Ref #23554/INV. Account for remittance AC3509927.
+Bill to P. Novak, accounts payable. Tax registration VAT267195372.

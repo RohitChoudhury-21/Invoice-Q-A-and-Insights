@@ -1,0 +1,12 @@
+OSCORP INDUSTRIES
+Newark, NJ | +1-903-639-8980 | billing@oscorp.example
+Subtotal $4,941.05.
+Shipping $25.00.
+Balance Due: $4,966.05.
+Invoice reference INV-56088 (PO PO-91893). Please quote this on payment.
+Pay by transfer to IBAN DE31 2499 3084. Thank you for your business.
+Date of issue 2026-01-23, terms due on receipt, due 03/24/2026.
+For the following:
+- 1 x consulting hours at $371.21 = $371.21
+- 11 x onsite training at $415.44 = $4,569.84
+Bill to M. Garcia, accounts payable. Tax registration VAT848527218.

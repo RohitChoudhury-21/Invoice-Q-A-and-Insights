@@ -1,0 +1,12 @@
+ACME CORP
+Munich | +1-995-451-8020 | billing@acme.example
+Document 2026/INV/28860, raised under agreement PO-78918.
+Pay by transfer to IBAN DE26 9537 8664. Thank you for your business.
+Date of issue 2026-06-16, terms Net 15, due 2026-08-15.
+Subtotal INR 10,887.31.
+Tax 10% adds INR 1,088.73.
+Please remit INR 11,976.04 in INR.
+For the following:
+- 7 x a security audit at INR 806.84 = INR 5,647.88
+- 7 x freight and shipping at INR 748.49 = INR 5,239.43
+Bill to R. O'Neil, accounts payable. Tax registration VAT375906670.

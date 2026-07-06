@@ -1,0 +1,13 @@
+PIED PIPER LLC
+Toronto | +1-783-550-7204 | billing@pied.example
+Bill to J. Smith, accounts payable. Tax registration VAT570283635.
+Subtotal INR 8,231.08.
+Tax 10% adds INR 823.11.
+Shipping INR 12.50.
+Please remit INR 9,066.69 in INR.
+For the following:
+- 4 x a premium support plan at INR 728.35 = INR 2,913.40
+- 6 x server hardware at INR 886.28 = INR 5,317.68
+Ref #10471/INV. Account for remittance AC9550209.
+Date of issue 08 March 2026, terms due on receipt, due 2026-03-23.
+Pay by transfer to IBAN DE46 9430 6841. Thank you for your business.

@@ -1,0 +1,13 @@
+OSCORP INDUSTRIES
+Newark, NJ | +1-483-607-7571 | billing@oscorp.example
+Pay by transfer to IBAN DE88 2462 4826. Thank you for your business.
+Date of issue Jul 27, 2025, terms Net 30, due 10 September 2025.
+Invoice reference INV-58592 (PO PO-87797). Please quote this on payment.
+Subtotal INR 11,539.04.
+Tax 10% adds INR 1,153.90.
+Amount Due: INR 12,692.94.
+For the following:
+- 5 x design work at INR 444.92 = INR 2,224.60
+- 11 x spare parts at INR 840.39 = INR 9,244.29
+- 1 x onsite training at INR 70.15 = INR 70.15
+Bill to L. Chen, accounts payable. Tax registration VAT284870662.

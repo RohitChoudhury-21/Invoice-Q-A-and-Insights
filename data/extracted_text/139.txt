@@ -1,0 +1,13 @@
+BLUTH COMPANY
+Bengaluru | +1-832-483-4003 | billing@bluth.example
+Subtotal GBP 5,023.92.
+Please remit GBP 5,023.92 in GBP.
+Issued 2026-03-09; due 2026-03-24 (Net 30).
+Bill to M. Garcia, accounts payable. Tax registration VAT876027845.
+For the following:
+- 4 x consulting hours at GBP 630.26 = GBP 2,521.04
+- 8 x consulting hours at GBP 67.82 = GBP 542.56
+- 2 x quarterly maintenance at GBP 540.59 = GBP 1,081.18
+- 1 x a data subscription at GBP 879.14 = GBP 879.14
+This document, no. 46851-INV, against purchase order PO-61387.
+Pay by transfer to IBAN DE37 3646 2484. Thank you for your business.

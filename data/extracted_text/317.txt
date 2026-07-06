@@ -1,0 +1,14 @@
+ACME CORP
+Fresno, CA | +1-992-511-5339 | billing@acme.example
+Ref #13872/INV. Account for remittance AC7596846.
+Subtotal GBP 5,827.66.
+Tax 20% adds GBP 1,165.53.
+Shipping GBP 12.50.
+Amount Due: GBP 7,005.69.
+Bill to R. O'Neil, accounts payable. Tax registration VAT309362022.
+Date of issue Sep 11, 2025, terms Net 45, due 10/11/2025.
+For the following:
+- 4 x onsite training at GBP 560.49 = GBP 2,241.96
+- 4 x license renewal at GBP 661.54 = GBP 2,646.16
+- 6 x cloud hosting at GBP 156.59 = GBP 939.54
+Pay by transfer to IBAN DE55 2906 6815. Thank you for your business.

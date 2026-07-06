@@ -1,0 +1,15 @@
+WAYNE ENTERPRISES LTD
+Springfield, IL | +1-509-349-5949 | billing@wayne.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT429478423.
+Date of issue 28 December 2026, terms due on receipt, due 01/12/2027.
+Document 2026/INV/63906, raised under agreement PO-44559.
+For the following:
+- 1 x license renewal at INR 516.82 = INR 516.82
+- 3 x server hardware at INR 675.19 = INR 2,025.57
+- 5 x cloud hosting at INR 283.46 = INR 1,417.30
+- 7 x a security audit at INR 270.86 = INR 1,896.02
+- 8 x a security audit at INR 889.88 = INR 7,119.04
+Pay by transfer to IBAN DE31 1575 7239. Thank you for your business.
+Subtotal INR 12,974.75.
+Tax 20% adds INR 2,594.95.
+Grand Total: INR 15,569.70.

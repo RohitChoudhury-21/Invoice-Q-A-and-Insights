@@ -1,0 +1,13 @@
+OSCORP INDUSTRIES
+Springfield, IL | +1-642-825-5625 | billing@oscorp.example
+Bill to J. Smith, accounts payable. Tax registration VAT609611363.
+For the following:
+- 4 x onsite training at GBP 94.36 = GBP 377.44
+- 12 x cloud hosting at GBP 758.73 = GBP 9,104.76
+- 5 x freight and shipping at GBP 558.86 = GBP 2,794.30
+Subtotal GBP 12,276.50.
+Tax 10% adds GBP 1,227.65.
+Amount Due: GBP 13,504.15.
+Ref #70439/INV. Account for remittance AC5443493.
+Pay by transfer to IBAN DE64 8151 2112. Thank you for your business.
+Date of issue 18.03.2025, terms Net 15, due Apr 17, 2025.

@@ -1,0 +1,15 @@
+GEKKO AND CO
+Rotterdam | +1-589-896-4554 | billing@gekko.example
+Bill to M. Garcia, accounts payable. Tax registration VAT464068573.
+Pay by transfer to IBAN DE68 5561 7246. Thank you for your business.
+Date of issue 09/10/2026, terms Net 15, due 09/25/2026.
+Invoice reference INV-92867 (PO PO-40883). Please quote this on payment.
+Subtotal GBP 10,609.74.
+Tax 10% adds GBP 1,060.97.
+Shipping GBP 40.00.
+Balance Due: GBP 11,710.71.
+For the following:
+- 5 x cloud hosting at GBP 416.68 = GBP 2,083.40
+- 10 x design work at GBP 514.94 = GBP 5,149.40
+- 1 x spare parts at GBP 509.02 = GBP 509.02
+- 11 x consulting hours at GBP 260.72 = GBP 2,867.92

@@ -1,0 +1,12 @@
+GLOBEX LLC
+Dublin | +1-985-814-4458 | billing@globex.example
+Subtotal INR 16,244.19.
+Grand Total: INR 16,244.19.
+For the following:
+- 11 x cloud hosting at INR 870.77 = INR 9,578.47
+- 2 x cloud hosting at INR 328.58 = INR 657.16
+- 8 x system installation at INR 751.07 = INR 6,008.56
+Pay by transfer to IBAN DE18 3625 8461. Thank you for your business.
+Issued Nov 9, 2026; due 24 December 2026 (Net 30).
+Bill to R. O'Neil, accounts payable. Tax registration VAT316679908.
+Invoice reference INV-28314 (PO PO-96650). Please quote this on payment.

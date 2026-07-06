@@ -1,0 +1,12 @@
+SOYLENT CORP
+Newark, NJ | +1-369-294-5871 | billing@soylent.example
+Bill to J. Smith, accounts payable. Tax registration VAT548949542.
+Subtotal $4,114.26.
+Tax 20% adds $822.85.
+Amount Due: $4,937.11.
+For the following:
+- 12 x design work at $237.89 = $2,854.68
+- 3 x freight and shipping at $419.86 = $1,259.58
+Issued 2026-02-06; due 2026-03-08 (Net 60).
+Ref #90349/INV. Account for remittance AC4761214.
+Pay by transfer to IBAN DE81 5072 5196. Thank you for your business.

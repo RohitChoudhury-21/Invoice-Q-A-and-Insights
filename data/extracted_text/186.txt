@@ -1,0 +1,15 @@
+ACME CORP
+Denver, CO | +1-290-948-6115 | billing@acme.example
+Bill to R. O'Neil, accounts payable. Tax registration VAT661189723.
+Document 2026/INV/35264, raised under agreement PO-42344.
+Subtotal EUR 9.607,83.
+Tax 10% adds EUR 960,78.
+Total: EUR 10.568,61.
+Date of issue 10 December 2025, terms Net 15, due Feb 8, 2026.
+For the following:
+- 6 x a premium support plan at EUR 534,67 = EUR 3.208,02
+- 3 x a security audit at EUR 325,91 = EUR 977,73
+- 2 x an annual software license at EUR 710,63 = EUR 1.421,26
+- 6 x quarterly maintenance at EUR 186,58 = EUR 1.119,48
+- 7 x spare parts at EUR 411,62 = EUR 2.881,34
+Pay by transfer to IBAN DE57 2328 2999. Thank you for your business.

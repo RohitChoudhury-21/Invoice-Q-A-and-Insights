@@ -1,0 +1,12 @@
+HOOLI INC
+Denver, CO | +1-229-525-8816 | billing@hooli.example
+Billing ID: INV-46394. Customer account AC1390542. PO PO-88490.
+Subtotal EUR 3.231,18.
+Tax 10% adds EUR 323,12.
+Total: EUR 3.554,30.
+For the following:
+- 6 x an annual software license at EUR 285,69 = EUR 1.714,14
+- 12 x onsite training at EUR 126,42 = EUR 1.517,04
+Bill to L. Chen, accounts payable. Tax registration VAT154461097.
+Date of issue 08 October 2026, terms Net 60, due 10/23/2026.
+Pay by transfer to IBAN DE36 7542 2620. Thank you for your business.

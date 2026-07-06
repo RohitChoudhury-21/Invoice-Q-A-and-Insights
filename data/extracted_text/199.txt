@@ -1,0 +1,14 @@
+APERTURE LABS
+Toronto | +1-742-523-1762 | billing@aperture.example
+Pay by transfer to IBAN DE38 9843 3542. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT349689556.
+Subtotal $16,736.16.
+Tax 8% adds $1,338.89.
+Shipping $12.50.
+Grand Total: $18,087.55.
+For the following:
+- 12 x cloud hosting at $637.41 = $7,648.92
+- 12 x a security audit at $646.15 = $7,753.80
+- 4 x design work at $333.36 = $1,333.44
+Invoice reference INV-93354 (PO PO-36466). Please quote this on payment.
+Date of issue 07.11.2025, terms Net 60, due 22.12.2025.

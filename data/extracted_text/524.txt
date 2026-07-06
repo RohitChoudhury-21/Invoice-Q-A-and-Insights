@@ -1,0 +1,14 @@
+OSCORP INDUSTRIES
+Portland, OR | +1-491-598-2084 | billing@oscorp.example
+Date of issue 15 October 2025, terms due on receipt, due 12/14/2025.
+Bill to J. Smith, accounts payable. Tax registration VAT732014342.
+Document 2026/INV/23801, raised under agreement PO-62866.
+For the following:
+- 10 x design work at EUR 464,61 = EUR 4.646,10
+- 11 x spare parts at EUR 109,93 = EUR 1.209,23
+- 4 x design work at EUR 338,20 = EUR 1.352,80
+Pay by transfer to IBAN DE64 9737 9196. Thank you for your business.
+Subtotal EUR 7.208,13.
+Tax 10% adds EUR 720,81.
+Shipping EUR 12,50.
+Grand Total: EUR 7.941,44.

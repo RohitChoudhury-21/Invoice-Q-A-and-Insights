@@ -1,0 +1,13 @@
+WAYNE ENTERPRISES LTD
+Denver, CO | +1-812-477-8844 | billing@wayne.example
+Subtotal GBP 5,227.50.
+Tax 5% adds GBP 261.38.
+Shipping GBP 12.50.
+Please remit GBP 5,501.38 in GBP.
+Pay by transfer to IBAN DE64 5331 9334. Thank you for your business.
+Issued 07/18/2026; due 16 September 2026 (Net 15).
+This document, no. 66073-INV, against purchase order PO-90773.
+Bill to A. Kapoor, accounts payable. Tax registration VAT739332781.
+For the following:
+- 11 x license renewal at GBP 368.37 = GBP 4,052.07
+- 3 x consulting hours at GBP 391.81 = GBP 1,175.43

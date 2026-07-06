@@ -1,0 +1,14 @@
+CYBERDYNE SYSTEMS
+Denver, CO | +1-489-308-2442 | billing@cyberdyne.example
+Bill to J. Smith, accounts payable. Tax registration VAT804544686.
+Pay by transfer to IBAN DE39 7953 9389. Thank you for your business.
+This document, no. 88773-INV, against purchase order PO-37270.
+For the following:
+- 11 x spare parts at EUR 652,14 = EUR 7.173,54
+- 6 x quarterly maintenance at EUR 326,58 = EUR 1.959,48
+- 4 x system installation at EUR 498,50 = EUR 1.994,00
+Issued 12.01.2025; due 2025-03-13 (Net 60).
+Subtotal EUR 11.127,02.
+Tax 5% adds EUR 556,35.
+Shipping EUR 25,00.
+Please remit EUR 11.708,37 in EUR.

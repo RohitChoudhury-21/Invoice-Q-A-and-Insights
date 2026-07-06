@@ -1,0 +1,13 @@
+BLUTH COMPANY
+Rotterdam | +1-851-589-1573 | billing@bluth.example
+For the following:
+- 8 x design work at EUR 620,98 = EUR 4.967,84
+- 10 x freight and shipping at EUR 16,63 = EUR 166,30
+Subtotal EUR 5.134,14.
+Tax 5% adds EUR 256,71.
+Shipping EUR 40,00.
+Please remit EUR 5.430,85 in EUR.
+Document 2026/INV/43189, raised under agreement PO-48163.
+Bill to A. Kapoor, accounts payable. Tax registration VAT945578019.
+Pay by transfer to IBAN DE58 8488 9770. Thank you for your business.
+Issued May 5, 2025; due 2025-07-04 (Net 30).

@@ -1,0 +1,12 @@
+HOOLI INC
+Austin, TX | +1-286-788-2451 | billing@hooli.example
+Subtotal INR 5,070.86.
+Tax 18% adds INR 912.75.
+Please remit INR 5,983.61 in INR.
+For the following:
+- 11 x spare parts at INR 26.02 = INR 286.22
+- 7 x freight and shipping at INR 683.52 = INR 4,784.64
+Date of issue 12.03.2026, terms Net 60, due 26.04.2026.
+Bill to M. Garcia, accounts payable. Tax registration VAT919153426.
+Invoice reference INV-86733 (PO PO-29032). Please quote this on payment.
+Pay by transfer to IBAN DE23 3953 4664. Thank you for your business.

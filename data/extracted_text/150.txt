@@ -1,0 +1,14 @@
+WAYNE ENTERPRISES LTD
+Manchester | +1-755-526-4101 | billing@wayne.example
+Subtotal $14,056.88.
+Total: $14,056.88.
+Pay by transfer to IBAN DE26 8731 8713. Thank you for your business.
+Billing ID: INV-39398. Customer account AC1545206. PO PO-86736.
+Bill to M. Garcia, accounts payable. Tax registration VAT108997470.
+Date of issue 18.01.2026, terms due on receipt, due 02.02.2026.
+For the following:
+- 9 x license renewal at $746.16 = $6,715.44
+- 1 x system installation at $729.71 = $729.71
+- 7 x license renewal at $108.99 = $762.93
+- 10 x design work at $519.01 = $5,190.10
+- 7 x license renewal at $94.10 = $658.70

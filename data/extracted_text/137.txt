@@ -1,0 +1,15 @@
+WONKA INDUSTRIES
+Munich | +1-478-267-5094 | billing@wonka.example
+Billing ID: INV-77603. Customer account AC5461656. PO PO-14814.
+Date of issue 2026-11-01, terms Net 60, due Nov 16, 2026.
+Bill to M. Garcia, accounts payable. Tax registration VAT112738220.
+For the following:
+- 7 x an annual software license at GBP 286.42 = GBP 2,004.94
+- 5 x a data subscription at GBP 665.36 = GBP 3,326.80
+- 4 x onsite training at GBP 673.76 = GBP 2,695.04
+- 4 x consulting hours at GBP 870.77 = GBP 3,483.08
+- 1 x spare parts at GBP 640.92 = GBP 640.92
+Pay by transfer to IBAN DE26 7771 6692. Thank you for your business.
+Subtotal GBP 12,150.78.
+Tax 8% adds GBP 972.06.
+Amount Due: GBP 13,122.84.

@@ -1,0 +1,15 @@
+NAKATOMI TRADING
+Rotterdam | +1-606-980-7833 | billing@nakatomi.example
+Billing ID: INV-5916. Customer account AC2172206. PO PO-27851.
+Subtotal INR 25,552.32.
+Shipping INR 12.50.
+Please remit INR 25,564.82 in INR.
+Pay by transfer to IBAN DE83 5643 9270. Thank you for your business.
+Issued 2025-11-14; due Jan 13, 2026 (Net 30).
+For the following:
+- 10 x quarterly maintenance at INR 325.20 = INR 3,252.00
+- 6 x quarterly maintenance at INR 604.49 = INR 3,626.94
+- 12 x freight and shipping at INR 848.97 = INR 10,187.64
+- 9 x design work at INR 145.36 = INR 1,308.24
+- 9 x license renewal at INR 797.50 = INR 7,177.50
+Bill to P. Novak, accounts payable. Tax registration VAT846256778.

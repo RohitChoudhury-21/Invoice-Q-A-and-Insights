@@ -1,0 +1,14 @@
+NAKATOMI TRADING
+Toronto | +1-386-833-9798 | billing@nakatomi.example
+Invoice reference INV-69492 (PO PO-34950). Please quote this on payment.
+Subtotal GBP 7,844.10.
+Tax 5% adds GBP 392.20.
+Shipping GBP 25.00.
+Grand Total: GBP 8,261.30.
+For the following:
+- 8 x a premium support plan at GBP 435.42 = GBP 3,483.36
+- 7 x onsite training at GBP 520.66 = GBP 3,644.62
+- 1 x onsite training at GBP 716.12 = GBP 716.12
+Pay by transfer to IBAN DE74 4290 5842. Thank you for your business.
+Bill to R. O'Neil, accounts payable. Tax registration VAT874594608.
+Date of issue 03 September 2025, terms Net 60, due 2025-09-18.

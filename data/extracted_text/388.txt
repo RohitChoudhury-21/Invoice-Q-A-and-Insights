@@ -1,0 +1,13 @@
+OSCORP INDUSTRIES
+Springfield, IL | +1-411-278-6171 | billing@oscorp.example
+Pay by transfer to IBAN DE94 5984 2873. Thank you for your business.
+Bill to J. Smith, accounts payable. Tax registration VAT585497274.
+Invoice reference INV-61080 (PO PO-13812). Please quote this on payment.
+For the following:
+- 1 x a premium support plan at $230.40 = $230.40
+- 9 x freight and shipping at $551.71 = $4,965.39
+- 5 x freight and shipping at $829.66 = $4,148.30
+Issued 08/14/2025; due 2025-08-29 (due on receipt).
+Subtotal $9,344.09.
+Tax 5% adds $467.20.
+Grand Total: $9,811.29.

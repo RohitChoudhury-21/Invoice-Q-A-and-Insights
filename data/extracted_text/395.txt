@@ -1,0 +1,15 @@
+STARK INDUSTRIES LLC
+Portland, OR | +1-649-512-5979 | billing@stark.example
+Document 2026/INV/27006, raised under agreement PO-59508.
+Subtotal EUR 18.244,52.
+Tax 5% adds EUR 912,23.
+Please remit EUR 19.156,75 in EUR.
+Bill to M. Garcia, accounts payable. Tax registration VAT120157791.
+Date of issue 2025-03-11, terms Net 30, due 2025-05-10.
+For the following:
+- 11 x server hardware at EUR 410,25 = EUR 4.512,75
+- 11 x quarterly maintenance at EUR 181,51 = EUR 1.996,61
+- 7 x spare parts at EUR 456,66 = EUR 3.196,62
+- 10 x a data subscription at EUR 749,68 = EUR 7.496,80
+- 2 x quarterly maintenance at EUR 520,87 = EUR 1.041,74
+Pay by transfer to IBAN DE71 8768 5812. Thank you for your business.

@@ -1,0 +1,14 @@
+WONKA INDUSTRIES
+Austin, TX | +1-472-747-6161 | billing@wonka.example
+Pay by transfer to IBAN DE54 1381 2622. Thank you for your business.
+Ref #79166/INV. Account for remittance AC6948738.
+For the following:
+- 6 x license renewal at $794.02 = $4,764.12
+- 8 x onsite training at $392.83 = $3,142.64
+- 8 x server hardware at $360.90 = $2,887.20
+Issued 19 April 2025; due 2025-06-03 (due on receipt).
+Bill to J. Smith, accounts payable. Tax registration VAT106170481.
+Subtotal $10,793.96.
+Tax 20% adds $2,158.79.
+Shipping $40.00.
+Please remit $12,992.75 in USD.

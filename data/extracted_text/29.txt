@@ -1,0 +1,12 @@
+UMBRELLA CORPORATION INC
+Rotterdam | +1-467-520-3130 | billing@umbrella.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT379495029.
+Date of issue 02 September 2025, terms Net 15, due 11/01/2025.
+Pay by transfer to IBAN DE58 2919 5976. Thank you for your business.
+Billing ID: INV-41984. Customer account AC7446413. PO PO-14481.
+For the following:
+- 7 x quarterly maintenance at $690.61 = $4,834.27
+- 1 x freight and shipping at $666.91 = $666.91
+- 2 x onsite training at $236.26 = $472.52
+Subtotal $5,973.70.
+Please remit $5,973.70 in USD.

@@ -1,0 +1,14 @@
+ACME CORP
+Newark, NJ | +1-443-550-3791 | billing@acme.example
+Invoice reference INV-82540 (PO PO-80234). Please quote this on payment.
+Bill to M. Garcia, accounts payable. Tax registration VAT523050246.
+Subtotal EUR 9.690,15.
+Tax 20% adds EUR 1.938,03.
+Shipping EUR 40,00.
+Amount Due: EUR 11.668,18.
+Pay by transfer to IBAN DE48 3056 4859. Thank you for your business.
+For the following:
+- 1 x system installation at EUR 507,68 = EUR 507,68
+- 11 x license renewal at EUR 740,33 = EUR 8.143,63
+- 11 x cloud hosting at EUR 94,44 = EUR 1.038,84
+Date of issue 2025-05-02, terms Net 60, due 01.07.2025.

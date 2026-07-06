@@ -1,0 +1,13 @@
+WONKA INDUSTRIES
+Rotterdam | +1-213-617-5555 | billing@wonka.example
+Pay by transfer to IBAN DE54 8186 9011. Thank you for your business.
+Bill to L. Chen, accounts payable. Tax registration VAT304599840.
+Issued 27.11.2026; due 12.12.2026 (Net 30).
+Subtotal INR 4,702.83.
+Please remit INR 4,702.83 in INR.
+For the following:
+- 3 x cloud hosting at INR 126.63 = INR 379.89
+- 9 x system installation at INR 446.00 = INR 4,014.00
+- 2 x spare parts at INR 125.21 = INR 250.42
+- 2 x quarterly maintenance at INR 29.26 = INR 58.52
+Document 2026/INV/61230, raised under agreement PO-81522.

@@ -1,0 +1,15 @@
+VANDELAY INDUSTRIES
+Rotterdam | +1-849-891-3109 | billing@vandelay.example
+Issued 2026-01-14; due 2026-02-28 (Net 30).
+For the following:
+- 6 x cloud hosting at EUR 546,30 = EUR 3.277,80
+- 6 x system installation at EUR 860,52 = EUR 5.163,12
+- 3 x onsite training at EUR 84,60 = EUR 253,80
+- 8 x an annual software license at EUR 294,18 = EUR 2.353,44
+Subtotal EUR 11.048,16.
+Tax 20% adds EUR 2.209,63.
+Shipping EUR 40,00.
+Grand Total: EUR 13.297,79.
+Bill to J. Smith, accounts payable. Tax registration VAT212649969.
+Document 2026/INV/99929, raised under agreement PO-20217.
+Pay by transfer to IBAN DE98 9002 2583. Thank you for your business.

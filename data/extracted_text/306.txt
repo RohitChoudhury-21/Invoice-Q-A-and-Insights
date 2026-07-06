@@ -1,0 +1,14 @@
+CYBERDYNE SYSTEMS
+Bengaluru | +1-589-571-4740 | billing@cyberdyne.example
+Subtotal GBP 4,149.52.
+Tax 10% adds GBP 414.95.
+Shipping GBP 25.00.
+Amount Due: GBP 4,589.47.
+Bill to A. Kapoor, accounts payable. Tax registration VAT114053172.
+Invoice reference INV-9927 (PO PO-26828). Please quote this on payment.
+For the following:
+- 3 x cloud hosting at GBP 180.74 = GBP 542.22
+- 2 x cloud hosting at GBP 832.37 = GBP 1,664.74
+- 3 x onsite training at GBP 647.52 = GBP 1,942.56
+Pay by transfer to IBAN DE23 4483 7250. Thank you for your business.
+Issued 21 May 2025; due Jun 5, 2025 (Net 15).

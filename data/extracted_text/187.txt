@@ -1,0 +1,14 @@
+WONKA INDUSTRIES
+Toronto | +1-474-532-4209 | billing@wonka.example
+Invoice reference INV-11402 (PO PO-86870). Please quote this on payment.
+Bill to M. Garcia, accounts payable. Tax registration VAT742055656.
+Subtotal INR 14,099.17.
+Tax 8% adds INR 1,127.93.
+Total: INR 15,227.10.
+Date of issue Jul 5, 2025, terms Net 30, due 04.08.2025.
+For the following:
+- 5 x a security audit at INR 547.57 = INR 2,737.85
+- 10 x license renewal at INR 802.72 = INR 8,027.20
+- 7 x a data subscription at INR 118.84 = INR 831.88
+- 6 x a data subscription at INR 417.04 = INR 2,502.24
+Pay by transfer to IBAN DE15 7593 5354. Thank you for your business.

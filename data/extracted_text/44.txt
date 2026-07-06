@@ -1,0 +1,13 @@
+HOOLI INC
+Austin, TX | +1-682-997-1612 | billing@hooli.example
+Bill to A. Kapoor, accounts payable. Tax registration VAT793726353.
+For the following:
+- 8 x cloud hosting at $41.87 = $334.96
+- 10 x freight and shipping at $616.14 = $6,161.40
+Document 2026/INV/39704, raised under agreement PO-63232.
+Subtotal $6,496.36.
+Tax 5% adds $324.82.
+Shipping $12.50.
+Please remit $6,833.68 in USD.
+Date of issue 05 November 2025, terms Net 15, due Jan 4, 2026.
+Pay by transfer to IBAN DE99 1009 1689. Thank you for your business.

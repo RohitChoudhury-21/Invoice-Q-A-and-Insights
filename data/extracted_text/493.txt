@@ -1,0 +1,13 @@
+TYRELL CORP
+Manchester | +1-575-943-5110 | billing@tyrell.example
+Issued 15 January 2025; due 2025-03-01 (Net 15).
+Bill to M. Garcia, accounts payable. Tax registration VAT704348216.
+Pay by transfer to IBAN DE76 3781 2521. Thank you for your business.
+Subtotal EUR 401,34.
+Tax 20% adds EUR 80,27.
+Shipping EUR 25,00.
+Please remit EUR 506,61 in EUR.
+Invoice reference INV-26285 (PO PO-40281). Please quote this on payment.
+For the following:
+- 5 x spare parts at EUR 63,18 = EUR 315,90
+- 1 x server hardware at EUR 85,44 = EUR 85,44
