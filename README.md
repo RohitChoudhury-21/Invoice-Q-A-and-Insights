@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 An end-to-end AI-powered invoice processing system that transforms raw invoice PDFs into structured, searchable, and analytics-ready data using a local Large Language Model (LLM), semantic search, and Retrieval-Augmented Generation (RAG). The project combines intelligent extraction, robust validation, data cleaning, and business analytics to deliver reliable insights while minimizing hallucinations through prompt engineering and faithfulness guardrails.
 
