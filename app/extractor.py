@@ -7,7 +7,7 @@ from pydantic import ValidationError
 
 from app.llm import generate, LLMUnavailable
 from app.schemas import Invoice
-from app.prompts import get_extraction_prompt_v3 
+from app.prompts import get_extraction_prompt_v2 
 
 logger = logging.getLogger(__name__)
 
@@ -22,7 +22,7 @@ def extract_invoice_fields(
     """
     # Use default prompt if none supplied
     if prompt_fn is None:
-        prompt_fn = get_extraction_prompt_v3
+        prompt_fn = get_extraction_prompt_v2
 
     last_error_msg = None
 
@@ -58,7 +58,7 @@ def extract_invoice_fields(
 def _extract_with_llm(
     invoice_text: str,
     error_feedback: Optional[str] = None,
-    prompt_fn: Callable[[str], List[Dict[str, str]]] = get_extraction_prompt_v3
+    prompt_fn: Callable[[str], List[Dict[str, str]]] = get_extraction_prompt_v2
 ) -> Invoice:
     """
     Calls the LLM with the extraction prompt, optionally including error feedback.

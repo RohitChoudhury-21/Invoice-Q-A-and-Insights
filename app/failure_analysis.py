@@ -9,8 +9,18 @@ import json
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
-def compare_outputs(llm_inv: Invoice, regex_inv: Invoice) -> Dict[str, Any]:
+def compare_outputs(llm_inv: Invoice, regex_inv: Invoice, invoice_text: str = "") -> Dict[str, Any]:
     """Return a dict with agreement flags and confidence."""
+    # Scanned image / empty text → always low confidence
+    if not invoice_text.strip():
+        return {
+            "vendor_agree": False,
+            "total_agree": False,
+            "currency_agree": False,
+            "inv_num_agree": False,
+            "all_agree": False,
+            "confidence": "low"
+        }
     # Simple string compare for vendor (case‑insensitive)
     vendor_agree = (llm_inv.vendor.strip().lower() == regex_inv.vendor.strip().lower())
     total_agree = abs(llm_inv.total_amount - regex_inv.total_amount) < 0.01
@@ -46,7 +56,7 @@ def analyze_case(case_name: str, invoice_text: str, expected_note: str) -> Dict:
 
     # Compare if LLM succeeded
     if llm_success:
-        comparison = compare_outputs(llm_inv, regex_inv)
+        comparison = compare_outputs(llm_inv, regex_inv, invoice_text)
     else:
         comparison = {"confidence": "low", "error": "LLM failed"}
 
@@ -109,9 +119,9 @@ def main():
     ]
 
     results = []
-    for case in hard_cases:
-        logger.info(f"Analyzing case: {case['name']}")
-        analysis = analyze_case(case["name"], case["text"], case["expected"])
+    for test_case in hard_cases:
+        logger.info(f"Analyzing case: {test_case['name']}")
+        analysis = analyze_case(test_case["name"], test_case["text"], test_case["expected"])
         results.append(analysis)
 
     # Print failure table
