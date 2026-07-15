@@ -72,7 +72,7 @@ def is_faithful(answer: str, chunks: List[Dict]) -> bool:
 
 def ask(question: str, n_chunks: int = 4, prompt_fn: Callable = None) -> Dict[str, Any]:
     if prompt_fn is None:
-        prompt_fn = build_qa_prompt_v2  # default v1
+        prompt_fn = build_qa_prompt_v2  
 
     # 1. Check for invoice filter
     invoice_filter = None
