@@ -3,12 +3,17 @@ import logging
 import json
 import re
 from typing import Callable, List, Dict, Any, Optional
-
+from pydantic import BaseModel
 from app.retriever import search
 from app.llm import generate
 from app.extractor import _extract_json
 
 logger = logging.getLogger(__name__)
+
+class QAResponse(BaseModel):
+    answer: str
+    sources: list[str]
+    context_found: bool
 
 def extract_invoice_number(question: str) -> Optional[str]:
     """Find an invoice number pattern (e.g., INV-24990) in the question."""
@@ -30,8 +35,9 @@ def build_qa_prompt(question: str, chunks: List[Dict]) -> List[Dict[str, str]]:
         "If the answer is not found in the snippets, respond with exactly 'I don't know'. "
         "If the question asks for a person (e.g., CEO, founder, employee) or a role and it is NOT explicitly stated in the snippets, "
         "you must answer 'I don't know'. "
-        "You MUST return a JSON object with exactly two keys: "
-        "'answer' (string) and 'sources' (list of invoice numbers used). "
+        "You MUST return a JSON object with exactly THREE keys: "
+        "'answer' (string), 'sources' (list of invoice numbers used), "
+        "'context_found' (boolean, true only if the answer is directly backed by the snippets). "
         "Only include invoice numbers from the snippets you actually used. "
         "Return nothing else."
     )
@@ -95,13 +101,17 @@ def ask(question: str, n_chunks: int = 4, prompt_fn: Callable = None) -> Dict[st
         data = json.loads(json_str)
         answer = data.get("answer", "I don't know")
         sources = data.get("sources", [])
+        
+
         if not isinstance(sources, list):
             sources = []
         sources = [str(s) for s in sources if s]
+
     except (json.JSONDecodeError, KeyError) as e:
         logger.warning(f"Failed to parse LLM answer: {e}")
         answer = "I don't know"
         sources = []
+        context_found = None  # will be overridden later
 
     # 3.5 Post‑check for person questions (who, what is the CEO, etc.)
     person_keywords = r'\b(?:who|ceo|founder|employee|auditor|president|director|owner|manager|staff)\b'
@@ -114,18 +124,29 @@ def ask(question: str, n_chunks: int = 4, prompt_fn: Callable = None) -> Dict[st
         possible_names = [name for name in person_pattern if name.lower() not in
                           [s.lower() for s in invoice_stop_words]]
         if not possible_names:
-            logger.info("Question asks for a person but no person name found – forcing I don't know.")
+            logger.info("Question asks for a person but no person name found - forcing I don't know.")
             answer = "I don't know"
             sources = []
             # (context_found will be set later)
 
     # 4. Faithfulness check
-    if not is_faithful(answer, chunks):
+    # If LLM didn't provide context_found, fall back to manual check
+        # 4. Hybrid context_found: manual faithfulness as ultimate arbiter for numbers
+    if is_faithful(answer, chunks):
+        # All numbers in the answer appear in the chunks → factually grounded
+        context_found = True
+    else:
+        # At least one number is not in the chunks → unsafe, override LLM
+        logger.warning("Faithfulness check failed - overriding context_found to False")
         answer = "I don't know"
         sources = []
         context_found = False
-    else:
-        context_found = (answer.strip().lower() != "i don't know")
+
+    # 4.5 If the answer was overridden to "I don't know", ensure context_found is False
+    if answer.strip().lower() == "i don't know":
+        context_found = False
+
+        # (hybrid logic and person‑guardrail are above)
 
     return {
         "answer": answer,
@@ -143,7 +164,9 @@ def build_qa_prompt_v2(question: str, chunks: List[Dict]) -> List[Dict[str, str]
         "Do NOT guess, infer, or use general knowledge. "
         "If the question asks for a person, organization leader, employee count, tax rate, or any fact "
         "not present in the snippets, you MUST reply 'I don't know'. "
-        "Return a JSON object with exactly two keys: 'answer' (string) and 'sources' (list of invoice numbers). "
+        "Return a JSON object with exactly THREE keys: "
+        "'answer' (string), 'sources' (list of invoice numbers), "
+        "'context_found' (boolean, true only if the answer is directly backed by the snippets). "
         "Only include invoice numbers whose snippets you actually used. "
         "Return nothing else."
     )
